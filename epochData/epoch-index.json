@@ -1,0 +1,1202 @@
+[
+  {
+    "epoch": "1186",
+    "totalBlocks": 28419,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1187",
+    "totalBlocks": 49988,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1188",
+    "totalBlocks": 49998,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1189",
+    "totalBlocks": 49934,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1190",
+    "totalBlocks": 49989,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1191",
+    "totalBlocks": 49993,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1192",
+    "totalBlocks": 49999,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 4,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1193",
+    "totalBlocks": 49988,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 7,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1194",
+    "totalBlocks": 49993,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1195",
+    "totalBlocks": 49980,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1196",
+    "totalBlocks": 49999,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1197",
+    "totalBlocks": 49996,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 19,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1198",
+    "totalBlocks": 49999,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1199",
+    "totalBlocks": 49996,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1200",
+    "totalBlocks": 49998,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1201",
+    "totalBlocks": 49996,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1202",
+    "totalBlocks": 49998,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1203",
+    "totalBlocks": 49995,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1204",
+    "totalBlocks": 49999,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1205",
+    "totalBlocks": 49996,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1206",
+    "totalBlocks": 49993,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 7,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1207",
+    "totalBlocks": 49982,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 5,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1208",
+    "totalBlocks": 49978,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 75,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1209",
+    "totalBlocks": 49990,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1210",
+    "totalBlocks": 49982,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1211",
+    "totalBlocks": 49994,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 5,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1212",
+    "totalBlocks": 49995,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1213",
+    "totalBlocks": 49998,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1214",
+    "totalBlocks": 49991,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1215",
+    "totalBlocks": 49960,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1216",
+    "totalBlocks": 49993,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1217",
+    "totalBlocks": 49995,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1218",
+    "totalBlocks": 49992,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 5,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1219",
+    "totalBlocks": 49999,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1220",
+    "totalBlocks": 49977,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 57,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1221",
+    "totalBlocks": 50012,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 36,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1222",
+    "totalBlocks": 49999,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 9,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1223",
+    "totalBlocks": 50123,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 13,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1224",
+    "totalBlocks": 49998,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 59,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1225",
+    "totalBlocks": 49992,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1226",
+    "totalBlocks": 49999,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1227",
+    "totalBlocks": 49995,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1228",
+    "totalBlocks": 49987,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1229",
+    "totalBlocks": 50002,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 6,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1230",
+    "totalBlocks": 49997,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1231",
+    "totalBlocks": 49998,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1232",
+    "totalBlocks": 49998,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 7,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1233",
+    "totalBlocks": 49997,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 4,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1234",
+    "totalBlocks": 49905,
+    "totalTxCount": 314586,
+    "totalPriorityFeesMon": 16815.10584668682,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1235",
+    "totalBlocks": 49998,
+    "totalTxCount": 461560,
+    "totalPriorityFeesMon": 20256.111594378584,
+    "totalTimeouts": 4,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1236",
+    "totalBlocks": 49997,
+    "totalTxCount": 396088,
+    "totalPriorityFeesMon": 12037.303360725713,
+    "totalTimeouts": 6,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1237",
+    "totalBlocks": 49999,
+    "totalTxCount": 448470,
+    "totalPriorityFeesMon": 14446.582599687052,
+    "totalTimeouts": 60,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1238",
+    "totalBlocks": 49996,
+    "totalTxCount": 443617,
+    "totalPriorityFeesMon": 16338.366246848518,
+    "totalTimeouts": 27,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1239",
+    "totalBlocks": 49988,
+    "totalTxCount": 427011,
+    "totalPriorityFeesMon": 21011.958522464698,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1240",
+    "totalBlocks": 49994,
+    "totalTxCount": 395530,
+    "totalPriorityFeesMon": 12712.187072360062,
+    "totalTimeouts": 18,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1241",
+    "totalBlocks": 50000,
+    "totalTxCount": 426585,
+    "totalPriorityFeesMon": 12650.205927746629,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1242",
+    "totalBlocks": 49999,
+    "totalTxCount": 369827,
+    "totalPriorityFeesMon": 10430.197148408237,
+    "totalTimeouts": 4,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1243",
+    "totalBlocks": 49995,
+    "totalTxCount": 359762,
+    "totalPriorityFeesMon": 16654.77182425644,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1244",
+    "totalBlocks": 49999,
+    "totalTxCount": 363353,
+    "totalPriorityFeesMon": 8327.29169684055,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1245",
+    "totalBlocks": 49992,
+    "totalTxCount": 489675,
+    "totalPriorityFeesMon": 23251.56659714189,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1246",
+    "totalBlocks": 49985,
+    "totalTxCount": 442385,
+    "totalPriorityFeesMon": 14221.592081745544,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1247",
+    "totalBlocks": 49999,
+    "totalTxCount": 379088,
+    "totalPriorityFeesMon": 15978.72595000624,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1248",
+    "totalBlocks": 45360,
+    "totalTxCount": 355368,
+    "totalPriorityFeesMon": 20617.87650070323,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1260",
+    "totalBlocks": 48725,
+    "totalTxCount": 367187,
+    "totalPriorityFeesMon": 13093.72937497919,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1261",
+    "totalBlocks": 49999,
+    "totalTxCount": 320452,
+    "totalPriorityFeesMon": 3952.8042274528657,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1262",
+    "totalBlocks": 49995,
+    "totalTxCount": 345431,
+    "totalPriorityFeesMon": 10735.097262853082,
+    "totalTimeouts": 5,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1263",
+    "totalBlocks": 49999,
+    "totalTxCount": 357779,
+    "totalPriorityFeesMon": 5812.029286178985,
+    "totalTimeouts": 6,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1264",
+    "totalBlocks": 49996,
+    "totalTxCount": 393704,
+    "totalPriorityFeesMon": 8575.198133295093,
+    "totalTimeouts": 45,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1265",
+    "totalBlocks": 49996,
+    "totalTxCount": 404776,
+    "totalPriorityFeesMon": 10880.877032897555,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1266",
+    "totalBlocks": 49969,
+    "totalTxCount": 491124,
+    "totalPriorityFeesMon": 20237.640783279538,
+    "totalTimeouts": 70,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1267",
+    "totalBlocks": 49841,
+    "totalTxCount": 496353,
+    "totalPriorityFeesMon": 17900.648292976133,
+    "totalTimeouts": 134,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1268",
+    "totalBlocks": 50012,
+    "totalTxCount": 365546,
+    "totalPriorityFeesMon": 6900.305798224712,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1269",
+    "totalBlocks": 49980,
+    "totalTxCount": 379833,
+    "totalPriorityFeesMon": 18955.766324258333,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1270",
+    "totalBlocks": 49980,
+    "totalTxCount": 364308,
+    "totalPriorityFeesMon": 8067.288942041773,
+    "totalTimeouts": 5,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1271",
+    "totalBlocks": 49995,
+    "totalTxCount": 498497,
+    "totalPriorityFeesMon": 48869.24781281959,
+    "totalTimeouts": 39,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1272",
+    "totalBlocks": 49986,
+    "totalTxCount": 434268,
+    "totalPriorityFeesMon": 14461.679301830882,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1273",
+    "totalBlocks": 49993,
+    "totalTxCount": 404411,
+    "totalPriorityFeesMon": 20431.582315663803,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1274",
+    "totalBlocks": 49984,
+    "totalTxCount": 484638,
+    "totalPriorityFeesMon": 31566.16271306412,
+    "totalTimeouts": 31,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1275",
+    "totalBlocks": 49994,
+    "totalTxCount": 590154,
+    "totalPriorityFeesMon": 32188.44364007337,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1276",
+    "totalBlocks": 49995,
+    "totalTxCount": 512974,
+    "totalPriorityFeesMon": 14449.03340188747,
+    "totalTimeouts": 32,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1277",
+    "totalBlocks": 49999,
+    "totalTxCount": 485387,
+    "totalPriorityFeesMon": 30625.0621917633,
+    "totalTimeouts": 34,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1278",
+    "totalBlocks": 49996,
+    "totalTxCount": 493570,
+    "totalPriorityFeesMon": 22644.691786050178,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1279",
+    "totalBlocks": 49998,
+    "totalTxCount": 447559,
+    "totalPriorityFeesMon": 16538.293502515884,
+    "totalTimeouts": 5,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1280",
+    "totalBlocks": 49974,
+    "totalTxCount": 449942,
+    "totalPriorityFeesMon": 12956.566974331348,
+    "totalTimeouts": 9,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1281",
+    "totalBlocks": 49928,
+    "totalTxCount": 436726,
+    "totalPriorityFeesMon": 24141.647266010477,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1282",
+    "totalBlocks": 49996,
+    "totalTxCount": 420428,
+    "totalPriorityFeesMon": 9145.459920496573,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1283",
+    "totalBlocks": 49999,
+    "totalTxCount": 402856,
+    "totalPriorityFeesMon": 6621.826564016467,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1284",
+    "totalBlocks": 49999,
+    "totalTxCount": 454918,
+    "totalPriorityFeesMon": 12354.300691479955,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1285",
+    "totalBlocks": 49986,
+    "totalTxCount": 386300,
+    "totalPriorityFeesMon": 6792.4749779389895,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1286",
+    "totalBlocks": 49990,
+    "totalTxCount": 330179,
+    "totalPriorityFeesMon": 5678.767765669832,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1287",
+    "totalBlocks": 49995,
+    "totalTxCount": 318418,
+    "totalPriorityFeesMon": 4085.423644091012,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1288",
+    "totalBlocks": 50000,
+    "totalTxCount": 334132,
+    "totalPriorityFeesMon": 6238.4855600264555,
+    "totalTimeouts": 5,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1289",
+    "totalBlocks": 49993,
+    "totalTxCount": 354646,
+    "totalPriorityFeesMon": 14271.46832187788,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1290",
+    "totalBlocks": 49809,
+    "totalTxCount": 355356,
+    "totalPriorityFeesMon": 11121.075711675057,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1291",
+    "totalBlocks": 49991,
+    "totalTxCount": 324467,
+    "totalPriorityFeesMon": 10447.27636859142,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1292",
+    "totalBlocks": 49999,
+    "totalTxCount": 367637,
+    "totalPriorityFeesMon": 18424.023513690197,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1293",
+    "totalBlocks": 49995,
+    "totalTxCount": 367769,
+    "totalPriorityFeesMon": 11743.460184270314,
+    "totalTimeouts": 7,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1294",
+    "totalBlocks": 49998,
+    "totalTxCount": 369451,
+    "totalPriorityFeesMon": 13097.03410634279,
+    "totalTimeouts": 7,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1295",
+    "totalBlocks": 49996,
+    "totalTxCount": 452988,
+    "totalPriorityFeesMon": 20365.171072136585,
+    "totalTimeouts": 5,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1296",
+    "totalBlocks": 49996,
+    "totalTxCount": 374016,
+    "totalPriorityFeesMon": 12807.827370358209,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1297",
+    "totalBlocks": 49972,
+    "totalTxCount": 403483,
+    "totalPriorityFeesMon": 11313.821209864864,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1298",
+    "totalBlocks": 49998,
+    "totalTxCount": 386344,
+    "totalPriorityFeesMon": 10175.12291119504,
+    "totalTimeouts": 28,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1299",
+    "totalBlocks": 49993,
+    "totalTxCount": 380795,
+    "totalPriorityFeesMon": 9739.923140819774,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1300",
+    "totalBlocks": 49999,
+    "totalTxCount": 340969,
+    "totalPriorityFeesMon": 6340.117605010423,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1301",
+    "totalBlocks": 8088,
+    "totalTxCount": 63375,
+    "totalPriorityFeesMon": 1942.2954033687868,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1302",
+    "totalBlocks": 15742,
+    "totalTxCount": 163201,
+    "totalPriorityFeesMon": 4616.816269774448,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1303",
+    "totalBlocks": 49997,
+    "totalTxCount": 448001,
+    "totalPriorityFeesMon": 15645.29722601999,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1304",
+    "totalBlocks": 49987,
+    "totalTxCount": 449660,
+    "totalPriorityFeesMon": 7955.4261056333735,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1305",
+    "totalBlocks": 49999,
+    "totalTxCount": 446509,
+    "totalPriorityFeesMon": 17012.631265033662,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1306",
+    "totalBlocks": 49982,
+    "totalTxCount": 583431,
+    "totalPriorityFeesMon": 13768.972322739548,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1307",
+    "totalBlocks": 50000,
+    "totalTxCount": 451147,
+    "totalPriorityFeesMon": 14189.041292124673,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1308",
+    "totalBlocks": 49992,
+    "totalTxCount": 572481,
+    "totalPriorityFeesMon": 14117.549439095337,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1309",
+    "totalBlocks": 49996,
+    "totalTxCount": 458848,
+    "totalPriorityFeesMon": 14961.404397012033,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1310",
+    "totalBlocks": 49995,
+    "totalTxCount": 538457,
+    "totalPriorityFeesMon": 18074.62412528215,
+    "totalTimeouts": 4,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1311",
+    "totalBlocks": 49993,
+    "totalTxCount": 488990,
+    "totalPriorityFeesMon": 20760.791080635074,
+    "totalTimeouts": 7,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1312",
+    "totalBlocks": 49999,
+    "totalTxCount": 488101,
+    "totalPriorityFeesMon": 21809.307373012136,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1313",
+    "totalBlocks": 49995,
+    "totalTxCount": 529820,
+    "totalPriorityFeesMon": 32424.55959225491,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1314",
+    "totalBlocks": 49996,
+    "totalTxCount": 505302,
+    "totalPriorityFeesMon": 24833.969995251522,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1315",
+    "totalBlocks": 49938,
+    "totalTxCount": 443085,
+    "totalPriorityFeesMon": 21598.27907153589,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1316",
+    "totalBlocks": 49944,
+    "totalTxCount": 416624,
+    "totalPriorityFeesMon": 16171.680410608516,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1317",
+    "totalBlocks": 49992,
+    "totalTxCount": 428890,
+    "totalPriorityFeesMon": 16488.594896018003,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1318",
+    "totalBlocks": 49917,
+    "totalTxCount": 406706,
+    "totalPriorityFeesMon": 12843.262515100987,
+    "totalTimeouts": 4,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1319",
+    "totalBlocks": 49999,
+    "totalTxCount": 442545,
+    "totalPriorityFeesMon": 13805.784290468735,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1320",
+    "totalBlocks": 49999,
+    "totalTxCount": 383682,
+    "totalPriorityFeesMon": 8960.222753673323,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1321",
+    "totalBlocks": 49993,
+    "totalTxCount": 373242,
+    "totalPriorityFeesMon": 8913.242080505644,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Saturday"
+  },
+  {
+    "epoch": "1322",
+    "totalBlocks": 49994,
+    "totalTxCount": 400162,
+    "totalPriorityFeesMon": 8910.984561866386,
+    "totalTimeouts": 102,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1323",
+    "totalBlocks": 50000,
+    "totalTxCount": 446951,
+    "totalPriorityFeesMon": 11206.902859351107,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1324",
+    "totalBlocks": 49996,
+    "totalTxCount": 401915,
+    "totalPriorityFeesMon": 8263.952023943706,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1325",
+    "totalBlocks": 49994,
+    "totalTxCount": 578842,
+    "totalPriorityFeesMon": 17257.921952433637,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Sunday"
+  },
+  {
+    "epoch": "1326",
+    "totalBlocks": 49998,
+    "totalTxCount": 437187,
+    "totalPriorityFeesMon": 12441.212349398163,
+    "totalTimeouts": 4,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1327",
+    "totalBlocks": 49997,
+    "totalTxCount": 607376,
+    "totalPriorityFeesMon": 40462.03878199383,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1328",
+    "totalBlocks": 49993,
+    "totalTxCount": 567703,
+    "totalPriorityFeesMon": 17324.415529378228,
+    "totalTimeouts": 10,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1329",
+    "totalBlocks": 49990,
+    "totalTxCount": 445434,
+    "totalPriorityFeesMon": 14101.46231977498,
+    "totalTimeouts": 103,
+    "dayOfWeek": "Monday"
+  },
+  {
+    "epoch": "1330",
+    "totalBlocks": 49986,
+    "totalTxCount": 423791,
+    "totalPriorityFeesMon": 6599.128446751177,
+    "totalTimeouts": 100,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1331",
+    "totalBlocks": 50006,
+    "totalTxCount": 497004,
+    "totalPriorityFeesMon": 11691.713961278023,
+    "totalTimeouts": 94,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1332",
+    "totalBlocks": 49980,
+    "totalTxCount": 506409,
+    "totalPriorityFeesMon": 13308.868195880994,
+    "totalTimeouts": 86,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1333",
+    "totalBlocks": 49928,
+    "totalTxCount": 697374,
+    "totalPriorityFeesMon": 59830.7213830785,
+    "totalTimeouts": 86,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1334",
+    "totalBlocks": 49998,
+    "totalTxCount": 533005,
+    "totalPriorityFeesMon": 21948.338251676134,
+    "totalTimeouts": 75,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1335",
+    "totalBlocks": 49992,
+    "totalTxCount": 562997,
+    "totalPriorityFeesMon": 32199.187235468016,
+    "totalTimeouts": 91,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1336",
+    "totalBlocks": 50009,
+    "totalTxCount": 775933,
+    "totalPriorityFeesMon": 39087.795077913965,
+    "totalTimeouts": 14,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1337",
+    "totalBlocks": 49992,
+    "totalTxCount": 516828,
+    "totalPriorityFeesMon": 18999.052981887125,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1338",
+    "totalBlocks": 49993,
+    "totalTxCount": 492307,
+    "totalPriorityFeesMon": 18264.449374954165,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1339",
+    "totalBlocks": 49986,
+    "totalTxCount": 451674,
+    "totalPriorityFeesMon": 13598.462305536787,
+    "totalTimeouts": 125,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1340",
+    "totalBlocks": 49931,
+    "totalTxCount": 498170,
+    "totalPriorityFeesMon": 12039.122400878243,
+    "totalTimeouts": 50,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1341",
+    "totalBlocks": 50024,
+    "totalTxCount": 608261,
+    "totalPriorityFeesMon": 25002.859395654254,
+    "totalTimeouts": 114,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1342",
+    "totalBlocks": 49995,
+    "totalTxCount": 587500,
+    "totalPriorityFeesMon": 26805.064082337787,
+    "totalTimeouts": 51,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1343",
+    "totalBlocks": 49941,
+    "totalTxCount": 608340,
+    "totalPriorityFeesMon": 32649.587007467588,
+    "totalTimeouts": 136,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1344",
+    "totalBlocks": 50040,
+    "totalTxCount": 616572,
+    "totalPriorityFeesMon": 27034.102843541947,
+    "totalTimeouts": 21,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1345",
+    "totalBlocks": 49975,
+    "totalTxCount": 576086,
+    "totalPriorityFeesMon": 17332.85384612095,
+    "totalTimeouts": 117,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1346",
+    "totalBlocks": 49937,
+    "totalTxCount": 475720,
+    "totalPriorityFeesMon": 15843.176802917524,
+    "totalTimeouts": 137,
+    "dayOfWeek": "Friday"
+  }
+]
