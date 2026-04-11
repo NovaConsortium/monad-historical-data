@@ -1,0 +1,126 @@
+{
+  "epoch": "1350",
+  "startTimestampMs": 1775927370044,
+  "endTimestampMs": 1775947354533,
+  "durationMs": 19984489,
+  "dayOfWeek": "Saturday",
+  "totalBlocks": 49996,
+  "totalTimeouts": 3,
+  "totalTxCount": 507541,
+  "totalPriorityFeesMon": 18190.634379980645,
+  "uniqueValidators": 200,
+  "topBlockProducers": [
+    {
+      "secp": "02c67b1adef09f7211271f7dfd080b42c0a14843383b86d579e2c501a33be061fc",
+      "blocks": 5126
+    },
+    {
+      "secp": "02ae1ba7bb248a470a5265bd0533e996165952b0535530acc1d75088e9b5854b5c",
+      "blocks": 964
+    },
+    {
+      "secp": "0316e0861acf92dc4c0e357f73fe07263a87b65513a4b73750ab9194f9a39a6a54",
+      "blocks": 917
+    },
+    {
+      "secp": "0230fa478f6c0e6cab9edc0647080674a784d060328f343cb5e0c5bb3e4e15696e",
+      "blocks": 784
+    },
+    {
+      "secp": "02b3914ab025eaa7a96bc6b7aa57a1ca0f4eb30df1cdcccdf23f7901a7b08b8f8c",
+      "blocks": 715
+    },
+    {
+      "secp": "03bdd0a2528c617b554d414c4a0e31c5f228e46dc1a2b806f105fcbe078d1b5b56",
+      "blocks": 696
+    },
+    {
+      "secp": "035f6154a9c5ecdda02616f0411e7ce992e1bc257286e5adb722e768922de23d39",
+      "blocks": 646
+    },
+    {
+      "secp": "03f032be493752229481ab235b40d0351e384aeb170d93898f7713b7121460a045",
+      "blocks": 571
+    },
+    {
+      "secp": "02fbb9abb43cff6f29a6ca40182e526847ca132d42abab6d1af517c956d19f7c68",
+      "blocks": 506
+    },
+    {
+      "secp": "031c8bc9614e6d2d9c3642a6cfb2c6edbbcee927db4eec4f21c104f84ee886ece0",
+      "blocks": 432
+    }
+  ],
+  "topFeeEarners": [
+    {
+      "secp": "02c67b1adef09f7211271f7dfd080b42c0a14843383b86d579e2c501a33be061fc",
+      "feesMon": 2161.207179640064
+    },
+    {
+      "secp": "02b3914ab025eaa7a96bc6b7aa57a1ca0f4eb30df1cdcccdf23f7901a7b08b8f8c",
+      "feesMon": 608.5290633923967
+    },
+    {
+      "secp": "02ae1ba7bb248a470a5265bd0533e996165952b0535530acc1d75088e9b5854b5c",
+      "feesMon": 305.02424712582
+    },
+    {
+      "secp": "0316e0861acf92dc4c0e357f73fe07263a87b65513a4b73750ab9194f9a39a6a54",
+      "feesMon": 269.243296163864
+    },
+    {
+      "secp": "031d15292ab4a5488c476b5361bbaf1df2a6897c481ac6acf49575ee48f09a7cf5",
+      "feesMon": 252.40523244430128
+    },
+    {
+      "secp": "0230fa478f6c0e6cab9edc0647080674a784d060328f343cb5e0c5bb3e4e15696e",
+      "feesMon": 251.94600787556124
+    },
+    {
+      "secp": "02d522e95543d5d8b01bec8405ae77a5efad720c8e713d2f56a32037ec13f3c20a",
+      "feesMon": 226.44764699119187
+    },
+    {
+      "secp": "03603d312e88271d935cab54a8c407ab06fabd44716f655e3f7bba60672eb6c174",
+      "feesMon": 220.27116356151316
+    },
+    {
+      "secp": "03bdd0a2528c617b554d414c4a0e31c5f228e46dc1a2b806f105fcbe078d1b5b56",
+      "feesMon": 219.07789928650595
+    },
+    {
+      "secp": "0213e2ab39e3ac1475263c6336afb3715f5b2c2aa6515fb08ce5a066055f75d3ad",
+      "feesMon": 216.06987859489612
+    }
+  ],
+  "largestBlockByTx": {
+    "blockNum": 67468069,
+    "txCount": 123,
+    "author": "036a2f43e54841219a0ab46bb4d47a9d0e3af5d6a31bfd269d1f1aeff644b53d55"
+  },
+  "largestBlockByFees": {
+    "blockNum": 67465350,
+    "feesMon": 470.0808320295152,
+    "author": "02c67b1adef09f7211271f7dfd080b42c0a14843383b86d579e2c501a33be061fc"
+  },
+  "activityBySegment": [
+    47090,
+    46207,
+    66439,
+    60393,
+    48052,
+    55108,
+    47650,
+    44820,
+    43220,
+    48562
+  ],
+  "activityByHour": {
+    "17": 69675,
+    "18": 107999,
+    "19": 95508,
+    "20": 93818,
+    "21": 78659,
+    "22": 61882
+  }
+}
