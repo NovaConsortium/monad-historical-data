@@ -1326,5 +1326,109 @@
     "totalPriorityFeesMon": 45084.50020980207,
     "totalTimeouts": 4,
     "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1363",
+    "totalBlocks": 49992,
+    "totalTxCount": 503778,
+    "totalPriorityFeesMon": 17561.03117028375,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1364",
+    "totalBlocks": 49987,
+    "totalTxCount": 531000,
+    "totalPriorityFeesMon": 24911.331614523973,
+    "totalTimeouts": 4,
+    "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "1365",
+    "totalBlocks": 49996,
+    "totalTxCount": 457018,
+    "totalPriorityFeesMon": 14460.377176310763,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1366",
+    "totalBlocks": 49872,
+    "totalTxCount": 558550,
+    "totalPriorityFeesMon": 25491.78134195965,
+    "totalTimeouts": 50,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1367",
+    "totalBlocks": 49960,
+    "totalTxCount": 516972,
+    "totalPriorityFeesMon": 19334.76581142247,
+    "totalTimeouts": 38,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1368",
+    "totalBlocks": 50028,
+    "totalTxCount": 496552,
+    "totalPriorityFeesMon": 20952.905787852076,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Wednesday"
+  },
+  {
+    "epoch": "1369",
+    "totalBlocks": 49992,
+    "totalTxCount": 534516,
+    "totalPriorityFeesMon": 22413.88572020851,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1370",
+    "totalBlocks": 49989,
+    "totalTxCount": 495987,
+    "totalPriorityFeesMon": 16324.241044477316,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1371",
+    "totalBlocks": 49988,
+    "totalTxCount": 584376,
+    "totalPriorityFeesMon": 27849.63731177117,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1372",
+    "totalBlocks": 49999,
+    "totalTxCount": 448946,
+    "totalPriorityFeesMon": 17491.87368516922,
+    "totalTimeouts": 9,
+    "dayOfWeek": "Thursday"
+  },
+  {
+    "epoch": "1373",
+    "totalBlocks": 49994,
+    "totalTxCount": 441094,
+    "totalPriorityFeesMon": 12523.87270727792,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1374",
+    "totalBlocks": 49999,
+    "totalTxCount": 486691,
+    "totalPriorityFeesMon": 14566.695060124192,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Friday"
+  },
+  {
+    "epoch": "1375",
+    "totalBlocks": 49923,
+    "totalTxCount": 753238,
+    "totalPriorityFeesMon": 48759.18069514721,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Friday"
   }
 ]
