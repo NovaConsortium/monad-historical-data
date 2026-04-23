@@ -46329,7 +46329,8 @@
       "priorityFeesMon": 52.34332880241118,
       "txCount": 1571,
       "stake": "52640303",
-      "commission": "2000"
+      "commission": "2000",
+      "mevFeesEarned": 10.468665760482239
     },
     {
       "epoch": "1392",
