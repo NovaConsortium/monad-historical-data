@@ -18519,7 +18519,7 @@
       "txCount": 463,
       "stake": "15497968",
       "commission": "2000",
-      "mevFeesEarned": 0.8557277828718897
+      "mevFeesEarned": 8.178456180577564
     },
     {
       "epoch": "1390",
@@ -18584,7 +18584,7 @@
       "txCount": 494,
       "stake": "15497669",
       "commission": "2000",
-      "mevFeesEarned": 7.322728397705675
+      "mevFeesEarned": 0.7620038932409916
     },
     {
       "epoch": "1391",
@@ -18655,7 +18655,7 @@
       "txCount": 485,
       "stake": "15497617",
       "commission": "2000",
-      "mevFeesEarned": 0.7620038932409916
+      "mevFeesEarned": 0
     },
     {
       "epoch": "1392",
@@ -18724,7 +18724,8 @@
       "priorityFeesMon": 45.764181131938805,
       "txCount": 760,
       "stake": "15497603",
-      "commission": "2000"
+      "commission": "2000",
+      "mevFeesEarned": 2.7045883604328744
     },
     {
       "epoch": "1393",
@@ -18776,7 +18777,7 @@
       "txCount": 384,
       "stake": "15497561",
       "commission": "2000",
-      "mevFeesEarned": 2.7045883604328744
+      "mevFeesEarned": 0
     },
     {
       "epoch": "1394",
@@ -18843,7 +18844,8 @@
       "priorityFeesMon": 15.838223864815555,
       "txCount": 477,
       "stake": "15497561",
-      "commission": "2000"
+      "commission": "2000",
+      "mevFeesEarned": 1.1920579220887604
     },
     {
       "epoch": "1395",
@@ -18900,7 +18902,7 @@
       "txCount": 312,
       "stake": "15497593",
       "commission": "2000",
-      "mevFeesEarned": 1.1920579220887604
+      "mevFeesEarned": 0
     },
     {
       "epoch": "1396",
