@@ -1,0 +1,2142 @@
+{
+  "epoch": "1435",
+  "startTimestampMs": 1777629097668,
+  "endTimestampMs": 1777649089298,
+  "durationMs": 19991630,
+  "dayOfWeek": "Friday",
+  "totalBlocks": 49985,
+  "totalTimeouts": 14,
+  "totalTxCount": 532755,
+  "totalPriorityFeesMon": 14824.202265534983,
+  "uniqueValidators": 200,
+  "topBlockProducers": [
+    {
+      "secp": "02c67b1adef09f7211271f7dfd080b42c0a14843383b86d579e2c501a33be061fc",
+      "blocks": 5702
+    },
+    {
+      "secp": "02ae1ba7bb248a470a5265bd0533e996165952b0535530acc1d75088e9b5854b5c",
+      "blocks": 1277
+    },
+    {
+      "secp": "0316e0861acf92dc4c0e357f73fe07263a87b65513a4b73750ab9194f9a39a6a54",
+      "blocks": 860
+    },
+    {
+      "secp": "0230fa478f6c0e6cab9edc0647080674a784d060328f343cb5e0c5bb3e4e15696e",
+      "blocks": 771
+    },
+    {
+      "secp": "035f6154a9c5ecdda02616f0411e7ce992e1bc257286e5adb722e768922de23d39",
+      "blocks": 723
+    },
+    {
+      "secp": "03bdd0a2528c617b554d414c4a0e31c5f228e46dc1a2b806f105fcbe078d1b5b56",
+      "blocks": 713
+    },
+    {
+      "secp": "02b3914ab025eaa7a96bc6b7aa57a1ca0f4eb30df1cdcccdf23f7901a7b08b8f8c",
+      "blocks": 703
+    },
+    {
+      "secp": "03f032be493752229481ab235b40d0351e384aeb170d93898f7713b7121460a045",
+      "blocks": 624
+    },
+    {
+      "secp": "02fbb9abb43cff6f29a6ca40182e526847ca132d42abab6d1af517c956d19f7c68",
+      "blocks": 524
+    },
+    {
+      "secp": "03702f656c784c591c9ff1726a42f8e7fe0c5b199d432a6c92d4d581ae89f487ff",
+      "blocks": 447
+    },
+    {
+      "secp": "0239fe92a4aae84b0a4acc155d16de66f4b1c285057982a290964634f2db992418",
+      "blocks": 418
+    },
+    {
+      "secp": "036e44a092493800e427b2b08d3427d804348b1368ecd0a6af6510ae40ce507187",
+      "blocks": 413
+    },
+    {
+      "secp": "0367c93236ecdda5c02d47f054009bae8f20df8de23ab5bc7e09ef74594d6b6f04",
+      "blocks": 396
+    },
+    {
+      "secp": "0300a4d5f222b25b615c4f2a6ffbedef95ec62a74bc9d56454b8ff390af54cb329",
+      "blocks": 388
+    },
+    {
+      "secp": "038c5b6ebb7ad2842c2498ca5ca6da348459b259f7d86fad940f13a7bb43ce7325",
+      "blocks": 379
+    },
+    {
+      "secp": "031c8bc9614e6d2d9c3642a6cfb2c6edbbcee927db4eec4f21c104f84ee886ece0",
+      "blocks": 369
+    },
+    {
+      "secp": "0265c19d462f24f7ece64ab180b6c7b893b8a8bc4184df8b7d539093e3d5daffee",
+      "blocks": 333
+    },
+    {
+      "secp": "02201bdea9fd814cd14f725209c18c685f88676deb29d55b3f968da7ae8aff7084",
+      "blocks": 328
+    },
+    {
+      "secp": "020c05dedec1dd1c1aa1da4b9772660ddb27c9fc5d5333750db159f4a516ae50b7",
+      "blocks": 313
+    },
+    {
+      "secp": "03ff39df45b74dc0b1623e0065db8e6ff0a79a06c9afd72a75ccefd739604db5dc",
+      "blocks": 312
+    },
+    {
+      "secp": "02545809b63bfb293bb939a41782110580fa49b57c2166881406d60395e9ce456e",
+      "blocks": 311
+    },
+    {
+      "secp": "0389f4d29ac3ddbd010f2ba6874c29695ec187ce32d9f8941ecf1a01642cadaf52",
+      "blocks": 306
+    },
+    {
+      "secp": "0237534fc1ff5118f436ab78d5dbe9cb96147b6290460b7517e02895f8aa9f866c",
+      "blocks": 297
+    },
+    {
+      "secp": "022243e2310b7e32303e190bba153c372bc7d26cd8a31069accecc91998f2b3d65",
+      "blocks": 295
+    },
+    {
+      "secp": "035fbf41201677e2b597c24d0f5db8171dc9092b5d05d7d17fd9bb20bf34698cf4",
+      "blocks": 288
+    },
+    {
+      "secp": "038976036a8dd4b602e03380edb2aa60d6865313d37aaf16cda11db56698466dc1",
+      "blocks": 283
+    },
+    {
+      "secp": "027f794d35a37c17b7ea1ccc0bfe1e368b3bc978a3f9b8a84ab575da63513da42c",
+      "blocks": 281
+    },
+    {
+      "secp": "03c4a66f8b3febbe8785d865703f29a99dfb72e59c43d90a9be8f793c221f36b09",
+      "blocks": 276
+    },
+    {
+      "secp": "02407325cfbcbad000da2383d4302db0630c752c1f5ee0690f566a23731000ad59",
+      "blocks": 275
+    },
+    {
+      "secp": "03ecfe1a4e3c91d02e8e2572a736fd515895a66af7ef69b1baf868ba802b0af2f0",
+      "blocks": 270
+    },
+    {
+      "secp": "0213e2ab39e3ac1475263c6336afb3715f5b2c2aa6515fb08ce5a066055f75d3ad",
+      "blocks": 270
+    },
+    {
+      "secp": "03621a38c847c28363182b0df77a4840c6842c06bb5e23609ce01864c47430d392",
+      "blocks": 269
+    },
+    {
+      "secp": "036a2f43e54841219a0ab46bb4d47a9d0e3af5d6a31bfd269d1f1aeff644b53d55",
+      "blocks": 269
+    },
+    {
+      "secp": "03f182d82dcb41e338e77c2aa452d3f8692a83c1d79df98eb6189335451718d0b0",
+      "blocks": 268
+    },
+    {
+      "secp": "035159ba3d75b8ad09436873c4b7a598b59732eb7a3dbe3a37bd73d0c4dcd49128",
+      "blocks": 266
+    },
+    {
+      "secp": "03dd68922e5a4b8da8f999d76c104647ae29a04289d3c1cc85db201e103998cc3e",
+      "blocks": 266
+    },
+    {
+      "secp": "03603d312e88271d935cab54a8c407ab06fabd44716f655e3f7bba60672eb6c174",
+      "blocks": 266
+    },
+    {
+      "secp": "02fc35933ca6d707c5ee5b811f9b56bc26cf82f01ef62f8360ec178a8382a8300d",
+      "blocks": 263
+    },
+    {
+      "secp": "026c43458dea52f1ad309ef1c9a0eed90f4347146e64074466775675d5942c2a82",
+      "blocks": 262
+    },
+    {
+      "secp": "031d15292ab4a5488c476b5361bbaf1df2a6897c481ac6acf49575ee48f09a7cf5",
+      "blocks": 260
+    },
+    {
+      "secp": "02eea7939430a9984bd03093e49deee5da94267c80841d3482c8bc47b1f21fb2b2",
+      "blocks": 260
+    },
+    {
+      "secp": "0223b4d991380e431ae1beb7c4e46fbce62e9028f0c973ccfec124a83fa5fb64a4",
+      "blocks": 259
+    },
+    {
+      "secp": "02b234987a9973e08d4ed2e4e73bea572f9eacd0d662ded7033b30305cc9253675",
+      "blocks": 259
+    },
+    {
+      "secp": "03324e85ed086d38702c499f85e9bef00c4ce79956009295a650e887ec18403006",
+      "blocks": 258
+    },
+    {
+      "secp": "0315f4f2df2dbcf09bb71c348840764c0e415e4b6e9f1340fd6980bdb98a7e6dda",
+      "blocks": 256
+    },
+    {
+      "secp": "027c4cf38a0e694180155195b763e5e2d8fd737533940414b97b14426f347c707b",
+      "blocks": 255
+    },
+    {
+      "secp": "0345b7122100e0d5e66fb4913cdc5db30f9836e1821a2ad3575307c48eeae060bb",
+      "blocks": 251
+    },
+    {
+      "secp": "02e5f310cf3411e3e9e890b9f9373d911d863733a2d84ab9488fcef46d2e7cc4fe",
+      "blocks": 249
+    },
+    {
+      "secp": "03b99d4e7efd4e06b762250644a14cc50eb54679c4e9aa3c401b3dc328c128a9b5",
+      "blocks": 248
+    },
+    {
+      "secp": "022229f3769520b3e071cc713a3a76951042a57802b375af53d82772ff8350017f",
+      "blocks": 247
+    },
+    {
+      "secp": "038f2f6a442a5defc0bcddfbaf39abc03e8c2d0b81c30ad3e7e2756db8f414e9d9",
+      "blocks": 247
+    },
+    {
+      "secp": "025d3bf227cf151403bb5dcdc21cc06a8612cb3c1e994ef42a8ddce1acb5291087",
+      "blocks": 245
+    },
+    {
+      "secp": "0208f84160464849cdd39a656503c845c830393a3a0add0b98810a31f351f5865f",
+      "blocks": 244
+    },
+    {
+      "secp": "02e47a97be68f368e2da2b3136a429255f30263619e9e6d9dda6ac89c6ed7e4410",
+      "blocks": 243
+    },
+    {
+      "secp": "0338e91fbb59ff2b060642bb4ad9458b3f0371c89ed3507df5a4751e2c1b8bdeb4",
+      "blocks": 242
+    },
+    {
+      "secp": "02e98da942b2e114d1d2cee0164742f858c9e162c66d2bbfadc7b81cc61958c0f6",
+      "blocks": 241
+    },
+    {
+      "secp": "027802cce1bdec2443c4ca67cc7384ccd5087d64acab480c77ce8eb3d515809b44",
+      "blocks": 240
+    },
+    {
+      "secp": "0258f63dd384a3d07b3f4b2407440fc489fa34c1737c3c77713c36a217c4572a91",
+      "blocks": 239
+    },
+    {
+      "secp": "03bddedc6b130cce8d610b3caa91b072348168181870427c7e2a5e50857af93e1b",
+      "blocks": 236
+    },
+    {
+      "secp": "030d398af29ca6d22c17c4004889ebed34edbd1f0abf618b54673acc11c04d050c",
+      "blocks": 236
+    },
+    {
+      "secp": "036ba50b2859bc05e5e1bbb708855ecd18d1054fb199c32683169432e57c9fa57f",
+      "blocks": 235
+    },
+    {
+      "secp": "02d522e95543d5d8b01bec8405ae77a5efad720c8e713d2f56a32037ec13f3c20a",
+      "blocks": 233
+    },
+    {
+      "secp": "02dde74abfc17275eea7ed24eb5cc37765357237fb2e691d1c43bbd06bf8bc2c28",
+      "blocks": 233
+    },
+    {
+      "secp": "024a7c8419784da07ce6e5e2441f9a23267e4d6610d805b6e989e3252892c1cb4c",
+      "blocks": 233
+    },
+    {
+      "secp": "03ea35f760961803f8ea8cf8e009e282614370d59b8d49a750d172e1726efc0256",
+      "blocks": 233
+    },
+    {
+      "secp": "03c9c18a64fbc3908b4a49b74dea1cd2c0363943c88fa70a32ab12facd80db4f79",
+      "blocks": 232
+    },
+    {
+      "secp": "0262c128cc7ac30b6b0ef956a5808d801a13e481596425428677e64ef459d4e6e2",
+      "blocks": 231
+    },
+    {
+      "secp": "03dc5bc12dcdf8416f5ab83943bcc4655cfb7d3878e557805256fc19bbcf38b5bd",
+      "blocks": 228
+    },
+    {
+      "secp": "03074a5dba4143e51ab7a65737c2feace9013fdeaec62d30380e4abbe0fbdf03c4",
+      "blocks": 228
+    },
+    {
+      "secp": "02db843f6701ef00022026b08e0276d25791dcd11ea54e69538cac1550886f685a",
+      "blocks": 228
+    },
+    {
+      "secp": "020725ea4d9c56d7f0f798599c59682d1cfc6b667916946645d5887d5225c76733",
+      "blocks": 228
+    },
+    {
+      "secp": "0285dc9186579db62fa1a7b9814488a82c9c4d14a3fe5673cef656c5a8cdeab9ef",
+      "blocks": 224
+    },
+    {
+      "secp": "02d27a97adf64efd74b72b2f274eb1fedf54569f6ca3bc5636274190166f26988a",
+      "blocks": 222
+    },
+    {
+      "secp": "0214d6f23ff55f848e8b86513569e09e0fae58fcf82fc7b22a9026e8d95e929274",
+      "blocks": 221
+    },
+    {
+      "secp": "022d5c0916186d979eec4e9fd8fb39c333adc90f2a07d32be9c4ab8b91b9dc1051",
+      "blocks": 217
+    },
+    {
+      "secp": "025a1169081b037c40b2510f7e68c05f85176a5d700c05da5a1191c0206b24d81c",
+      "blocks": 211
+    },
+    {
+      "secp": "031c0cdc0789b9eb9b9c044610d2417e12eaca6770226c08d7042853fdf0ec7f53",
+      "blocks": 211
+    },
+    {
+      "secp": "02330eedcc52e3e82e5aa48d02e4a9a8344504dc94b651f83679147f82910870e8",
+      "blocks": 207
+    },
+    {
+      "secp": "025435f996de6f542f59dff45a575096122094d3f9a4b0a626d2535782d94670ca",
+      "blocks": 201
+    },
+    {
+      "secp": "02906dff6c77bfbfa7fc7cb84fbe5fe0e23bb80c5289de1d2ab0c85e24473c4bbb",
+      "blocks": 198
+    },
+    {
+      "secp": "0385bdd56e8ad0332fbecdfa2a3b22b64532faaff3a7929edafd3f31b664f26eda",
+      "blocks": 198
+    },
+    {
+      "secp": "03afc25b9eea5b111bf88873c4ccf2c3559f0f47b9181ddcc6a7c0ba2024547199",
+      "blocks": 197
+    },
+    {
+      "secp": "02a5f68ebdd506ea06ecb6aa9e25fc0d1702d95646122ccf9310602a33d19dc44e",
+      "blocks": 196
+    },
+    {
+      "secp": "0278037b799aa88034aaf4bd205756e08d947761976ae4a82c04a6095739440af8",
+      "blocks": 196
+    },
+    {
+      "secp": "02193d51df38cdad89dbf9df9ed0b4387da426fd25bdb747140fcae7fd5b2733b3",
+      "blocks": 195
+    },
+    {
+      "secp": "02e76d2234a9cd9f25bac7ef946fc71a3102e95e5c4498c559d0127b06a5c63eff",
+      "blocks": 193
+    },
+    {
+      "secp": "020bdb4060390ca9dab26ee1d04e005639345611f1df29f47d2a7c26f09799d865",
+      "blocks": 193
+    },
+    {
+      "secp": "02be8ad9e24e8961371832962c09c6948930d927b598f476ceccf1987a27988834",
+      "blocks": 189
+    },
+    {
+      "secp": "02d886d3d758bf6edd6905a96e94aa6df38617459926baccbc218860e8440f081e",
+      "blocks": 189
+    },
+    {
+      "secp": "02dc103d9797c2d4dfe906c1ab38000a86d129973277597c9ffacddbb2de7e17de",
+      "blocks": 189
+    },
+    {
+      "secp": "02233ab6a178c053ba0c80d37a500a83c5d6e67abd6e2a770f1342463784194b23",
+      "blocks": 189
+    },
+    {
+      "secp": "02a379e003a9011338ddc96b58165c29d81e11a72cb692d2366dc2485fc84dbe95",
+      "blocks": 189
+    },
+    {
+      "secp": "03ac5ef9c731c31d800cc906c18ab7a50ffb9735b583c3b4c2a29e50967a083349",
+      "blocks": 188
+    },
+    {
+      "secp": "02e64ecc7ae9b79eddf987aea68b5439f34a6fc4d1d04c665671666a7ee2d4eedc",
+      "blocks": 188
+    },
+    {
+      "secp": "027656914866a94789d0e61a1e804b879c195f15695e381b4d1fc3f0c9c2dde58f",
+      "blocks": 187
+    },
+    {
+      "secp": "03c5dad0bb02231acec5c148d92a1e547099533b68d8b9be9b53cf24e461c83f45",
+      "blocks": 187
+    },
+    {
+      "secp": "02b03c0cbf064dbc2c1a0ad765af236d01c930ab98c2e6aa235990beb81e6d1326",
+      "blocks": 185
+    },
+    {
+      "secp": "029357a0f283d167ec16c0fd66b66e27378bc1487455d6215e7ac6605b8962bcca",
+      "blocks": 184
+    },
+    {
+      "secp": "03da0e7e3ecfd8964e1206d4ace45493be737391c9cf825dcf7ba71e9cf6db1cbb",
+      "blocks": 184
+    },
+    {
+      "secp": "03b7a11a3db7468c975a3e5b63193b8e5c695804c38e8695423295a7bb12289736",
+      "blocks": 183
+    },
+    {
+      "secp": "02d23f55a72a2ca8f1dbd5db73cab09106560530bde243d2bd77af1561a7dde367",
+      "blocks": 183
+    },
+    {
+      "secp": "03c264a08ba99ea0dee392a9daceb519d5bf7a293610398a5904b93abb63b6f076",
+      "blocks": 183
+    },
+    {
+      "secp": "0252b24f791ee3a512b43ef72dfe56cea6ff442276ca77295b75fb7263d038963b",
+      "blocks": 183
+    },
+    {
+      "secp": "02f49ae15431ca9d6ce440bc90525893f696983a722d00a9a94a21649b6e6ecde7",
+      "blocks": 182
+    },
+    {
+      "secp": "02503df092f06071cd5b82987b204e9ce428469886b71dc1b71083c2a89d0fb50b",
+      "blocks": 182
+    },
+    {
+      "secp": "02641d1034938ab6b4ea50e50ec04ff1bbe33bbae8235b96d27c9f7dc0ffdf785f",
+      "blocks": 181
+    },
+    {
+      "secp": "02563a6a2daa79853b45cc5879ebb6c23b444f7e4b99c4a2e9e472ef57b50b982a",
+      "blocks": 181
+    },
+    {
+      "secp": "038d8e900b0ce8a7f30550a643726bfc09243ea08d4f1094bffd1e948948558fed",
+      "blocks": 181
+    },
+    {
+      "secp": "036aac39879e73db1591591b578705198b6053af692a26d1fbeefe44a2489694ab",
+      "blocks": 181
+    },
+    {
+      "secp": "0297a0dd2d9b455482132cd5f30e68fe5e07386a975de07827c0746bfe683490e5",
+      "blocks": 180
+    },
+    {
+      "secp": "02d52c830017b7eacf767209be8476d7d5a55f6b04cf1dc1197c8d049e23ae1609",
+      "blocks": 180
+    },
+    {
+      "secp": "0372dc8eea0084001562484d5ebe9f12ede39d0bda8f4e027b9961f3296a7446ad",
+      "blocks": 180
+    },
+    {
+      "secp": "03603391275fb842731618493c3906057574a54dd66d9df6567d63c906a7c6d4a5",
+      "blocks": 180
+    },
+    {
+      "secp": "0280c264db68a25e1f0a9a74b113cff15d3f6df3e9a622c05f923e1d04733845ca",
+      "blocks": 179
+    },
+    {
+      "secp": "022175566e3fe43eec707531404178af862882aa1b35042bf250b04748ac4372e2",
+      "blocks": 179
+    },
+    {
+      "secp": "03f32a3391529192b4b1c364232d0b70bd888aa34bb7dc9f4b9a229007e840948b",
+      "blocks": 179
+    },
+    {
+      "secp": "03686f27312fd62be00bd9f42eecffbfecfa99415514927a1f4e859060e1a97c97",
+      "blocks": 178
+    },
+    {
+      "secp": "03073b13f1423e9112b7627edb8545cc1466ce6e3f7b025c24b089b2b2a58fa54f",
+      "blocks": 178
+    },
+    {
+      "secp": "03b64d022f68f530fdfd75eb57014aff5a4d8416dfa8f41a39b40f68f2c5d4bcbb",
+      "blocks": 178
+    },
+    {
+      "secp": "024f7b6efff634056a9b492ee8fd9c1abcca39747bed66f473f3255cc29502cd1d",
+      "blocks": 177
+    },
+    {
+      "secp": "0375209497554dd98f34d3e14ba2886fe09d53455a154e3c56689b7ebbac81433c",
+      "blocks": 177
+    },
+    {
+      "secp": "03e773631152aa98da046d945f0d410d85369e19764a7f9de77fcb896defe527df",
+      "blocks": 176
+    },
+    {
+      "secp": "0246a4697342f9701b39edf6faf7fb8ea31c45aed660a6520e2fc46843b76aed5b",
+      "blocks": 176
+    },
+    {
+      "secp": "0277b331913cb294cc8a43cd56dc31ab0ac77b07e17838ae0ebf970de506bf218d",
+      "blocks": 175
+    },
+    {
+      "secp": "03de3b5f5aa8acc38a1e165cba0c4b80bc2de83bde002e566df2f9d237e4c10a53",
+      "blocks": 175
+    },
+    {
+      "secp": "0212c604e7819769ac911dc34770760f6aba45934d1af6249c6827e79f0edb27a1",
+      "blocks": 175
+    },
+    {
+      "secp": "035c51a98dbf03fe411cb723aa89d2e5ec764ece056cf08bc76de2bea2107e6d4d",
+      "blocks": 174
+    },
+    {
+      "secp": "02f9eb1163e3d2ebde9f06fac83d8875e04997ce4711e44e63033fd7ad7a39581b",
+      "blocks": 174
+    },
+    {
+      "secp": "021e2253750bc794a45c4e05ffb79d8a111bba50ab117b6de51d0e9bf021381480",
+      "blocks": 173
+    },
+    {
+      "secp": "03522a53231ddb7e3ef9ec146745ad8177bab3f88d6713086d96b83dc5252c1c7d",
+      "blocks": 173
+    },
+    {
+      "secp": "039463793171c9882ccc4f84dc35ee262e6b2485bacbd2c93bee425a70260b1b23",
+      "blocks": 173
+    },
+    {
+      "secp": "0243021ec79de84d62adc5c7793c96a35f717526d04a1c32ba0c73126c4ccf4166",
+      "blocks": 172
+    },
+    {
+      "secp": "02bf6ed6114016cc3401583d13b342998f149b78cc94267cbc48b6d34c29acc13e",
+      "blocks": 172
+    },
+    {
+      "secp": "02a0e440c38f2297727feacec3749de7a95c31280c97196dce912bae6addf39bf0",
+      "blocks": 172
+    },
+    {
+      "secp": "03f5923064626d42824063eb428ac600cb2885ff2c21b5d578ad50ca2318a6c4bb",
+      "blocks": 172
+    },
+    {
+      "secp": "03bc65605210c522234e6de6db9b16a8fd59fe176c0d739d6b25832f33264fc2b5",
+      "blocks": 171
+    },
+    {
+      "secp": "0256e36b068c9373deb9f8664400abc1337b0d94b1f5bfed21a0e70f99b93ae18c",
+      "blocks": 171
+    },
+    {
+      "secp": "0396d352e13662e9c6815fa50f9aa213b800725d03832b8f7154bf8fca04527f92",
+      "blocks": 171
+    },
+    {
+      "secp": "03010586775441c1ec493cbf0a5c57d235a4e3796f7699e5a9855164529e80dbcf",
+      "blocks": 170
+    },
+    {
+      "secp": "02fb912814e22af73297934c3cf8574b1e72d0f3b6e94b170e7f9a9da567bfbb4e",
+      "blocks": 170
+    },
+    {
+      "secp": "0268d8a8ae2a40524ff912b31adabe3fb5d8ef00660ca55fd1839063812364aa38",
+      "blocks": 170
+    },
+    {
+      "secp": "035c93d470471aea2f68fc7016491bf5a2f38a084bfa0412e1960dae14ac2338e3",
+      "blocks": 169
+    },
+    {
+      "secp": "03d5935169535884451d6ad765d501b88c9ddc53f38f47ce714ddf45f90a98de8b",
+      "blocks": 169
+    },
+    {
+      "secp": "039c9e3fea41b8bbfac64972d794a7a643d86493f5e23ff2a94555e89ce1ff4662",
+      "blocks": 169
+    },
+    {
+      "secp": "03627607731156bdaecdc2b47aafb021aa1880dc8d05965fb30fd0bc1e937ae8c0",
+      "blocks": 168
+    },
+    {
+      "secp": "03a39c6de59766b5b372a96285b961045c69e1b36c893e4f59675bcb04517940e7",
+      "blocks": 168
+    },
+    {
+      "secp": "03b8aea4bde62774f18b0d80de4ce03bcfa55de6e4fc310b0803a0bb7eaffbb562",
+      "blocks": 168
+    },
+    {
+      "secp": "03591c258273e0984aac77dc41bd69b4e2e1a4ce949f1f107c2e6944c95a16eb16",
+      "blocks": 168
+    },
+    {
+      "secp": "02087d6afd5b2ce1a22aa5682dbb0363f2557bf9cde3545fbd374c98fd2c3f3747",
+      "blocks": 168
+    },
+    {
+      "secp": "03b4eccea3a134db62d4e8a38b3f16961d648f12a5543db4e42ff7854798bdb02a",
+      "blocks": 168
+    },
+    {
+      "secp": "0202169e1025e8aa4d5979e759dd35e6e4baaa04137289d0651e45d9218b7a9229",
+      "blocks": 167
+    },
+    {
+      "secp": "033d8d472b5123a5883c9d0786d8a2193bc1df256c6415854ce361f9d319d4e232",
+      "blocks": 166
+    },
+    {
+      "secp": "025a8999487a1c06c9c1db9ebcd6a6c87c7a864c03e086a112eab0bd2b5a098729",
+      "blocks": 166
+    },
+    {
+      "secp": "02d68fb73716b1095257a667b15df631b604aa0b342a32004272119d04d0909463",
+      "blocks": 165
+    },
+    {
+      "secp": "034432e542b3fcc2a6b787aaee4ab1628437e2c0df129737e414c0d87753c72fdc",
+      "blocks": 165
+    },
+    {
+      "secp": "03e74218cf2b37548ca807c40d075c8a6568ed7aaa8b463248639e7c98cdab02c0",
+      "blocks": 165
+    },
+    {
+      "secp": "03fd1b112e82f4e2f8c9754e1a157c43f0a87dcbf23245775e00a6e53ab263e921",
+      "blocks": 165
+    },
+    {
+      "secp": "027682da9bbbdf06ed75b8c12f1192209da4c2c4cc6835dd71a41796568d8a9c01",
+      "blocks": 164
+    },
+    {
+      "secp": "0252a25df29b6b3596e593c3e843cbdfcaa41af585a36fd1ffafa0c828c4fdb487",
+      "blocks": 163
+    },
+    {
+      "secp": "0309ac2feebd0f27443477f4148602ce56dd478457a33ffa9591ecc98cac8092a0",
+      "blocks": 163
+    },
+    {
+      "secp": "03771aba71c08a270981d70851bfeb27bf0e42e93f331cc1011d32ca47118acc78",
+      "blocks": 163
+    },
+    {
+      "secp": "0304a9ac8c0b6dae8cb9be4faf64580dcf3f1c8b2c9c36d3e45301367674c6eafd",
+      "blocks": 163
+    },
+    {
+      "secp": "02da73edcec8c44b6e8b6dc0808db4cf583c003d7d211178f0d8fad75d35661fee",
+      "blocks": 163
+    },
+    {
+      "secp": "02e70703d2fcec2e010c844c96901658bee630e5ddddf8f8f1a6fad6942db80140",
+      "blocks": 161
+    },
+    {
+      "secp": "02edec54216d835d3634e6220b83d02d337f16142f3caec99c797282ee0858cdee",
+      "blocks": 158
+    },
+    {
+      "secp": "02fbe48c47b1406b7dcf624bb801154bb63124170f042596bddf943a5fa900f37c",
+      "blocks": 158
+    },
+    {
+      "secp": "020e35c9059ef8cb921f7ed2a1d253f9512c7dd38cc91d0b3dcd6a596a775505b0",
+      "blocks": 158
+    },
+    {
+      "secp": "03bb753a5f75f90cbb3f5cc8e540a429db0a49553eca7293eaef33c6fb7b7e483f",
+      "blocks": 158
+    },
+    {
+      "secp": "03615154076362466f7d7166932ee2b015891ac1111b261e233ac92ff4ea268705",
+      "blocks": 157
+    },
+    {
+      "secp": "03c14560d143e6ecc9f0bfd54022e5915fc7a00db205395aae1a047a9444179f33",
+      "blocks": 157
+    },
+    {
+      "secp": "03386e1b22143e8d18de9bbd086f133bc0d96f8b349f3a430e816b143ddc5b18a8",
+      "blocks": 154
+    },
+    {
+      "secp": "037e6954bf5ef05593ce54a6bfc5548accf2a1e0e77e7af03657f2cd7f1c6939ab",
+      "blocks": 154
+    },
+    {
+      "secp": "0281297b4c2c2d3739dc697d3f03fc8c868906f4b7f0722c4576563d87f66b4275",
+      "blocks": 153
+    },
+    {
+      "secp": "0297b0bbdc8458d9fa548439ac85e88e30d4b3880ebad9e9f5d2fe917b2334e27b",
+      "blocks": 150
+    },
+    {
+      "secp": "031bbff1571123fde04e7cd4adee4ca3b6695fe5c0533e2e3aac4933dc6788d510",
+      "blocks": 150
+    },
+    {
+      "secp": "03bb8bce18329820f0e5de815ebebb88a71353f23dfd96a4aa64a1c0cf49ff72f5",
+      "blocks": 148
+    },
+    {
+      "secp": "0293468cb09476af5c38d598bfe87e030890c1b0b0579fddaeb6411e6d1085c2ee",
+      "blocks": 148
+    },
+    {
+      "secp": "0322207f068d7a907084ed290182bba46ac716e3ba5cffb4a3c8eebaa25f9c6b9b",
+      "blocks": 147
+    },
+    {
+      "secp": "0380c38d0ee6d65db62fb0b4f3f0f7848350bc2a8f0b8dc843cca9d5ac02329f37",
+      "blocks": 145
+    },
+    {
+      "secp": "0315fdef0e87beac4bfa0d06a8be8029135823d139428afb2bb73ee4eebbccafce",
+      "blocks": 144
+    },
+    {
+      "secp": "022dac9443d2004a876ff242368742aa38aae5a6b9fc54879293d40c21ca78e163",
+      "blocks": 131
+    },
+    {
+      "secp": "03fd7841cb4c6cd963d1ed271ce0b450e9933c7d10a8eec5115f6bcd1bbb5f1b17",
+      "blocks": 114
+    },
+    {
+      "secp": "02341c2d3ee550a2f8d55e2a04a2b322189a8e33c3e88824fadd134c5be64274f6",
+      "blocks": 110
+    },
+    {
+      "secp": "03af0190d4984071353ec6e290c2c62c4d9f44763098f40c8062595c206c843af0",
+      "blocks": 109
+    },
+    {
+      "secp": "02bba6727b32d0d5d254acf4353b4d2a6523210f6b48d74ca40ef979e03af96b68",
+      "blocks": 107
+    },
+    {
+      "secp": "0278dd0a19a77114085741fbc878ed7dd16955da3beab52087d702bc084fd91a82",
+      "blocks": 100
+    },
+    {
+      "secp": "02af7c2bafc190d4d841a27d7716ef52fccba7b4893415287cfe8f579371117b79",
+      "blocks": 95
+    },
+    {
+      "secp": "02cd56b483cda5e28e0c2bbf190d19d343e1eefbb57e001165e6438c9d364a4403",
+      "blocks": 93
+    },
+    {
+      "secp": "02bbe98b6b9e9aa80e6c1be6b22ee5f1b7896b250251ce47080f4a91481457add4",
+      "blocks": 90
+    },
+    {
+      "secp": "034f57c0a58f644151e73ac3d0e73c206c8294834bf1c319eed26b269d42a26998",
+      "blocks": 88
+    },
+    {
+      "secp": "03fc1461b26e14812c43987d7de0cbf2100e3b01ea03b1ef023cf9e24646be7900",
+      "blocks": 83
+    },
+    {
+      "secp": "03b7272d367f6007b0d22e95f4c21d7822f039c893d93ada05ec2f6e7d5cf1f8ec",
+      "blocks": 79
+    },
+    {
+      "secp": "026078bd2db91f27c1222575d429c42db6e2e4eeeb3a7b6e156518c04f564dee96",
+      "blocks": 79
+    },
+    {
+      "secp": "03fdd8ad18412eef357d3904da25b8fdd67034713226cd2832e14129e605b6a643",
+      "blocks": 79
+    },
+    {
+      "secp": "022b554e6057fca7990bb5c966dfb215373a8845026a997ca0c6896abde5cd9cdb",
+      "blocks": 78
+    },
+    {
+      "secp": "024b54aafccd2c5c612e0680aa36ace2155db217471b39298831d4ff78ac7a7a03",
+      "blocks": 72
+    },
+    {
+      "secp": "02b360fd267a2aeea63dc3d1be93a24e9102a975f3ca9d30a30e1184390f7d0a81",
+      "blocks": 69
+    },
+    {
+      "secp": "03762d5546cebbe997825ebbc64eee92d109f308bc7c1083cef48d1022ef9c3596",
+      "blocks": 61
+    },
+    {
+      "secp": "020943aae8b02cb2bcc0fce26e8d52e0785af30f4f2532273caf88f4329864641f",
+      "blocks": 59
+    },
+    {
+      "secp": "03b40ffec31790b993046a23617332154c4f3459ef530b41cd960bbc17a60f2032",
+      "blocks": 57
+    }
+  ],
+  "topFeeEarners": [
+    {
+      "secp": "02c67b1adef09f7211271f7dfd080b42c0a14843383b86d579e2c501a33be061fc",
+      "feesMon": 1523.636014967385
+    },
+    {
+      "secp": "027c4cf38a0e694180155195b763e5e2d8fd737533940414b97b14426f347c707b",
+      "feesMon": 457.49609932063515
+    },
+    {
+      "secp": "0230fa478f6c0e6cab9edc0647080674a784d060328f343cb5e0c5bb3e4e15696e",
+      "feesMon": 446.08223540706075
+    },
+    {
+      "secp": "02ae1ba7bb248a470a5265bd0533e996165952b0535530acc1d75088e9b5854b5c",
+      "feesMon": 383.8365430087785
+    },
+    {
+      "secp": "027f794d35a37c17b7ea1ccc0bfe1e368b3bc978a3f9b8a84ab575da63513da42c",
+      "feesMon": 289.7899057893982
+    },
+    {
+      "secp": "0316e0861acf92dc4c0e357f73fe07263a87b65513a4b73750ab9194f9a39a6a54",
+      "feesMon": 248.4519020763138
+    },
+    {
+      "secp": "03f032be493752229481ab235b40d0351e384aeb170d93898f7713b7121460a045",
+      "feesMon": 225.24865420357818
+    },
+    {
+      "secp": "036a2f43e54841219a0ab46bb4d47a9d0e3af5d6a31bfd269d1f1aeff644b53d55",
+      "feesMon": 220.10232313417532
+    },
+    {
+      "secp": "02fbb9abb43cff6f29a6ca40182e526847ca132d42abab6d1af517c956d19f7c68",
+      "feesMon": 209.92760037306917
+    },
+    {
+      "secp": "035f6154a9c5ecdda02616f0411e7ce992e1bc257286e5adb722e768922de23d39",
+      "feesMon": 191.5101794276049
+    },
+    {
+      "secp": "02d522e95543d5d8b01bec8405ae77a5efad720c8e713d2f56a32037ec13f3c20a",
+      "feesMon": 176.3819945373875
+    },
+    {
+      "secp": "02b3914ab025eaa7a96bc6b7aa57a1ca0f4eb30df1cdcccdf23f7901a7b08b8f8c",
+      "feesMon": 143.01819635375767
+    },
+    {
+      "secp": "0309ac2feebd0f27443477f4148602ce56dd478457a33ffa9591ecc98cac8092a0",
+      "feesMon": 138.60215526958243
+    },
+    {
+      "secp": "031c8bc9614e6d2d9c3642a6cfb2c6edbbcee927db4eec4f21c104f84ee886ece0",
+      "feesMon": 133.71198746511212
+    },
+    {
+      "secp": "03522a53231ddb7e3ef9ec146745ad8177bab3f88d6713086d96b83dc5252c1c7d",
+      "feesMon": 131.62433203575515
+    },
+    {
+      "secp": "036e44a092493800e427b2b08d3427d804348b1368ecd0a6af6510ae40ce507187",
+      "feesMon": 127.7636142281426
+    },
+    {
+      "secp": "03bdd0a2528c617b554d414c4a0e31c5f228e46dc1a2b806f105fcbe078d1b5b56",
+      "feesMon": 125.25815957330516
+    },
+    {
+      "secp": "0389f4d29ac3ddbd010f2ba6874c29695ec187ce32d9f8941ecf1a01642cadaf52",
+      "feesMon": 124.72774543865249
+    },
+    {
+      "secp": "02eea7939430a9984bd03093e49deee5da94267c80841d3482c8bc47b1f21fb2b2",
+      "feesMon": 123.0219027922349
+    },
+    {
+      "secp": "0239fe92a4aae84b0a4acc155d16de66f4b1c285057982a290964634f2db992418",
+      "feesMon": 122.55169662264315
+    },
+    {
+      "secp": "02d886d3d758bf6edd6905a96e94aa6df38617459926baccbc218860e8440f081e",
+      "feesMon": 121.24730647304611
+    },
+    {
+      "secp": "03324e85ed086d38702c499f85e9bef00c4ce79956009295a650e887ec18403006",
+      "feesMon": 117.31510253597132
+    },
+    {
+      "secp": "038c5b6ebb7ad2842c2498ca5ca6da348459b259f7d86fad940f13a7bb43ce7325",
+      "feesMon": 114.27274737813711
+    },
+    {
+      "secp": "03010586775441c1ec493cbf0a5c57d235a4e3796f7699e5a9855164529e80dbcf",
+      "feesMon": 112.55105404071551
+    },
+    {
+      "secp": "02fbe48c47b1406b7dcf624bb801154bb63124170f042596bddf943a5fa900f37c",
+      "feesMon": 111.7664311553254
+    },
+    {
+      "secp": "03627607731156bdaecdc2b47aafb021aa1880dc8d05965fb30fd0bc1e937ae8c0",
+      "feesMon": 105.51130389956013
+    },
+    {
+      "secp": "0300a4d5f222b25b615c4f2a6ffbedef95ec62a74bc9d56454b8ff390af54cb329",
+      "feesMon": 103.87157082908386
+    },
+    {
+      "secp": "03da0e7e3ecfd8964e1206d4ace45493be737391c9cf825dcf7ba71e9cf6db1cbb",
+      "feesMon": 101.97408369053525
+    },
+    {
+      "secp": "03c14560d143e6ecc9f0bfd54022e5915fc7a00db205395aae1a047a9444179f33",
+      "feesMon": 99.1812938633133
+    },
+    {
+      "secp": "0213e2ab39e3ac1475263c6336afb3715f5b2c2aa6515fb08ce5a066055f75d3ad",
+      "feesMon": 91.15515309007962
+    },
+    {
+      "secp": "024a7c8419784da07ce6e5e2441f9a23267e4d6610d805b6e989e3252892c1cb4c",
+      "feesMon": 90.0620910834281
+    },
+    {
+      "secp": "0338e91fbb59ff2b060642bb4ad9458b3f0371c89ed3507df5a4751e2c1b8bdeb4",
+      "feesMon": 89.5124292454578
+    },
+    {
+      "secp": "0367c93236ecdda5c02d47f054009bae8f20df8de23ab5bc7e09ef74594d6b6f04",
+      "feesMon": 88.2931156674614
+    },
+    {
+      "secp": "020e35c9059ef8cb921f7ed2a1d253f9512c7dd38cc91d0b3dcd6a596a775505b0",
+      "feesMon": 86.87227187659835
+    },
+    {
+      "secp": "0265c19d462f24f7ece64ab180b6c7b893b8a8bc4184df8b7d539093e3d5daffee",
+      "feesMon": 86.64982374944859
+    },
+    {
+      "secp": "03f182d82dcb41e338e77c2aa452d3f8692a83c1d79df98eb6189335451718d0b0",
+      "feesMon": 86.33116767431792
+    },
+    {
+      "secp": "03fd7841cb4c6cd963d1ed271ce0b450e9933c7d10a8eec5115f6bcd1bbb5f1b17",
+      "feesMon": 83.33136617449487
+    },
+    {
+      "secp": "0212c604e7819769ac911dc34770760f6aba45934d1af6249c6827e79f0edb27a1",
+      "feesMon": 83.20189491446537
+    },
+    {
+      "secp": "0285dc9186579db62fa1a7b9814488a82c9c4d14a3fe5673cef656c5a8cdeab9ef",
+      "feesMon": 82.96100014597576
+    },
+    {
+      "secp": "03afc25b9eea5b111bf88873c4ccf2c3559f0f47b9181ddcc6a7c0ba2024547199",
+      "feesMon": 81.57747086593618
+    },
+    {
+      "secp": "02e47a97be68f368e2da2b3136a429255f30263619e9e6d9dda6ac89c6ed7e4410",
+      "feesMon": 81.52173012662695
+    },
+    {
+      "secp": "03ac5ef9c731c31d800cc906c18ab7a50ffb9735b583c3b4c2a29e50967a083349",
+      "feesMon": 80.52529625434288
+    },
+    {
+      "secp": "03603d312e88271d935cab54a8c407ab06fabd44716f655e3f7bba60672eb6c174",
+      "feesMon": 80.06009984050242
+    },
+    {
+      "secp": "021e2253750bc794a45c4e05ffb79d8a111bba50ab117b6de51d0e9bf021381480",
+      "feesMon": 79.38962798533416
+    },
+    {
+      "secp": "038976036a8dd4b602e03380edb2aa60d6865313d37aaf16cda11db56698466dc1",
+      "feesMon": 77.60911760050689
+    },
+    {
+      "secp": "0252a25df29b6b3596e593c3e843cbdfcaa41af585a36fd1ffafa0c828c4fdb487",
+      "feesMon": 77.021495326724
+    },
+    {
+      "secp": "03074a5dba4143e51ab7a65737c2feace9013fdeaec62d30380e4abbe0fbdf03c4",
+      "feesMon": 76.5509373123816
+    },
+    {
+      "secp": "035c51a98dbf03fe411cb723aa89d2e5ec764ece056cf08bc76de2bea2107e6d4d",
+      "feesMon": 76.17748180390389
+    },
+    {
+      "secp": "02e76d2234a9cd9f25bac7ef946fc71a3102e95e5c4498c559d0127b06a5c63eff",
+      "feesMon": 75.72269507493435
+    },
+    {
+      "secp": "03b64d022f68f530fdfd75eb57014aff5a4d8416dfa8f41a39b40f68f2c5d4bcbb",
+      "feesMon": 75.64986335884656
+    },
+    {
+      "secp": "039463793171c9882ccc4f84dc35ee262e6b2485bacbd2c93bee425a70260b1b23",
+      "feesMon": 75.61168502723945
+    },
+    {
+      "secp": "02201bdea9fd814cd14f725209c18c685f88676deb29d55b3f968da7ae8aff7084",
+      "feesMon": 72.43465708569687
+    },
+    {
+      "secp": "03591c258273e0984aac77dc41bd69b4e2e1a4ce949f1f107c2e6944c95a16eb16",
+      "feesMon": 72.21752636399147
+    },
+    {
+      "secp": "02d52c830017b7eacf767209be8476d7d5a55f6b04cf1dc1197c8d049e23ae1609",
+      "feesMon": 72.05704184199547
+    },
+    {
+      "secp": "020c05dedec1dd1c1aa1da4b9772660ddb27c9fc5d5333750db159f4a516ae50b7",
+      "feesMon": 71.26387063915394
+    },
+    {
+      "secp": "027682da9bbbdf06ed75b8c12f1192209da4c2c4cc6835dd71a41796568d8a9c01",
+      "feesMon": 71.05121549670844
+    },
+    {
+      "secp": "031c0cdc0789b9eb9b9c044610d2417e12eaca6770226c08d7042853fdf0ec7f53",
+      "feesMon": 69.58246731214092
+    },
+    {
+      "secp": "0262c128cc7ac30b6b0ef956a5808d801a13e481596425428677e64ef459d4e6e2",
+      "feesMon": 69.43597226175159
+    },
+    {
+      "secp": "03c4a66f8b3febbe8785d865703f29a99dfb72e59c43d90a9be8f793c221f36b09",
+      "feesMon": 69.06352497896243
+    },
+    {
+      "secp": "03de3b5f5aa8acc38a1e165cba0c4b80bc2de83bde002e566df2f9d237e4c10a53",
+      "feesMon": 69.00564780773739
+    },
+    {
+      "secp": "034f57c0a58f644151e73ac3d0e73c206c8294834bf1c319eed26b269d42a26998",
+      "feesMon": 68.49094904601077
+    },
+    {
+      "secp": "0277b331913cb294cc8a43cd56dc31ab0ac77b07e17838ae0ebf970de506bf218d",
+      "feesMon": 68.3894623310693
+    },
+    {
+      "secp": "02cd56b483cda5e28e0c2bbf190d19d343e1eefbb57e001165e6438c9d364a4403",
+      "feesMon": 67.8356319815979
+    },
+    {
+      "secp": "0214d6f23ff55f848e8b86513569e09e0fae58fcf82fc7b22a9026e8d95e929274",
+      "feesMon": 67.76215310541448
+    },
+    {
+      "secp": "0396d352e13662e9c6815fa50f9aa213b800725d03832b8f7154bf8fca04527f92",
+      "feesMon": 66.628704964951
+    },
+    {
+      "secp": "0252b24f791ee3a512b43ef72dfe56cea6ff442276ca77295b75fb7263d038963b",
+      "feesMon": 66.53957508261223
+    },
+    {
+      "secp": "03f5923064626d42824063eb428ac600cb2885ff2c21b5d578ad50ca2318a6c4bb",
+      "feesMon": 65.94800705158787
+    },
+    {
+      "secp": "0258f63dd384a3d07b3f4b2407440fc489fa34c1737c3c77713c36a217c4572a91",
+      "feesMon": 65.11890225615733
+    },
+    {
+      "secp": "02a379e003a9011338ddc96b58165c29d81e11a72cb692d2366dc2485fc84dbe95",
+      "feesMon": 64.76639277718631
+    },
+    {
+      "secp": "02906dff6c77bfbfa7fc7cb84fbe5fe0e23bb80c5289de1d2ab0c85e24473c4bbb",
+      "feesMon": 64.50600493492226
+    },
+    {
+      "secp": "03bb753a5f75f90cbb3f5cc8e540a429db0a49553eca7293eaef33c6fb7b7e483f",
+      "feesMon": 62.72405240834332
+    },
+    {
+      "secp": "03702f656c784c591c9ff1726a42f8e7fe0c5b199d432a6c92d4d581ae89f487ff",
+      "feesMon": 62.04324949915739
+    },
+    {
+      "secp": "035fbf41201677e2b597c24d0f5db8171dc9092b5d05d7d17fd9bb20bf34698cf4",
+      "feesMon": 62.021085745511535
+    },
+    {
+      "secp": "0293468cb09476af5c38d598bfe87e030890c1b0b0579fddaeb6411e6d1085c2ee",
+      "feesMon": 61.995747803435094
+    },
+    {
+      "secp": "03ff39df45b74dc0b1623e0065db8e6ff0a79a06c9afd72a75ccefd739604db5dc",
+      "feesMon": 61.99525894743766
+    },
+    {
+      "secp": "0385bdd56e8ad0332fbecdfa2a3b22b64532faaff3a7929edafd3f31b664f26eda",
+      "feesMon": 61.79445366274236
+    },
+    {
+      "secp": "030d398af29ca6d22c17c4004889ebed34edbd1f0abf618b54673acc11c04d050c",
+      "feesMon": 61.40016978638357
+    },
+    {
+      "secp": "0375209497554dd98f34d3e14ba2886fe09d53455a154e3c56689b7ebbac81433c",
+      "feesMon": 61.384672901574746
+    },
+    {
+      "secp": "037e6954bf5ef05593ce54a6bfc5548accf2a1e0e77e7af03657f2cd7f1c6939ab",
+      "feesMon": 61.36632998525797
+    },
+    {
+      "secp": "02da73edcec8c44b6e8b6dc0808db4cf583c003d7d211178f0d8fad75d35661fee",
+      "feesMon": 61.294902236422935
+    },
+    {
+      "secp": "03a39c6de59766b5b372a96285b961045c69e1b36c893e4f59675bcb04517940e7",
+      "feesMon": 60.59753645926645
+    },
+    {
+      "secp": "027656914866a94789d0e61a1e804b879c195f15695e381b4d1fc3f0c9c2dde58f",
+      "feesMon": 60.172288808372834
+    },
+    {
+      "secp": "02fc35933ca6d707c5ee5b811f9b56bc26cf82f01ef62f8360ec178a8382a8300d",
+      "feesMon": 60.0978539768814
+    },
+    {
+      "secp": "0345b7122100e0d5e66fb4913cdc5db30f9836e1821a2ad3575307c48eeae060bb",
+      "feesMon": 59.86418035003463
+    },
+    {
+      "secp": "035159ba3d75b8ad09436873c4b7a598b59732eb7a3dbe3a37bd73d0c4dcd49128",
+      "feesMon": 59.831117106168755
+    },
+    {
+      "secp": "022229f3769520b3e071cc713a3a76951042a57802b375af53d82772ff8350017f",
+      "feesMon": 59.09171231611422
+    },
+    {
+      "secp": "022243e2310b7e32303e190bba153c372bc7d26cd8a31069accecc91998f2b3d65",
+      "feesMon": 59.0137640081771
+    },
+    {
+      "secp": "031d15292ab4a5488c476b5361bbaf1df2a6897c481ac6acf49575ee48f09a7cf5",
+      "feesMon": 58.94607678769587
+    },
+    {
+      "secp": "0278dd0a19a77114085741fbc878ed7dd16955da3beab52087d702bc084fd91a82",
+      "feesMon": 58.24925488713077
+    },
+    {
+      "secp": "02a0e440c38f2297727feacec3749de7a95c31280c97196dce912bae6addf39bf0",
+      "feesMon": 57.874847130883204
+    },
+    {
+      "secp": "02d68fb73716b1095257a667b15df631b604aa0b342a32004272119d04d0909463",
+      "feesMon": 57.52738587253402
+    },
+    {
+      "secp": "0280c264db68a25e1f0a9a74b113cff15d3f6df3e9a622c05f923e1d04733845ca",
+      "feesMon": 57.082251431839076
+    },
+    {
+      "secp": "038f2f6a442a5defc0bcddfbaf39abc03e8c2d0b81c30ad3e7e2756db8f414e9d9",
+      "feesMon": 56.68422083222862
+    },
+    {
+      "secp": "0223b4d991380e431ae1beb7c4e46fbce62e9028f0c973ccfec124a83fa5fb64a4",
+      "feesMon": 55.60641967979225
+    },
+    {
+      "secp": "02330eedcc52e3e82e5aa48d02e4a9a8344504dc94b651f83679147f82910870e8",
+      "feesMon": 54.3721936928643
+    },
+    {
+      "secp": "02087d6afd5b2ce1a22aa5682dbb0363f2557bf9cde3545fbd374c98fd2c3f3747",
+      "feesMon": 53.9470065170161
+    },
+    {
+      "secp": "025a8999487a1c06c9c1db9ebcd6a6c87c7a864c03e086a112eab0bd2b5a098729",
+      "feesMon": 53.85269620044017
+    },
+    {
+      "secp": "022d5c0916186d979eec4e9fd8fb39c333adc90f2a07d32be9c4ab8b91b9dc1051",
+      "feesMon": 53.645632709114764
+    },
+    {
+      "secp": "03c264a08ba99ea0dee392a9daceb519d5bf7a293610398a5904b93abb63b6f076",
+      "feesMon": 53.473656847905794
+    },
+    {
+      "secp": "02f9eb1163e3d2ebde9f06fac83d8875e04997ce4711e44e63033fd7ad7a39581b",
+      "feesMon": 53.04003768964276
+    },
+    {
+      "secp": "03ecfe1a4e3c91d02e8e2572a736fd515895a66af7ef69b1baf868ba802b0af2f0",
+      "feesMon": 52.88213276121974
+    },
+    {
+      "secp": "0304a9ac8c0b6dae8cb9be4faf64580dcf3f1c8b2c9c36d3e45301367674c6eafd",
+      "feesMon": 52.86700370573734
+    },
+    {
+      "secp": "038d8e900b0ce8a7f30550a643726bfc09243ea08d4f1094bffd1e948948558fed",
+      "feesMon": 52.30745674754845
+    },
+    {
+      "secp": "02545809b63bfb293bb939a41782110580fa49b57c2166881406d60395e9ce456e",
+      "feesMon": 51.82797959079365
+    },
+    {
+      "secp": "02b234987a9973e08d4ed2e4e73bea572f9eacd0d662ded7033b30305cc9253675",
+      "feesMon": 51.30762810083861
+    },
+    {
+      "secp": "0237534fc1ff5118f436ab78d5dbe9cb96147b6290460b7517e02895f8aa9f866c",
+      "feesMon": 50.36564136274213
+    },
+    {
+      "secp": "0243021ec79de84d62adc5c7793c96a35f717526d04a1c32ba0c73126c4ccf4166",
+      "feesMon": 50.291143731650614
+    },
+    {
+      "secp": "0268d8a8ae2a40524ff912b31adabe3fb5d8ef00660ca55fd1839063812364aa38",
+      "feesMon": 49.99764613294698
+    },
+    {
+      "secp": "02e64ecc7ae9b79eddf987aea68b5439f34a6fc4d1d04c665671666a7ee2d4eedc",
+      "feesMon": 49.68811843328119
+    },
+    {
+      "secp": "03bb8bce18329820f0e5de815ebebb88a71353f23dfd96a4aa64a1c0cf49ff72f5",
+      "feesMon": 49.09007923307459
+    },
+    {
+      "secp": "02407325cfbcbad000da2383d4302db0630c752c1f5ee0690f566a23731000ad59",
+      "feesMon": 48.96970668010783
+    },
+    {
+      "secp": "03073b13f1423e9112b7627edb8545cc1466ce6e3f7b025c24b089b2b2a58fa54f",
+      "feesMon": 48.72152948512528
+    },
+    {
+      "secp": "02d27a97adf64efd74b72b2f274eb1fedf54569f6ca3bc5636274190166f26988a",
+      "feesMon": 48.546549462404094
+    },
+    {
+      "secp": "036aac39879e73db1591591b578705198b6053af692a26d1fbeefe44a2489694ab",
+      "feesMon": 47.9115085364292
+    },
+    {
+      "secp": "03fd1b112e82f4e2f8c9754e1a157c43f0a87dcbf23245775e00a6e53ab263e921",
+      "feesMon": 47.55605786887372
+    },
+    {
+      "secp": "0297b0bbdc8458d9fa548439ac85e88e30d4b3880ebad9e9f5d2fe917b2334e27b",
+      "feesMon": 47.40187922966208
+    },
+    {
+      "secp": "039c9e3fea41b8bbfac64972d794a7a643d86493f5e23ff2a94555e89ce1ff4662",
+      "feesMon": 47.16850050725004
+    },
+    {
+      "secp": "0202169e1025e8aa4d5979e759dd35e6e4baaa04137289d0651e45d9218b7a9229",
+      "feesMon": 46.97289588083587
+    },
+    {
+      "secp": "02db843f6701ef00022026b08e0276d25791dcd11ea54e69538cac1550886f685a",
+      "feesMon": 46.481721885809975
+    },
+    {
+      "secp": "03bddedc6b130cce8d610b3caa91b072348168181870427c7e2a5e50857af93e1b",
+      "feesMon": 46.28898544867825
+    },
+    {
+      "secp": "03dc5bc12dcdf8416f5ab83943bcc4655cfb7d3878e557805256fc19bbcf38b5bd",
+      "feesMon": 45.94948598685025
+    },
+    {
+      "secp": "020725ea4d9c56d7f0f798599c59682d1cfc6b667916946645d5887d5225c76733",
+      "feesMon": 45.915030783982296
+    },
+    {
+      "secp": "022175566e3fe43eec707531404178af862882aa1b35042bf250b04748ac4372e2",
+      "feesMon": 45.444698205448375
+    },
+    {
+      "secp": "035c93d470471aea2f68fc7016491bf5a2f38a084bfa0412e1960dae14ac2338e3",
+      "feesMon": 44.75821609449852
+    },
+    {
+      "secp": "02f49ae15431ca9d6ce440bc90525893f696983a722d00a9a94a21649b6e6ecde7",
+      "feesMon": 44.562231703923345
+    },
+    {
+      "secp": "025435f996de6f542f59dff45a575096122094d3f9a4b0a626d2535782d94670ca",
+      "feesMon": 44.41843183620096
+    },
+    {
+      "secp": "027802cce1bdec2443c4ca67cc7384ccd5087d64acab480c77ce8eb3d515809b44",
+      "feesMon": 43.93342221205344
+    },
+    {
+      "secp": "03b7a11a3db7468c975a3e5b63193b8e5c695804c38e8695423295a7bb12289736",
+      "feesMon": 43.15998514058273
+    },
+    {
+      "secp": "02d23f55a72a2ca8f1dbd5db73cab09106560530bde243d2bd77af1561a7dde367",
+      "feesMon": 43.13255487800157
+    },
+    {
+      "secp": "0315f4f2df2dbcf09bb71c348840764c0e415e4b6e9f1340fd6980bdb98a7e6dda",
+      "feesMon": 43.09344027179981
+    },
+    {
+      "secp": "03603391275fb842731618493c3906057574a54dd66d9df6567d63c906a7c6d4a5",
+      "feesMon": 42.78274651288533
+    },
+    {
+      "secp": "03b99d4e7efd4e06b762250644a14cc50eb54679c4e9aa3c401b3dc328c128a9b5",
+      "feesMon": 42.365558206493795
+    },
+    {
+      "secp": "03e773631152aa98da046d945f0d410d85369e19764a7f9de77fcb896defe527df",
+      "feesMon": 42.12114672849375
+    },
+    {
+      "secp": "03621a38c847c28363182b0df77a4840c6842c06bb5e23609ce01864c47430d392",
+      "feesMon": 41.36172462897447
+    },
+    {
+      "secp": "0380c38d0ee6d65db62fb0b4f3f0f7848350bc2a8f0b8dc843cca9d5ac02329f37",
+      "feesMon": 41.10422595882234
+    },
+    {
+      "secp": "02e98da942b2e114d1d2cee0164742f858c9e162c66d2bbfadc7b81cc61958c0f6",
+      "feesMon": 40.758749875382605
+    },
+    {
+      "secp": "03d5935169535884451d6ad765d501b88c9ddc53f38f47ce714ddf45f90a98de8b",
+      "feesMon": 40.530241363514776
+    },
+    {
+      "secp": "036ba50b2859bc05e5e1bbb708855ecd18d1054fb199c32683169432e57c9fa57f",
+      "feesMon": 40.46732034353514
+    },
+    {
+      "secp": "03b4eccea3a134db62d4e8a38b3f16961d648f12a5543db4e42ff7854798bdb02a",
+      "feesMon": 40.08656670422781
+    },
+    {
+      "secp": "022dac9443d2004a876ff242368742aa38aae5a6b9fc54879293d40c21ca78e163",
+      "feesMon": 40.03853290666032
+    },
+    {
+      "secp": "02503df092f06071cd5b82987b204e9ce428469886b71dc1b71083c2a89d0fb50b",
+      "feesMon": 39.85472424018626
+    },
+    {
+      "secp": "0256e36b068c9373deb9f8664400abc1337b0d94b1f5bfed21a0e70f99b93ae18c",
+      "feesMon": 39.79195331912348
+    },
+    {
+      "secp": "033d8d472b5123a5883c9d0786d8a2193bc1df256c6415854ce361f9d319d4e232",
+      "feesMon": 39.75018010261706
+    },
+    {
+      "secp": "02dc103d9797c2d4dfe906c1ab38000a86d129973277597c9ffacddbb2de7e17de",
+      "feesMon": 38.650408422168866
+    },
+    {
+      "secp": "02dde74abfc17275eea7ed24eb5cc37765357237fb2e691d1c43bbd06bf8bc2c28",
+      "feesMon": 38.22098679336134
+    },
+    {
+      "secp": "025a1169081b037c40b2510f7e68c05f85176a5d700c05da5a1191c0206b24d81c",
+      "feesMon": 37.64709360535966
+    },
+    {
+      "secp": "02193d51df38cdad89dbf9df9ed0b4387da426fd25bdb747140fcae7fd5b2733b3",
+      "feesMon": 36.24244985585442
+    },
+    {
+      "secp": "02641d1034938ab6b4ea50e50ec04ff1bbe33bbae8235b96d27c9f7dc0ffdf785f",
+      "feesMon": 36.234201892394246
+    },
+    {
+      "secp": "02e5f310cf3411e3e9e890b9f9373d911d863733a2d84ab9488fcef46d2e7cc4fe",
+      "feesMon": 35.812085602045975
+    },
+    {
+      "secp": "03686f27312fd62be00bd9f42eecffbfecfa99415514927a1f4e859060e1a97c97",
+      "feesMon": 35.560031818709874
+    },
+    {
+      "secp": "025d3bf227cf151403bb5dcdc21cc06a8612cb3c1e994ef42a8ddce1acb5291087",
+      "feesMon": 35.557647515481584
+    },
+    {
+      "secp": "0297a0dd2d9b455482132cd5f30e68fe5e07386a975de07827c0746bfe683490e5",
+      "feesMon": 35.530794318974834
+    },
+    {
+      "secp": "03e74218cf2b37548ca807c40d075c8a6568ed7aaa8b463248639e7c98cdab02c0",
+      "feesMon": 35.13184425452635
+    },
+    {
+      "secp": "03bc65605210c522234e6de6db9b16a8fd59fe176c0d739d6b25832f33264fc2b5",
+      "feesMon": 34.41962602759284
+    },
+    {
+      "secp": "0208f84160464849cdd39a656503c845c830393a3a0add0b98810a31f351f5865f",
+      "feesMon": 34.371639814040385
+    },
+    {
+      "secp": "020bdb4060390ca9dab26ee1d04e005639345611f1df29f47d2a7c26f09799d865",
+      "feesMon": 34.29630383057296
+    },
+    {
+      "secp": "03f32a3391529192b4b1c364232d0b70bd888aa34bb7dc9f4b9a229007e840948b",
+      "feesMon": 34.20554912383519
+    },
+    {
+      "secp": "03386e1b22143e8d18de9bbd086f133bc0d96f8b349f3a430e816b143ddc5b18a8",
+      "feesMon": 33.98959307185579
+    },
+    {
+      "secp": "02be8ad9e24e8961371832962c09c6948930d927b598f476ceccf1987a27988834",
+      "feesMon": 33.76688915829636
+    },
+    {
+      "secp": "024f7b6efff634056a9b492ee8fd9c1abcca39747bed66f473f3255cc29502cd1d",
+      "feesMon": 33.267734081607166
+    },
+    {
+      "secp": "0278037b799aa88034aaf4bd205756e08d947761976ae4a82c04a6095739440af8",
+      "feesMon": 32.8540443276989
+    },
+    {
+      "secp": "029357a0f283d167ec16c0fd66b66e27378bc1487455d6215e7ac6605b8962bcca",
+      "feesMon": 32.78796803112611
+    },
+    {
+      "secp": "02bf6ed6114016cc3401583d13b342998f149b78cc94267cbc48b6d34c29acc13e",
+      "feesMon": 30.08084103011185
+    },
+    {
+      "secp": "0315fdef0e87beac4bfa0d06a8be8029135823d139428afb2bb73ee4eebbccafce",
+      "feesMon": 29.97135075063665
+    },
+    {
+      "secp": "03b8aea4bde62774f18b0d80de4ce03bcfa55de6e4fc310b0803a0bb7eaffbb562",
+      "feesMon": 29.966546359200965
+    },
+    {
+      "secp": "02233ab6a178c053ba0c80d37a500a83c5d6e67abd6e2a770f1342463784194b23",
+      "feesMon": 29.921928847559226
+    },
+    {
+      "secp": "031bbff1571123fde04e7cd4adee4ca3b6695fe5c0533e2e3aac4933dc6788d510",
+      "feesMon": 29.69038271551396
+    },
+    {
+      "secp": "03c9c18a64fbc3908b4a49b74dea1cd2c0363943c88fa70a32ab12facd80db4f79",
+      "feesMon": 28.5214759796897
+    },
+    {
+      "secp": "02563a6a2daa79853b45cc5879ebb6c23b444f7e4b99c4a2e9e472ef57b50b982a",
+      "feesMon": 28.41038699789714
+    },
+    {
+      "secp": "03ea35f760961803f8ea8cf8e009e282614370d59b8d49a750d172e1726efc0256",
+      "feesMon": 28.20692557185103
+    },
+    {
+      "secp": "02b03c0cbf064dbc2c1a0ad765af236d01c930ab98c2e6aa235990beb81e6d1326",
+      "feesMon": 27.901215195977443
+    },
+    {
+      "secp": "026c43458dea52f1ad309ef1c9a0eed90f4347146e64074466775675d5942c2a82",
+      "feesMon": 27.654875911484844
+    },
+    {
+      "secp": "02edec54216d835d3634e6220b83d02d337f16142f3caec99c797282ee0858cdee",
+      "feesMon": 27.43221494160933
+    },
+    {
+      "secp": "03771aba71c08a270981d70851bfeb27bf0e42e93f331cc1011d32ca47118acc78",
+      "feesMon": 26.746481212133627
+    },
+    {
+      "secp": "03dd68922e5a4b8da8f999d76c104647ae29a04289d3c1cc85db201e103998cc3e",
+      "feesMon": 25.073946606935447
+    },
+    {
+      "secp": "02341c2d3ee550a2f8d55e2a04a2b322189a8e33c3e88824fadd134c5be64274f6",
+      "feesMon": 23.58072652442565
+    },
+    {
+      "secp": "03c5dad0bb02231acec5c148d92a1e547099533b68d8b9be9b53cf24e461c83f45",
+      "feesMon": 23.06989462020109
+    },
+    {
+      "secp": "03b7272d367f6007b0d22e95f4c21d7822f039c893d93ada05ec2f6e7d5cf1f8ec",
+      "feesMon": 22.974172374861734
+    },
+    {
+      "secp": "0372dc8eea0084001562484d5ebe9f12ede39d0bda8f4e027b9961f3296a7446ad",
+      "feesMon": 22.65256717270103
+    },
+    {
+      "secp": "026078bd2db91f27c1222575d429c42db6e2e4eeeb3a7b6e156518c04f564dee96",
+      "feesMon": 22.647749468122253
+    },
+    {
+      "secp": "03af0190d4984071353ec6e290c2c62c4d9f44763098f40c8062595c206c843af0",
+      "feesMon": 22.56649959662639
+    },
+    {
+      "secp": "02fb912814e22af73297934c3cf8574b1e72d0f3b6e94b170e7f9a9da567bfbb4e",
+      "feesMon": 21.61060555889152
+    },
+    {
+      "secp": "0281297b4c2c2d3739dc697d3f03fc8c868906f4b7f0722c4576563d87f66b4275",
+      "feesMon": 21.496194305557548
+    },
+    {
+      "secp": "03fc1461b26e14812c43987d7de0cbf2100e3b01ea03b1ef023cf9e24646be7900",
+      "feesMon": 20.6433887004991
+    },
+    {
+      "secp": "0322207f068d7a907084ed290182bba46ac716e3ba5cffb4a3c8eebaa25f9c6b9b",
+      "feesMon": 20.62212523159075
+    },
+    {
+      "secp": "03762d5546cebbe997825ebbc64eee92d109f308bc7c1083cef48d1022ef9c3596",
+      "feesMon": 20.241980708112067
+    },
+    {
+      "secp": "02a5f68ebdd506ea06ecb6aa9e25fc0d1702d95646122ccf9310602a33d19dc44e",
+      "feesMon": 19.916006230701612
+    },
+    {
+      "secp": "0246a4697342f9701b39edf6faf7fb8ea31c45aed660a6520e2fc46843b76aed5b",
+      "feesMon": 18.41486487295184
+    },
+    {
+      "secp": "02bba6727b32d0d5d254acf4353b4d2a6523210f6b48d74ca40ef979e03af96b68",
+      "feesMon": 18.412691499969508
+    },
+    {
+      "secp": "02e70703d2fcec2e010c844c96901658bee630e5ddddf8f8f1a6fad6942db80140",
+      "feesMon": 16.97786260875242
+    },
+    {
+      "secp": "020943aae8b02cb2bcc0fce26e8d52e0785af30f4f2532273caf88f4329864641f",
+      "feesMon": 16.326452516977753
+    },
+    {
+      "secp": "03615154076362466f7d7166932ee2b015891ac1111b261e233ac92ff4ea268705",
+      "feesMon": 16.120183468811685
+    },
+    {
+      "secp": "022b554e6057fca7990bb5c966dfb215373a8845026a997ca0c6896abde5cd9cdb",
+      "feesMon": 14.825392898614378
+    },
+    {
+      "secp": "02af7c2bafc190d4d841a27d7716ef52fccba7b4893415287cfe8f579371117b79",
+      "feesMon": 13.738291714200109
+    },
+    {
+      "secp": "034432e542b3fcc2a6b787aaee4ab1628437e2c0df129737e414c0d87753c72fdc",
+      "feesMon": 13.472179238856127
+    },
+    {
+      "secp": "03fdd8ad18412eef357d3904da25b8fdd67034713226cd2832e14129e605b6a643",
+      "feesMon": 10.158353580433216
+    },
+    {
+      "secp": "02bbe98b6b9e9aa80e6c1be6b22ee5f1b7896b250251ce47080f4a91481457add4",
+      "feesMon": 7.62680778054108
+    },
+    {
+      "secp": "024b54aafccd2c5c612e0680aa36ace2155db217471b39298831d4ff78ac7a7a03",
+      "feesMon": 7.473470672204199
+    },
+    {
+      "secp": "02b360fd267a2aeea63dc3d1be93a24e9102a975f3ca9d30a30e1184390f7d0a81",
+      "feesMon": 6.311552977420308
+    },
+    {
+      "secp": "03b40ffec31790b993046a23617332154c4f3459ef530b41cd960bbc17a60f2032",
+      "feesMon": 2.861741068400124
+    }
+  ],
+  "largestBlockByTx": {
+    "blockNum": 71731904,
+    "txCount": 90,
+    "author": "02fbe48c47b1406b7dcf624bb801154bb63124170f042596bddf943a5fa900f37c"
+  },
+  "largestBlockByFees": {
+    "blockNum": 71733378,
+    "feesMon": 394.57482100369754,
+    "author": "027c4cf38a0e694180155195b763e5e2d8fd737533940414b97b14426f347c707b"
+  },
+  "activityBySegment": [
+    47089,
+    43900,
+    51231,
+    47916,
+    58732,
+    52051,
+    58151,
+    64002,
+    56394,
+    53289
+  ],
+  "activityByHour": {
+    "9": 12104,
+    "10": 82296,
+    "11": 88114,
+    "12": 99594,
+    "13": 108312,
+    "14": 101830,
+    "15": 40505
+  },
+  "totalMevFeesMon": 3122.100382083953,
+  "topMevEarners": [
+    {
+      "secp": "03f032be493752229481ab235b40d0351e384aeb170d93898f7713b7121460a045",
+      "feesMon": 225.07707744137426
+    },
+    {
+      "secp": "02b3914ab025eaa7a96bc6b7aa57a1ca0f4eb30df1cdcccdf23f7901a7b08b8f8c",
+      "feesMon": 171.20673236661568
+    },
+    {
+      "secp": "03fd1b112e82f4e2f8c9754e1a157c43f0a87dcbf23245775e00a6e53ab263e921",
+      "feesMon": 133.73309231507656
+    },
+    {
+      "secp": "03010586775441c1ec493cbf0a5c57d235a4e3796f7699e5a9855164529e80dbcf",
+      "feesMon": 123.85077876371501
+    },
+    {
+      "secp": "0252b24f791ee3a512b43ef72dfe56cea6ff442276ca77295b75fb7263d038963b",
+      "feesMon": 117.77048165909173
+    },
+    {
+      "secp": "02a0e440c38f2297727feacec3749de7a95c31280c97196dce912bae6addf39bf0",
+      "feesMon": 116.4313848929276
+    },
+    {
+      "secp": "03f182d82dcb41e338e77c2aa452d3f8692a83c1d79df98eb6189335451718d0b0",
+      "feesMon": 112.89883280241443
+    },
+    {
+      "secp": "021e2253750bc794a45c4e05ffb79d8a111bba50ab117b6de51d0e9bf021381480",
+      "feesMon": 98.77098737515277
+    },
+    {
+      "secp": "022229f3769520b3e071cc713a3a76951042a57802b375af53d82772ff8350017f",
+      "feesMon": 88.02698982332694
+    },
+    {
+      "secp": "02407325cfbcbad000da2383d4302db0630c752c1f5ee0690f566a23731000ad59",
+      "feesMon": 81.94095269162871
+    },
+    {
+      "secp": "02d23f55a72a2ca8f1dbd5db73cab09106560530bde243d2bd77af1561a7dde367",
+      "feesMon": 69.95257392356793
+    },
+    {
+      "secp": "02b234987a9973e08d4ed2e4e73bea572f9eacd0d662ded7033b30305cc9253675",
+      "feesMon": 65.50361527018686
+    },
+    {
+      "secp": "031c8bc9614e6d2d9c3642a6cfb2c6edbbcee927db4eec4f21c104f84ee886ece0",
+      "feesMon": 58.20817876218307
+    },
+    {
+      "secp": "0239fe92a4aae84b0a4acc155d16de66f4b1c285057982a290964634f2db992418",
+      "feesMon": 56.2032110256991
+    },
+    {
+      "secp": "0367c93236ecdda5c02d47f054009bae8f20df8de23ab5bc7e09ef74594d6b6f04",
+      "feesMon": 54.284092430490475
+    },
+    {
+      "secp": "02503df092f06071cd5b82987b204e9ce428469886b71dc1b71083c2a89d0fb50b",
+      "feesMon": 48.39789723827468
+    },
+    {
+      "secp": "0277b331913cb294cc8a43cd56dc31ab0ac77b07e17838ae0ebf970de506bf218d",
+      "feesMon": 47.887032908478766
+    },
+    {
+      "secp": "03686f27312fd62be00bd9f42eecffbfecfa99415514927a1f4e859060e1a97c97",
+      "feesMon": 45.58128911496776
+    },
+    {
+      "secp": "03603391275fb842731618493c3906057574a54dd66d9df6567d63c906a7c6d4a5",
+      "feesMon": 45.300239968282305
+    },
+    {
+      "secp": "038d8e900b0ce8a7f30550a643726bfc09243ea08d4f1094bffd1e948948558fed",
+      "feesMon": 44.66523316362714
+    },
+    {
+      "secp": "03dc5bc12dcdf8416f5ab83943bcc4655cfb7d3878e557805256fc19bbcf38b5bd",
+      "feesMon": 44.40626895240559
+    },
+    {
+      "secp": "0212c604e7819769ac911dc34770760f6aba45934d1af6249c6827e79f0edb27a1",
+      "feesMon": 44.352912011031215
+    },
+    {
+      "secp": "039c9e3fea41b8bbfac64972d794a7a643d86493f5e23ff2a94555e89ce1ff4662",
+      "feesMon": 42.87109259063179
+    },
+    {
+      "secp": "02193d51df38cdad89dbf9df9ed0b4387da426fd25bdb747140fcae7fd5b2733b3",
+      "feesMon": 40.78128433829059
+    },
+    {
+      "secp": "02fbb9abb43cff6f29a6ca40182e526847ca132d42abab6d1af517c956d19f7c68",
+      "feesMon": 39.72087765976629
+    },
+    {
+      "secp": "03bdd0a2528c617b554d414c4a0e31c5f228e46dc1a2b806f105fcbe078d1b5b56",
+      "feesMon": 37.02356908416978
+    },
+    {
+      "secp": "02ae1ba7bb248a470a5265bd0533e996165952b0535530acc1d75088e9b5854b5c",
+      "feesMon": 34.48584868373167
+    },
+    {
+      "secp": "02fc35933ca6d707c5ee5b811f9b56bc26cf82f01ef62f8360ec178a8382a8300d",
+      "feesMon": 32.8452427785441
+    },
+    {
+      "secp": "022dac9443d2004a876ff242368742aa38aae5a6b9fc54879293d40c21ca78e163",
+      "feesMon": 32.35622994978218
+    },
+    {
+      "secp": "03bddedc6b130cce8d610b3caa91b072348168181870427c7e2a5e50857af93e1b",
+      "feesMon": 32.33227790194903
+    },
+    {
+      "secp": "03615154076362466f7d7166932ee2b015891ac1111b261e233ac92ff4ea268705",
+      "feesMon": 32.2992953948144
+    },
+    {
+      "secp": "027682da9bbbdf06ed75b8c12f1192209da4c2c4cc6835dd71a41796568d8a9c01",
+      "feesMon": 30.797320404689863
+    },
+    {
+      "secp": "02edec54216d835d3634e6220b83d02d337f16142f3caec99c797282ee0858cdee",
+      "feesMon": 28.46113652563422
+    },
+    {
+      "secp": "033d8d472b5123a5883c9d0786d8a2193bc1df256c6415854ce361f9d319d4e232",
+      "feesMon": 28.37103630496887
+    },
+    {
+      "secp": "0214d6f23ff55f848e8b86513569e09e0fae58fcf82fc7b22a9026e8d95e929274",
+      "feesMon": 27.494966077760008
+    },
+    {
+      "secp": "02e47a97be68f368e2da2b3136a429255f30263619e9e6d9dda6ac89c6ed7e4410",
+      "feesMon": 26.922118150242415
+    },
+    {
+      "secp": "0300a4d5f222b25b615c4f2a6ffbedef95ec62a74bc9d56454b8ff390af54cb329",
+      "feesMon": 26.522235381618906
+    },
+    {
+      "secp": "02a5f68ebdd506ea06ecb6aa9e25fc0d1702d95646122ccf9310602a33d19dc44e",
+      "feesMon": 24.39683059721675
+    },
+    {
+      "secp": "035c93d470471aea2f68fc7016491bf5a2f38a084bfa0412e1960dae14ac2338e3",
+      "feesMon": 22.182017681793123
+    },
+    {
+      "secp": "038976036a8dd4b602e03380edb2aa60d6865313d37aaf16cda11db56698466dc1",
+      "feesMon": 22.102517992243897
+    },
+    {
+      "secp": "03b64d022f68f530fdfd75eb57014aff5a4d8416dfa8f41a39b40f68f2c5d4bcbb",
+      "feesMon": 21.729345827108624
+    },
+    {
+      "secp": "038c5b6ebb7ad2842c2498ca5ca6da348459b259f7d86fad940f13a7bb43ce7325",
+      "feesMon": 20.15436316519775
+    },
+    {
+      "secp": "03c264a08ba99ea0dee392a9daceb519d5bf7a293610398a5904b93abb63b6f076",
+      "feesMon": 19.604487110776013
+    },
+    {
+      "secp": "03f5923064626d42824063eb428ac600cb2885ff2c21b5d578ad50ca2318a6c4bb",
+      "feesMon": 18.3428034441243
+    },
+    {
+      "secp": "03ff39df45b74dc0b1623e0065db8e6ff0a79a06c9afd72a75ccefd739604db5dc",
+      "feesMon": 17.786971873129424
+    },
+    {
+      "secp": "022d5c0916186d979eec4e9fd8fb39c333adc90f2a07d32be9c4ab8b91b9dc1051",
+      "feesMon": 17.508733043373528
+    },
+    {
+      "secp": "0237534fc1ff5118f436ab78d5dbe9cb96147b6290460b7517e02895f8aa9f866c",
+      "feesMon": 17.305597679297303
+    },
+    {
+      "secp": "02e98da942b2e114d1d2cee0164742f858c9e162c66d2bbfadc7b81cc61958c0f6",
+      "feesMon": 17.2875365619912
+    },
+    {
+      "secp": "02330eedcc52e3e82e5aa48d02e4a9a8344504dc94b651f83679147f82910870e8",
+      "feesMon": 16.387788023875633
+    },
+    {
+      "secp": "02201bdea9fd814cd14f725209c18c685f88676deb29d55b3f968da7ae8aff7084",
+      "feesMon": 16.34099761037079
+    },
+    {
+      "secp": "0223b4d991380e431ae1beb7c4e46fbce62e9028f0c973ccfec124a83fa5fb64a4",
+      "feesMon": 16.061174587066883
+    },
+    {
+      "secp": "03627607731156bdaecdc2b47aafb021aa1880dc8d05965fb30fd0bc1e937ae8c0",
+      "feesMon": 15.885112798630265
+    },
+    {
+      "secp": "035159ba3d75b8ad09436873c4b7a598b59732eb7a3dbe3a37bd73d0c4dcd49128",
+      "feesMon": 14.86119032493707
+    },
+    {
+      "secp": "02641d1034938ab6b4ea50e50ec04ff1bbe33bbae8235b96d27c9f7dc0ffdf785f",
+      "feesMon": 14.806172577567589
+    },
+    {
+      "secp": "020725ea4d9c56d7f0f798599c59682d1cfc6b667916946645d5887d5225c76733",
+      "feesMon": 13.938238512700533
+    },
+    {
+      "secp": "027802cce1bdec2443c4ca67cc7384ccd5087d64acab480c77ce8eb3d515809b44",
+      "feesMon": 13.769670838378119
+    },
+    {
+      "secp": "0256e36b068c9373deb9f8664400abc1337b0d94b1f5bfed21a0e70f99b93ae18c",
+      "feesMon": 13.686458929092478
+    },
+    {
+      "secp": "03621a38c847c28363182b0df77a4840c6842c06bb5e23609ce01864c47430d392",
+      "feesMon": 13.6135169463451
+    },
+    {
+      "secp": "036aac39879e73db1591591b578705198b6053af692a26d1fbeefe44a2489694ab",
+      "feesMon": 13.217132528318837
+    },
+    {
+      "secp": "0208f84160464849cdd39a656503c845c830393a3a0add0b98810a31f351f5865f",
+      "feesMon": 13.10644581212577
+    },
+    {
+      "secp": "0304a9ac8c0b6dae8cb9be4faf64580dcf3f1c8b2c9c36d3e45301367674c6eafd",
+      "feesMon": 13.059768007542289
+    },
+    {
+      "secp": "02f9eb1163e3d2ebde9f06fac83d8875e04997ce4711e44e63033fd7ad7a39581b",
+      "feesMon": 12.894321749725727
+    },
+    {
+      "secp": "02906dff6c77bfbfa7fc7cb84fbe5fe0e23bb80c5289de1d2ab0c85e24473c4bbb",
+      "feesMon": 12.30515289593946
+    },
+    {
+      "secp": "03e773631152aa98da046d945f0d410d85369e19764a7f9de77fcb896defe527df",
+      "feesMon": 12.043017213591972
+    },
+    {
+      "secp": "0243021ec79de84d62adc5c7793c96a35f717526d04a1c32ba0c73126c4ccf4166",
+      "feesMon": 11.838131898770209
+    },
+    {
+      "secp": "0315f4f2df2dbcf09bb71c348840764c0e415e4b6e9f1340fd6980bdb98a7e6dda",
+      "feesMon": 11.18843412726043
+    },
+    {
+      "secp": "02233ab6a178c053ba0c80d37a500a83c5d6e67abd6e2a770f1342463784194b23",
+      "feesMon": 11.092765031367632
+    },
+    {
+      "secp": "025435f996de6f542f59dff45a575096122094d3f9a4b0a626d2535782d94670ca",
+      "feesMon": 10.682259644433849
+    },
+    {
+      "secp": "03b99d4e7efd4e06b762250644a14cc50eb54679c4e9aa3c401b3dc328c128a9b5",
+      "feesMon": 10.681340644559947
+    },
+    {
+      "secp": "03bc65605210c522234e6de6db9b16a8fd59fe176c0d739d6b25832f33264fc2b5",
+      "feesMon": 10.309570640603802
+    },
+    {
+      "secp": "0380c38d0ee6d65db62fb0b4f3f0f7848350bc2a8f0b8dc843cca9d5ac02329f37",
+      "feesMon": 10.022330529289631
+    },
+    {
+      "secp": "02087d6afd5b2ce1a22aa5682dbb0363f2557bf9cde3545fbd374c98fd2c3f3747",
+      "feesMon": 9.757136123603349
+    },
+    {
+      "secp": "02dde74abfc17275eea7ed24eb5cc37765357237fb2e691d1c43bbd06bf8bc2c28",
+      "feesMon": 9.448614642121177
+    },
+    {
+      "secp": "03b7a11a3db7468c975a3e5b63193b8e5c695804c38e8695423295a7bb12289736",
+      "feesMon": 9.419942503197298
+    },
+    {
+      "secp": "0372dc8eea0084001562484d5ebe9f12ede39d0bda8f4e027b9961f3296a7446ad",
+      "feesMon": 9.15739206116811
+    },
+    {
+      "secp": "03ecfe1a4e3c91d02e8e2572a736fd515895a66af7ef69b1baf868ba802b0af2f0",
+      "feesMon": 8.344519139723102
+    },
+    {
+      "secp": "031bbff1571123fde04e7cd4adee4ca3b6695fe5c0533e2e3aac4933dc6788d510",
+      "feesMon": 8.216022662440448
+    },
+    {
+      "secp": "035fbf41201677e2b597c24d0f5db8171dc9092b5d05d7d17fd9bb20bf34698cf4",
+      "feesMon": 8.123555825426173
+    },
+    {
+      "secp": "020bdb4060390ca9dab26ee1d04e005639345611f1df29f47d2a7c26f09799d865",
+      "feesMon": 7.886947301067069
+    },
+    {
+      "secp": "031c0cdc0789b9eb9b9c044610d2417e12eaca6770226c08d7042853fdf0ec7f53",
+      "feesMon": 7.849044623609582
+    },
+    {
+      "secp": "02be8ad9e24e8961371832962c09c6948930d927b598f476ceccf1987a27988834",
+      "feesMon": 7.76979341351264
+    },
+    {
+      "secp": "0278037b799aa88034aaf4bd205756e08d947761976ae4a82c04a6095739440af8",
+      "feesMon": 7.758461785826172
+    },
+    {
+      "secp": "02341c2d3ee550a2f8d55e2a04a2b322189a8e33c3e88824fadd134c5be64274f6",
+      "feesMon": 7.736300294390087
+    },
+    {
+      "secp": "03c9c18a64fbc3908b4a49b74dea1cd2c0363943c88fa70a32ab12facd80db4f79",
+      "feesMon": 7.711949493538909
+    },
+    {
+      "secp": "026c43458dea52f1ad309ef1c9a0eed90f4347146e64074466775675d5942c2a82",
+      "feesMon": 7.391680906162974
+    },
+    {
+      "secp": "02e70703d2fcec2e010c844c96901658bee630e5ddddf8f8f1a6fad6942db80140",
+      "feesMon": 6.998988154799582
+    },
+    {
+      "secp": "03b8aea4bde62774f18b0d80de4ce03bcfa55de6e4fc310b0803a0bb7eaffbb562",
+      "feesMon": 6.698073179001613
+    },
+    {
+      "secp": "02fb912814e22af73297934c3cf8574b1e72d0f3b6e94b170e7f9a9da567bfbb4e",
+      "feesMon": 6.477918679461139
+    },
+    {
+      "secp": "03771aba71c08a270981d70851bfeb27bf0e42e93f331cc1011d32ca47118acc78",
+      "feesMon": 6.242364919310678
+    },
+    {
+      "secp": "0338e91fbb59ff2b060642bb4ad9458b3f0371c89ed3507df5a4751e2c1b8bdeb4",
+      "feesMon": 6.05089201887649
+    },
+    {
+      "secp": "03e74218cf2b37548ca807c40d075c8a6568ed7aaa8b463248639e7c98cdab02c0",
+      "feesMon": 5.848936919505249
+    },
+    {
+      "secp": "0246a4697342f9701b39edf6faf7fb8ea31c45aed660a6520e2fc46843b76aed5b",
+      "feesMon": 5.203245363400577
+    },
+    {
+      "secp": "03d5935169535884451d6ad765d501b88c9ddc53f38f47ce714ddf45f90a98de8b",
+      "feesMon": 5.0978518196566815
+    },
+    {
+      "secp": "0322207f068d7a907084ed290182bba46ac716e3ba5cffb4a3c8eebaa25f9c6b9b",
+      "feesMon": 4.902281223452786
+    },
+    {
+      "secp": "024f7b6efff634056a9b492ee8fd9c1abcca39747bed66f473f3255cc29502cd1d",
+      "feesMon": 4.893703118258797
+    },
+    {
+      "secp": "0297a0dd2d9b455482132cd5f30e68fe5e07386a975de07827c0746bfe683490e5",
+      "feesMon": 4.589294905421267
+    },
+    {
+      "secp": "0202169e1025e8aa4d5979e759dd35e6e4baaa04137289d0651e45d9218b7a9229",
+      "feesMon": 4.401691950600649
+    },
+    {
+      "secp": "022b554e6057fca7990bb5c966dfb215373a8845026a997ca0c6896abde5cd9cdb",
+      "feesMon": 3.429825049642699
+    },
+    {
+      "secp": "02af7c2bafc190d4d841a27d7716ef52fccba7b4893415287cfe8f579371117b79",
+      "feesMon": 3.3468818329849346
+    },
+    {
+      "secp": "02db843f6701ef00022026b08e0276d25791dcd11ea54e69538cac1550886f685a",
+      "feesMon": 2.401987758256269
+    },
+    {
+      "secp": "02bba6727b32d0d5d254acf4353b4d2a6523210f6b48d74ca40ef979e03af96b68",
+      "feesMon": 2.2978677988575154
+    },
+    {
+      "secp": "03fdd8ad18412eef357d3904da25b8fdd67034713226cd2832e14129e605b6a643",
+      "feesMon": 2.2759112809469477
+    },
+    {
+      "secp": "020c05dedec1dd1c1aa1da4b9772660ddb27c9fc5d5333750db159f4a516ae50b7",
+      "feesMon": 2.2565051512267797
+    },
+    {
+      "secp": "0265c19d462f24f7ece64ab180b6c7b893b8a8bc4184df8b7d539093e3d5daffee",
+      "feesMon": 2.225498663178156
+    },
+    {
+      "secp": "02b360fd267a2aeea63dc3d1be93a24e9102a975f3ca9d30a30e1184390f7d0a81",
+      "feesMon": 1.9204072603903302
+    },
+    {
+      "secp": "039463793171c9882ccc4f84dc35ee262e6b2485bacbd2c93bee425a70260b1b23",
+      "feesMon": 1.7068216266665783
+    },
+    {
+      "secp": "0281297b4c2c2d3739dc697d3f03fc8c868906f4b7f0722c4576563d87f66b4275",
+      "feesMon": 1.6622392669310588
+    },
+    {
+      "secp": "02e76d2234a9cd9f25bac7ef946fc71a3102e95e5c4498c559d0127b06a5c63eff",
+      "feesMon": 1.4875770948174603
+    },
+    {
+      "secp": "026078bd2db91f27c1222575d429c42db6e2e4eeeb3a7b6e156518c04f564dee96",
+      "feesMon": 1.289884122901344
+    },
+    {
+      "secp": "02a379e003a9011338ddc96b58165c29d81e11a72cb692d2366dc2485fc84dbe95",
+      "feesMon": 0.7869397953493245
+    },
+    {
+      "secp": "0316e0861acf92dc4c0e357f73fe07263a87b65513a4b73750ab9194f9a39a6a54",
+      "feesMon": 0.5572294604257619
+    },
+    {
+      "secp": "036e44a092493800e427b2b08d3427d804348b1368ecd0a6af6510ae40ce507187",
+      "feesMon": 0.4758499530092969
+    },
+    {
+      "secp": "02d27a97adf64efd74b72b2f274eb1fedf54569f6ca3bc5636274190166f26988a",
+      "feesMon": 0.4723128906770848
+    },
+    {
+      "secp": "0345b7122100e0d5e66fb4913cdc5db30f9836e1821a2ad3575307c48eeae060bb",
+      "feesMon": 0.45301149481755815
+    },
+    {
+      "secp": "0389f4d29ac3ddbd010f2ba6874c29695ec187ce32d9f8941ecf1a01642cadaf52",
+      "feesMon": 0.34857581804538035
+    },
+    {
+      "secp": "036ba50b2859bc05e5e1bbb708855ecd18d1054fb199c32683169432e57c9fa57f",
+      "feesMon": 0.1853513576906934
+    },
+    {
+      "secp": "027f794d35a37c17b7ea1ccc0bfe1e368b3bc978a3f9b8a84ab575da63513da42c",
+      "feesMon": 0.17290011337851927
+    },
+    {
+      "secp": "0268d8a8ae2a40524ff912b31adabe3fb5d8ef00660ca55fd1839063812364aa38",
+      "feesMon": 0.15800764417535607
+    },
+    {
+      "secp": "031d15292ab4a5488c476b5361bbaf1df2a6897c481ac6acf49575ee48f09a7cf5",
+      "feesMon": 0.08683308747149628
+    },
+    {
+      "secp": "03c4a66f8b3febbe8785d865703f29a99dfb72e59c43d90a9be8f793c221f36b09",
+      "feesMon": 0.0717462092963624
+    },
+    {
+      "secp": "03c5dad0bb02231acec5c148d92a1e547099533b68d8b9be9b53cf24e461c83f45",
+      "feesMon": 0.0682431535135817
+    },
+    {
+      "secp": "03dd68922e5a4b8da8f999d76c104647ae29a04289d3c1cc85db201e103998cc3e",
+      "feesMon": 0.05878819591139589
+    },
+    {
+      "secp": "024b54aafccd2c5c612e0680aa36ace2155db217471b39298831d4ff78ac7a7a03",
+      "feesMon": 1.98e-13
+    }
+  ]
+}
