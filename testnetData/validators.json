@@ -3219,12 +3219,16 @@
   },
   "032c103fc0d928d14a790061917da33ee112f3ec90771bf69425c7ca374ff90581": {
     "secp": "032c103fc0d928d14a790061917da33ee112f3ec90771bf69425c7ca374ff90581",
-    "name": "",
+    "name": "Cortex Global",
     "validatorAddress": "0x61E27ae5214AC8CD56ecb39C9B5D2750D0C0C1B5",
     "operatorAddress": "0xc4B53a9a230143d3EB6e9f7E82552e5A046d6c6d",
     "registrationDate": "2026-05-29T19:56:48.000Z",
     "registrationUnix": 1780084608,
-    "updatedAt": "2026-05-31T19:35:26.867Z"
+    "updatedAt": "2026-06-04T14:53:55.405Z",
+    "logo": "https://raw.githubusercontent.com/Cortex-XYZ/brand-assets/refs/heads/main/cortex-mark-orange-on-transparent.png",
+    "website": "https://cortexglobal.xyz",
+    "description": "A professional network serving the blockchain adoption needs of communities around the world through education, services, and events.",
+    "x": "https://x.com/Cortex_Global_"
   },
   "02b49e9a3ddb6437b0c46d587e8023ef1ef519ed6ade62fd82ff502e02f0c85a18": {
     "secp": "02b49e9a3ddb6437b0c46d587e8023ef1ef519ed6ade62fd82ff502e02f0c85a18",
