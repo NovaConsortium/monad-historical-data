@@ -4,8 +4,8 @@
   "operatorAddress": "0xA6dCD548cE093D5c13513d8BdB17eE3666d0B413",
   "registrationDate": "2025-11-11T18:56:34.000Z",
   "registrationUnix": 1762887394,
-  "totalSlots": 72138,
-  "successful": 72136,
+  "totalSlots": 72153,
+  "successful": 72151,
   "timeouts": 2,
   "successRate": "100.00%",
   "epochs": [
@@ -81663,6 +81663,33 @@
       "stake": "0",
       "commission": 0,
       "mevFeesEarned": 34.78094074811598
+    },
+    {
+      "epoch": "1586",
+      "leaderSlots": 15,
+      "blocks": [
+        79255383,
+        79255449,
+        79255760,
+        79255990,
+        79256622,
+        79257625,
+        79257803,
+        79258164,
+        79258488,
+        79258858,
+        79259073,
+        79259287,
+        79259962,
+        79260021,
+        79260121
+      ],
+      "timeouts": 0,
+      "priorityFeesMon": 10.562495406432982,
+      "txCount": 305,
+      "stake": "0",
+      "commission": 0,
+      "mevFeesEarned": 15.128755694954075
     }
   ]
 }
