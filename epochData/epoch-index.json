@@ -3281,10 +3281,11 @@
   },
   {
     "epoch": "1584",
-    "totalBlocks": 16815,
-    "totalTxCount": 281779,
-    "totalPriorityFeesMon": 7533.920123119977,
-    "totalTimeouts": 1,
-    "dayOfWeek": "Thursday"
+    "totalBlocks": 49609,
+    "totalTxCount": 879249,
+    "totalPriorityFeesMon": 28432.112168954118,
+    "totalTimeouts": 3,
+    "dayOfWeek": "Thursday",
+    "totalMevFeesMon": 669.1205555428324
   }
 ]
