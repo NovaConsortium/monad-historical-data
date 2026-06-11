@@ -3247,5 +3247,14 @@
     "registrationDate": "2026-02-15T23:43:22.000Z",
     "registrationUnix": 1771199002,
     "updatedAt": "2026-05-31T19:35:26.867Z"
+  },
+  "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa": {
+    "secp": "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa",
+    "name": "Uphold",
+    "logo": "https://cdn.prod.website-files.com/65116a8935747aeda81c6865/65df55befe4d3857f40e05b5_UPHOLD.png",
+    "website": "https://uphold.com/en-us",
+    "description": "Powering the Web3 economy",
+    "x": "https://x.com/UpholdInc",
+    "updatedAt": "2026-06-11T00:14:12.441Z"
   }
 }
