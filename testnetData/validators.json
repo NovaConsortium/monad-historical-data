@@ -162,7 +162,11 @@
     "website": "https://zellic.io/",
     "description": "The go-to blockchain security firm for top teams, specializing in Cosmos, EVM, ZK, Move (Aptos and Sui). We solve your hardest security problems.\nTelegram: t.me/zellic_io",
     "x": "https://x.com/zellic_io",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xA33bD333E4C48db5C913064cfe8254410D3E770e",
+    "operatorAddress": "0x2121b7D36F50E8a4DcabB8d50dDad8E4c04e2e3c",
+    "registrationDate": "2025-12-16T17:10:32.000Z",
+    "registrationUnix": 1765905032
   },
   "02682d31c19c51deea0c672022dfed7744ac7e199ceebcc7adb2fc4a9e436ffc01": {
     "secp": "02682d31c19c51deea0c672022dfed7744ac7e199ceebcc7adb2fc4a9e436ffc01",
@@ -366,7 +370,11 @@
     "website": "https://www.docomoglobalgr.com/english",
     "description": "NTT DOCOMO GLOBAL will oversee the DOCOMO group's global business operations and drive integrated and agile strategies across diverse domains. Leveraging its global presence, the new subsidiary, working in collaboration with local partners, aims to enhance the quality of life for global customers by creating new lifestyles and contributing to structural changes in societies and industries worldwide.",
     "x": "https://x.com/nttdigital_io",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xb33E6AeFd6F6aBC59cD8D0111D7f647A0f442999",
+    "operatorAddress": "0x382844ffb8485e2894BaB152589057a6e5B2c95d",
+    "registrationDate": "2025-12-16T17:16:46.000Z",
+    "registrationUnix": 1765905406
   },
   "02419e9e059d952d3f82a9e5ae558c62d724808c890cc4404af68c50b2d774f744": {
     "secp": "02419e9e059d952d3f82a9e5ae558c62d724808c890cc4404af68c50b2d774f744",
@@ -453,7 +461,11 @@
     "website": "https://flipsidecrypto.xyz",
     "description": "Flipside helps protocols grow intelligently--using AI agents and data science.",
     "x": "https://x.com/flipsidecrypto",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x5d25BE458B9eDc5722F078b48DD03bcD94Cdd1AE",
+    "operatorAddress": "0x4366e6Fe0D9B5611d7Eed0Fe52BE329caFD04583",
+    "registrationDate": "2025-12-16T17:20:01.000Z",
+    "registrationUnix": 1765905601
   },
   "025c6b722b4f9a7ff79cbfbc82afd6030b9eeabb4af41af4822c6f1a781134a1a3": {
     "secp": "025c6b722b4f9a7ff79cbfbc82afd6030b9eeabb4af41af4822c6f1a781134a1a3",
@@ -566,7 +578,11 @@
     "website": "https://stakeangle.com/",
     "description": "Non-custodial staking provider",
     "x": "https://x.com/Muster365",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xCA8632A5b456e819970857F580d6f791D1C5dc09",
+    "operatorAddress": "0xa849b3171098e40099D28aB2EF6B8e511279fc61",
+    "registrationDate": "2025-12-16T17:23:53.000Z",
+    "registrationUnix": 1765905833
   },
   "02f49a00d1ad1c405af464154b3ab0c17ff5f99579227c5a6d44fe3f2c48cc347e": {
     "secp": "02f49a00d1ad1c405af464154b3ab0c17ff5f99579227c5a6d44fe3f2c48cc347e",
@@ -588,7 +604,11 @@
     "website": "https://unit410.com/",
     "description": "Empowering hodlers to use their crypto in secure and novel ways",
     "x": "https://x.com/unit_410",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x186663c0033288856f5Ee72e84775293d76FA903",
+    "operatorAddress": "0x384342040e8311a6F2E8314098E95d5618C531a3",
+    "registrationDate": "2025-12-16T17:24:25.000Z",
+    "registrationUnix": 1765905865
   },
   "034bde7b90f3a0f0a519f87b02e00d59c2f5d8b89098d4dad326b181f1d136a797": {
     "secp": "034bde7b90f3a0f0a519f87b02e00d59c2f5d8b89098d4dad326b181f1d136a797",
@@ -1910,7 +1930,11 @@
     "website": "https://stakeshark.io/",
     "description": "Industry Leader. Trusted by 200,000 delegators since 2019. Over $200 million in staked assets across 30+ networks.",
     "x": "https://x.com/stake_shark",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x1fAaA836C89643BCCbE6D6f60360d200dC0Dc7F5",
+    "operatorAddress": "0xD20a8456eBf9f90E86b899dC857745c5C57F6E76",
+    "registrationDate": "2025-12-17T10:56:50.000Z",
+    "registrationUnix": 1765969010
   },
   "02bc0c86193948d7fba858cc7a2c97d7b4fdaf5da8ff2c38bd47a36b647c7a33b9": {
     "secp": "02bc0c86193948d7fba858cc7a2c97d7b4fdaf5da8ff2c38bd47a36b647c7a33b9",
@@ -1919,7 +1943,11 @@
     "website": "https://stakecito.com",
     "description": "Securing & Decentralizing PoS Networks.",
     "x": "https://x.com/stakecito",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x5c42B977E26E1105Fa92c2B5A22231De9450fC6e",
+    "operatorAddress": "0x863f563AAd493825beE199fAa8Da135509F9d63D",
+    "registrationDate": "2025-12-17T11:29:45.000Z",
+    "registrationUnix": 1765970985
   },
   "022f7db5a4f1aacf793aac5ab68ded690084190d84da968aea4cffde8ca20873b3": {
     "secp": "022f7db5a4f1aacf793aac5ab68ded690084190d84da968aea4cffde8ca20873b3",
@@ -1928,7 +1956,11 @@
     "website": "https://www.kraken.com",
     "description": "Powering Kraken Earn - the crypto platform for smarter investing.",
     "x": "https://x.com/krakenfx/",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x3EBACb032efdD65b9DF1A7d3bfeF78E1f0C82BCA",
+    "operatorAddress": "0xfEEafa73D83c1e6C49DF3590E767e367e502e7A9",
+    "registrationDate": "2025-12-17T11:30:44.000Z",
+    "registrationUnix": 1765971044
   },
   "036daee7750e29e46eb64d86ad1cc7b235d7f1ad9597941a3a77cdd641cead4528": {
     "secp": "036daee7750e29e46eb64d86ad1cc7b235d7f1ad9597941a3a77cdd641cead4528",
@@ -1937,7 +1969,11 @@
     "website": "https://luganodes.com/",
     "description": "Swiss-operated, non-custodial, institutional grade staking provider with $3Bn+ in assets, supporting 50+ PoS networks.",
     "x": "https://x.com/luganodes",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xD1262403815C5F7061932E299F9B7d0B31FFb2f8",
+    "operatorAddress": "0x5A4121eb3d1F5c0f882E5ffaf95D3aB4A9F5166C",
+    "registrationDate": "2025-12-17T11:33:04.000Z",
+    "registrationUnix": 1765971184
   },
   "0350c65b72c4281d9b5dc78a5ea1eeb1661a357ac23ecb8d723daebcf8bbd0b494": {
     "secp": "0350c65b72c4281d9b5dc78a5ea1eeb1661a357ac23ecb8d723daebcf8bbd0b494",
@@ -1946,7 +1982,11 @@
     "website": "https://www.hashkey.cloud/",
     "description": "HashKey Cloud, as a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, and secure blockchain services to clients worldwide. Since 2018, we have been deeply committed to blockchain infrastructure technologies, with our staking services covering over 80 mainstream public chains and continuous exploration into Ethereum Layer2 and BTC Staking.\nWe have upgraded our product line as Web3 transitions from foundational technology to application development. Our new product line includes Professional Staking Service Designed Specifically for ETH ETF Issuers (ETF Staking Pro). We aim to meet the diverse needs of our clients and provide top-notch services to the global market.",
     "x": "https://x.com/HashKeyCloud",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x2676F4411A205eb6B141E200e50BE10F04a6f914",
+    "operatorAddress": "0x516fdA4E678d683332c689e5080d34F4cB3D0058",
+    "registrationDate": "2025-12-17T13:38:39.000Z",
+    "registrationUnix": 1765978719
   },
   "0236bb5f4016cb92794d6e5c0bf8b1f359351813b9a924a665167e93d2a173705b": {
     "secp": "0236bb5f4016cb92794d6e5c0bf8b1f359351813b9a924a665167e93d2a173705b",
@@ -1955,7 +1995,11 @@
     "website": "https://tienthuattoan.com",
     "description": "Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market.",
     "x": "https://x.com/ttt_lab",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x98A1a236c07567A806c7a596599E305BbAFBC0Ce",
+    "operatorAddress": "0xc833404089416EAb548dF4ef2a998599c57CD83e",
+    "registrationDate": "2025-12-17T15:38:49.000Z",
+    "registrationUnix": 1765985929
   },
   "036cc4ac39d2a751a9b1ee6c7b199fe93cf7cf06243e0782a31fb9f59e05aafdf1": {
     "secp": "036cc4ac39d2a751a9b1ee6c7b199fe93cf7cf06243e0782a31fb9f59e05aafdf1",
@@ -1964,7 +2008,11 @@
     "website": "https://finoa-fcs.io/",
     "description": "Stake and grow your assets using Finoa Consensus Services's institutional-grade infrastructure.",
     "x": "https://x.com/FinoaConsensus",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xd408B7a24B4859fc18128aA9809325475F18e7bc",
+    "operatorAddress": "0xA294A74C47912DC7035D1c8Fe9F3c75244740ff4",
+    "registrationDate": "2025-12-17T15:40:43.000Z",
+    "registrationUnix": 1765986043
   },
   "032b6eda0655044acfc13e7ac87e35ec8487cbc6b31c1adbf873b9ed1b17f4822f": {
     "secp": "032b6eda0655044acfc13e7ac87e35ec8487cbc6b31c1adbf873b9ed1b17f4822f",
@@ -1973,7 +2021,11 @@
     "website": "https://www.lakestake.io/",
     "description": "Stake at the lake!",
     "x": "https://x.com/lakestakeio",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x8006A4C57B9ae72727a4D9d7FC157E905272Dd2A",
+    "operatorAddress": "0x563d8BB1503be20b0fF9eCB6D4BE1B566bCEEB95",
+    "registrationDate": "2025-12-17T15:51:14.000Z",
+    "registrationUnix": 1765986674
   },
   "033d60ac9d9a830ded2522837e7407699e6f9aac0b8d8829f04627a39d4616af65": {
     "secp": "033d60ac9d9a830ded2522837e7407699e6f9aac0b8d8829f04627a39d4616af65",
@@ -1982,7 +2034,11 @@
     "website": "https://trusted-point.com",
     "description": "Stake with confidence. TrustedPoint brings top-tier reliability, decentralization, and security to PoS blockchains.",
     "x": "https://x.com/Trusted_Point",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x0C44cB067fa8ad1a84849EE40C4C24E59F792180",
+    "operatorAddress": "0x04a590305bE1f96441026eD10440189cC8577e89",
+    "registrationDate": "2025-12-17T15:55:53.000Z",
+    "registrationUnix": 1765986953
   },
   "02b7d38749f27d659e6311ecec475a40bd7f13339eb309da15c4f12eb46215b71b": {
     "secp": "02b7d38749f27d659e6311ecec475a40bd7f13339eb309da15c4f12eb46215b71b",
@@ -1991,7 +2047,11 @@
     "website": "",
     "description": "",
     "x": "",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xf1975bA34EAA6352E5aA54EBFc9a67fbBCFC5984",
+    "operatorAddress": "0x9C9401051D74ec2b2C02D8577E9Df35d9BA64eaf",
+    "registrationDate": "2025-12-17T16:07:52.000Z",
+    "registrationUnix": 1765987672
   },
   "02151326669ec050aaa48c7effd9da02cac831182fff58f319a4e2a892e78818fe": {
     "secp": "02151326669ec050aaa48c7effd9da02cac831182fff58f319a4e2a892e78818fe",
@@ -2000,7 +2060,11 @@
     "website": "https://stakeus.xyz",
     "description": "Trust Us Stake Us",
     "x": "https://x.com/StakeusXyz",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xF9419138FC986E0a8C742C78ed2bd0353Cd8C925",
+    "operatorAddress": "0x0c171A2d256550Dd3Fe0670EaA765deF1d224C83",
+    "registrationDate": "2025-12-17T16:23:34.000Z",
+    "registrationUnix": 1765988614
   },
   "03226b01cd4f0ba0d782f10ae3f4d14d36db5d1a95f31da9c792ea4c198aa584d3": {
     "secp": "03226b01cd4f0ba0d782f10ae3f4d14d36db5d1a95f31da9c792ea4c198aa584d3",
@@ -2009,7 +2073,11 @@
     "website": "https://originstake.com",
     "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator, ensuring secure staking on Monad. With extensive blockchain experience and uptime commitment, we deliver reliable performance for decentralized ecosystems.",
     "x": "https://x.com/OriginStake",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x166D86dFF2b7AD7a06f299544Ff52Cf3cE36ce95",
+    "operatorAddress": "0x7749a4b46C976d0bB62226Ae4A581E1C1bCB1b09",
+    "registrationDate": "2025-12-17T17:33:40.000Z",
+    "registrationUnix": 1765992820
   },
   "0372f10d16ac2635c3dcd7980555365a3ffbc3b920e4d105c084c198b306776f0d": {
     "secp": "0372f10d16ac2635c3dcd7980555365a3ffbc3b920e4d105c084c198b306776f0d",
@@ -2018,7 +2086,11 @@
     "website": "https://nodeshub.online",
     "description": "Empowering Decentralization, Ensuring Security",
     "x": "https://x.com/Nodes_Hub",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x96F38e18f0507A4fb08379700e6b2195de2E6788",
+    "operatorAddress": "0xa48C1EBFcE0bAF744111a02b0A092E7B4f41e789",
+    "registrationDate": "2025-12-17T18:34:30.000Z",
+    "registrationUnix": 1765996470
   },
   "03eeec13feefcecd1f4973135ea272391cf1d63a51e497438e970d30981c110dc8": {
     "secp": "03eeec13feefcecd1f4973135ea272391cf1d63a51e497438e970d30981c110dc8",
@@ -2027,7 +2099,11 @@
     "website": "https://daic.capital/",
     "description": "The official validator node from Coinage (Coinage.Media) and DAIC (https://daic.capital/telegram)",
     "x": "https://x.com/coinage_x_daic",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x7DBC7cbb39E8eEfc539e22aaE94807EEa6CC4610",
+    "operatorAddress": "0x25FA8827FF13bF428Ec5F9D3666C2a0a7439E509",
+    "registrationDate": "2025-12-17T23:27:54.000Z",
+    "registrationUnix": 1766014074
   },
   "024c7809eaec64f03d1799dba942436cc932a1b1c4d7ed2a9dd6598d5ecd129855": {
     "secp": "024c7809eaec64f03d1799dba942436cc932a1b1c4d7ed2a9dd6598d5ecd129855",
@@ -2036,7 +2112,11 @@
     "website": "https://piertwo.com/",
     "description": "Pier Two is an Institutional staking services provider, established in Australia, in 2018. With multi-zonal 24/7 operations, high-performance hybrid cloud and bare metal infrastructure. Pier Two serves as a strategic partner in achieving sustainable staking rewards and growth, while helping protocol security.",
     "x": "https://x.com/piertwo_com",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x8307A768F6492bFaF88aA589ac685541c8efA3ac",
+    "operatorAddress": "0x0aA2aBaF175124aBc9198cac888BA768E0D8D5E5",
+    "registrationDate": "2025-12-18T00:14:37.000Z",
+    "registrationUnix": 1766016877
   },
   "03a82063a420c8f9c97923e1c7522e020090f0c9ed048d8875347581ccd34a07e6": {
     "secp": "03a82063a420c8f9c97923e1c7522e020090f0c9ed048d8875347581ccd34a07e6",
@@ -2045,7 +2125,11 @@
     "website": "https://www.polkachu.com",
     "description": "Polkachu is a leading blockchain infrastructure provider, offering secure and reliable services for various blockchain networks.",
     "x": "https://x.com/polka_chu",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x325Ab656eD2b1615C3eE3cC0c29D04E86c61B0c5",
+    "operatorAddress": "0xC653E9188532238A36Dd2c02d63eE1931F3E46F0",
+    "registrationDate": "2025-12-18T02:22:25.000Z",
+    "registrationUnix": 1766024545
   },
   "03a0f49fbaa2b2171fa59b950df2b468be4087e629a30e571633a14575e98ce8b2": {
     "secp": "03a0f49fbaa2b2171fa59b950df2b468be4087e629a30e571633a14575e98ce8b2",
@@ -2054,7 +2138,11 @@
     "website": "",
     "description": "",
     "x": "",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x2ba42b14acF60a44DC8A445d024277E41Ee27949",
+    "operatorAddress": "0x2470d1233c023282dD51965157BF2Ea297b526C1",
+    "registrationDate": "2025-12-18T08:12:00.000Z",
+    "registrationUnix": 1766045520
   },
   "03c17b4aa19a0d1e5819e894cd9e2d18ff5f1f1eb8325ad5a6cf4888c0766075c3": {
     "secp": "03c17b4aa19a0d1e5819e894cd9e2d18ff5f1f1eb8325ad5a6cf4888c0766075c3",
@@ -2063,7 +2151,11 @@
     "website": "https://blockscape.network",
     "description": "Founded in Switzerland, Blockscape has been actively engaged in staking technology since 2018. Today, we’re expanding our focus to support institutions with secure and seamless access to digital assets.",
     "x": "https://x.com/BlockscapeLab",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xa75316DF77e119b9Def28886224A3cb7B7679FB8",
+    "operatorAddress": "0x4298aB37274dCBec0d33E24f2D9EDdf7F932B17A",
+    "registrationDate": "2025-12-18T08:24:06.000Z",
+    "registrationUnix": 1766046246
   },
   "02aae9e7ff2b97ea4b70eead70d3a146667fd1525247e658ddedcb36d7e67a110e": {
     "secp": "02aae9e7ff2b97ea4b70eead70d3a146667fd1525247e658ddedcb36d7e67a110e",
@@ -2072,7 +2164,11 @@
     "website": "https://ledgerwise.io/",
     "description": "We are among the very few staking service entities emerging from Indian Blockchain ecosystem. We bring the experience of more than 20+ years in infrastructure space and 6+ years in Blockchain and Governance. Radical Truth and Transparency is at the core of our values, along with striving for excellence.",
     "x": "https://x.com/ledgerwiseio",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x1D251D93A5a20ec58227cBA093D990eDad2011e4",
+    "operatorAddress": "0xb9613b821fA96D5962DABe2F1311385A8CB8b46f",
+    "registrationDate": "2025-12-18T11:57:27.000Z",
+    "registrationUnix": 1766059047
   },
   "028d4554eee24d21f8dfe77bc3ab292290bb315bdff922c2c1217435c4cd39d13e": {
     "secp": "028d4554eee24d21f8dfe77bc3ab292290bb315bdff922c2c1217435c4cd39d13e",
@@ -2081,7 +2177,11 @@
     "website": "https://x.com/R93ax",
     "description": "Bare metal validator and infra provider",
     "x": "https://x.com/R93ax",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xca69F379E46532030EaFaB4b22062B5c0a931c19",
+    "operatorAddress": "0x568faa5eB9226A145e1908F0ab63F6a7D2D96782",
+    "registrationDate": "2025-12-18T17:00:27.000Z",
+    "registrationUnix": 1766077227
   },
   "0346f52d31b3707ca936366ac2fd094b93dcc16ba6ba0ff52ce9f0b339b9c6963c": {
     "secp": "0346f52d31b3707ca936366ac2fd094b93dcc16ba6ba0ff52ce9f0b339b9c6963c",
@@ -2090,7 +2190,11 @@
     "website": "https://tessellated.io",
     "description": "Tessellated builds and validates on proof of stake networks",
     "x": "https://x.com/tessellated_io",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x54912841338E8C2415E7Be000Db86EEb66d00A0f",
+    "operatorAddress": "0x00486F66e484705CFcbbc5A8C306F68204982581",
+    "registrationDate": "2025-12-18T23:40:42.000Z",
+    "registrationUnix": 1766101242
   },
   "02bf524b39454bda7a7b5a6f469624e4fd19a4c1daa7825239fc7e2e1ead9beb34": {
     "secp": "02bf524b39454bda7a7b5a6f469624e4fd19a4c1daa7825239fc7e2e1ead9beb34",
@@ -2099,7 +2203,11 @@
     "website": "https://0xmakase.co.jp/",
     "description": "KudasaiJP/Omakase is a professional staking and validation service. We also contribute to innovative projects via marketing and development support.",
     "x": "https://x.com/0xmakase_jp",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x87980F39c0139429a44bddae9F6E1dEBb773D729",
+    "operatorAddress": "0x0ffaA5E691A30c8b5949bbB01872B5616ddb240E",
+    "registrationDate": "2025-12-19T06:10:06.000Z",
+    "registrationUnix": 1766124606
   },
   "0258ea86b5b71ca6a55d04af94eb788465f3517f29e89aab47f10b75f68a0c61ae": {
     "secp": "0258ea86b5b71ca6a55d04af94eb788465f3517f29e89aab47f10b75f68a0c61ae",
@@ -2108,7 +2216,11 @@
     "website": "https://onchain.bitwiseinvestments.com",
     "description": "Secure the network by delegating to Bitwise Onchain Solutions. As a leading institutional staking provider, we combine secure validator infrastructure with regulated compliance standards. By delegating, you agree to our terms: https://onchain.bitwiseinvestments.com/tos",
     "x": "https://x.com/Bitwise",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x7fc9b626F7bDf255df243Aed77DEF0a38c8e0ACf",
+    "operatorAddress": "0xA6e539edCD5964386570F3F808b0773823A8d801",
+    "registrationDate": "2025-12-19T11:15:22.000Z",
+    "registrationUnix": 1766142922
   },
   "030d7f7ceb66fe645c244e93057e3f53866fef36c16d53cd2c4272ae2c455f1a4d": {
     "secp": "030d7f7ceb66fe645c244e93057e3f53866fef36c16d53cd2c4272ae2c455f1a4d",
@@ -2117,7 +2229,11 @@
     "website": "https://backpack.exchange/",
     "description": "0% Commission",
     "x": "https://x.com/Backpack",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x444c91bFbe58FD787DD4B0192922b373731D5b2A",
+    "operatorAddress": "0xbB8EE00846BF924F34Ba4f8a86d690Ff11Eed7cA",
+    "registrationDate": "2025-12-19T18:05:54.000Z",
+    "registrationUnix": 1766167554
   },
   "02299f78e17e2d17c1a5b97b6851d5f53b772320c8b29de748a0b3ad67580f3302": {
     "secp": "02299f78e17e2d17c1a5b97b6851d5f53b772320c8b29de748a0b3ad67580f3302",
@@ -2126,7 +2242,11 @@
     "website": "https://h2o-nodes.com/",
     "description": "High performance bare metal validators since 2022.",
     "x": "https://x.com/H2oNodes",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x0215B20AD65811f8c1Dd3860b2590f9D067b6f81",
+    "operatorAddress": "0x72eBc90F0E3457a1fF6B000dC9B1AA152Ee82974",
+    "registrationDate": "2025-12-20T09:36:17.000Z",
+    "registrationUnix": 1766223377
   },
   "03854dfbd9c857ec25c50085841cff014939ddefcada27beb5c3e10ff0f07477ff": {
     "secp": "03854dfbd9c857ec25c50085841cff014939ddefcada27beb5c3e10ff0f07477ff",
@@ -2135,7 +2255,11 @@
     "website": "https://goldsky.com/",
     "description": "Goldsky Testnet Validator",
     "x": "https://x.com/goldskyio",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x4f00817F9a62B2B623F01071055cBB65b21F0129",
+    "operatorAddress": "0xe127Fb2De8f831852Aad552554f411185Dddd154",
+    "registrationDate": "2025-12-22T23:52:41.000Z",
+    "registrationUnix": 1766447561
   },
   "02c9817dde1a59c870c8865adededd97613538d9f399c23c3223eb1af7309f24f3": {
     "secp": "02c9817dde1a59c870c8865adededd97613538d9f399c23c3223eb1af7309f24f3",
@@ -2144,7 +2268,11 @@
     "website": "https://rskl.xyz/",
     "description": "rskl is a long term monad contributor and part of synclab.team (this node maintained w/ snoopfear from synclab.team)",
     "x": "https://x.com/rsklwtf",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xA598fC2d348c290bfe7a24CB8273183bd7546f15",
+    "operatorAddress": "0xc1184ef5090B7B9bdc86FbBC4b04884D4327e94B",
+    "registrationDate": "2025-12-29T08:39:22.000Z",
+    "registrationUnix": 1766997562
   },
   "0235a74e1b55cbcef556dc2b6f30e872a86aa2ac027b5339992abc443ad70b4a8a": {
     "secp": "0235a74e1b55cbcef556dc2b6f30e872a86aa2ac027b5339992abc443ad70b4a8a",
@@ -2153,7 +2281,11 @@
     "website": "",
     "description": "",
     "x": "",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xcA5aE0F3dC0497cf1825F00b4A1B1395caEFd134",
+    "operatorAddress": "0x30C6C01C82Ed8046eF7ecD510a2B5F027f18E204",
+    "registrationDate": "2026-01-13T17:16:33.000Z",
+    "registrationUnix": 1768324593
   },
   "03d95b80275720d1c93d9e83039535f58bda3acc4f4a8b7ae9a958b1ea85a86dce": {
     "secp": "03d95b80275720d1c93d9e83039535f58bda3acc4f4a8b7ae9a958b1ea85a86dce",
@@ -2162,7 +2294,11 @@
     "website": "https://globalstake.io/",
     "description": "GlobalStake’s next-generation institutional staking offers SOC-2 security, bare-metal infrastructure, and carbon-negative performance. Our independent data centers enhance risk management and optimize service delivery, driving results for clients worldwide.",
     "x": "https://x.com/globalstake",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x5b26875be9D3C220b3d201cD7D31E715F505ABb5",
+    "operatorAddress": "0x672a87D1e76391E4265c66EBa160bEB624A5a4dF",
+    "registrationDate": "2026-01-13T19:55:15.000Z",
+    "registrationUnix": 1768334115
   },
   "029b6cbe344b179f1184e4a37a84da072f4e4cd98e88d7ff98731bb32a9cd281d2": {
     "secp": "029b6cbe344b179f1184e4a37a84da072f4e4cd98e88d7ff98731bb32a9cd281d2",
@@ -2171,7 +2307,11 @@
     "website": "https://nexpace.io/",
     "description": "The builder of @MaplestoryU, NEXPACE combines creator ideas with blockchain in a dynamic game community to push boundaries of the gaming ecosystem.",
     "x": "https://x.com/Nexpace_HQ",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x925Ad7a8310FB2eA20c7108CCfAaa136DAa55062",
+    "operatorAddress": "0x4C3ab8eEFf2EA8dE67d84063864f94F2B7C173e4",
+    "registrationDate": "2026-01-14T21:02:02.000Z",
+    "registrationUnix": 1768424522
   },
   "02c911111b6b7e50d5a7083de7060f7f305fa7697c010c5fa4b304d556d99e91e4": {
     "secp": "02c911111b6b7e50d5a7083de7060f7f305fa7697c010c5fa4b304d556d99e91e4",
@@ -2180,7 +2320,11 @@
     "website": "https://li.fi/",
     "description": "All Onchain Liquidity in one API",
     "x": "https://x.com/lifiprotocol",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xD7f4c9bb543b9eD8997F4ED8f00191c81089A7b4",
+    "operatorAddress": "0xA1885be53967568ab28ae48d74D625f1706d6d3a",
+    "registrationDate": "2026-01-16T17:27:01.000Z",
+    "registrationUnix": 1768584421
   },
   "02969a5d6bb09a4117373cb9bf4e864357b5766a6d6e3bc99858c4aaeea9108305": {
     "secp": "02969a5d6bb09a4117373cb9bf4e864357b5766a6d6e3bc99858c4aaeea9108305",
@@ -2189,7 +2333,11 @@
     "website": "https://lootgo.app/",
     "description": "LootGO is a walk to earn mobile app that turns your steps into a real-world crypto treasure hunt.",
     "x": "https://x.com/lootgo_official",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x6C73A2779406A92f8C3E03bec7bA82516597BA8C",
+    "operatorAddress": "0x3bff4e998466765db090f01e11e2EBF8dd341a5f",
+    "registrationDate": "2026-01-19T14:45:55.000Z",
+    "registrationUnix": 1768833955
   },
   "03e54befad18fc8fd70e5bcf33d9b37d9ef411918e01309151b0cc391d93da7459": {
     "secp": "03e54befad18fc8fd70e5bcf33d9b37d9ef411918e01309151b0cc391d93da7459",
@@ -2198,7 +2346,11 @@
     "website": "https://kamunagi.xyz/",
     "description": "Kamunagi is a validator for a startup oracle project. It is developed in C/C++ and is extremely fast, creating strong synergy with high-performance blockchain networks.",
     "x": "https://x.com/kamunagi_xyz",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x5ef9D3951060062a90E7b68ED3ebD5451E267884",
+    "operatorAddress": "0x2217Cb1777056e1b5dcAbe56b6e949dF4034Eb15",
+    "registrationDate": "2026-01-22T07:45:30.000Z",
+    "registrationUnix": 1769067930
   },
   "03546f8e0e3d5816c062511710c1509c5e9c216578056c37af5ed9539d9930320c": {
     "secp": "03546f8e0e3d5816c062511710c1509c5e9c216578056c37af5ed9539d9930320c",
@@ -2207,7 +2359,11 @@
     "website": "https://cointelegraph-guardians.com/",
     "description": "Cointelegraph Decentralization Guardians project is dedicated to securing and supporting blockchain networks by operating reliable and high-performing validators.",
     "x": "https://x.com/CTDG_DevHub",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x8bbCB4dbFEf564783bD2025EB090F4aE062A28AC",
+    "operatorAddress": "0xafe181De33939fa1d693452F9815EdAF62EB7c87",
+    "registrationDate": "2026-01-27T13:37:22.000Z",
+    "registrationUnix": 1769521042
   },
   "03e5e45f82c0a2da57395c72a4cdf656fb72a5d2368aa5f908e1f9687871ef2608": {
     "secp": "03e5e45f82c0a2da57395c72a4cdf656fb72a5d2368aa5f908e1f9687871ef2608",
@@ -2216,7 +2372,11 @@
     "website": "https://husonode.xyz/",
     "description": "Secure, Reliable, Decentralized",
     "x": "https://x.com/husonode",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x9aF276A0d327605Dc650290Df4e9F1506866146E",
+    "operatorAddress": "0x9aF276A0d327605Dc650290Df4e9F1506866146E",
+    "registrationDate": "2026-01-29T16:55:31.000Z",
+    "registrationUnix": 1769705731
   },
   "03cb24c9b41b23d7990d57afc8786a6ddfa760b171bb4f1cb1068e5d3e26de0979": {
     "secp": "03cb24c9b41b23d7990d57afc8786a6ddfa760b171bb4f1cb1068e5d3e26de0979",
@@ -2225,7 +2385,11 @@
     "website": "https://service.winsnip.xyz",
     "description": "Professional validator operated by Winsnip — a community-driven tech entity providing staking services, public RPC infrastructure, and Web3 education. Committed to decentralization, security, and transparency across the blockchain ecosystem.",
     "x": "https://x.com/winsnip",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x1ECDCC9d78D962a97B7E8A2d9Db34a1Ade0C6b70",
+    "operatorAddress": "0x14416eC93d7A56D8F503FF942Db888aD9f05a8D1",
+    "registrationDate": "2026-01-30T15:12:49.000Z",
+    "registrationUnix": 1769785969
   },
   "03b67dab1566cc31b4fd5a819db540160f841971f8671fb579a3be6deee9285537": {
     "secp": "03b67dab1566cc31b4fd5a819db540160f841971f8671fb579a3be6deee9285537",
@@ -2234,7 +2398,11 @@
     "website": "https://www.blocash.xyz",
     "description": "Blocash testnet validator",
     "x": "https://x.com/blocashweb",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xa49Ea5e73124d58C0C80826734FD859BcD1a64aF",
+    "operatorAddress": "0x3a0Db6afA0A85642eC0BD6EDf2125Ce8d64434AD",
+    "registrationDate": "2026-02-02T12:07:39.000Z",
+    "registrationUnix": 1770034059
   },
   "02b2256fb624f1aa114e8941537a873d8669a20b68c26c16eab476a4cdfae441e5": {
     "secp": "02b2256fb624f1aa114e8941537a873d8669a20b68c26c16eab476a4cdfae441e5",
@@ -2243,7 +2411,11 @@
     "website": "https://www.paradisenodes.xyz/",
     "description": "Fast runners of blockchain",
     "x": "https://x.com/paradisenodes",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x889dAe54F34F601B059509EC7B573BDCbB4B72a6",
+    "operatorAddress": "0x2862679bEBB2abec21FB73E6A241a772F5cE2D93",
+    "registrationDate": "2026-02-02T12:25:02.000Z",
+    "registrationUnix": 1770035102
   },
   "03c480ab1fc0f25df146e210bbb0b83e51111389fe07e620c21a8ac74f966cd349": {
     "secp": "03c480ab1fc0f25df146e210bbb0b83e51111389fe07e620c21a8ac74f966cd349",
@@ -2252,7 +2424,11 @@
     "website": "https://www.oshvank.xyz/",
     "description": "Professional validator operating since 2019 across mainnet and testnet ecosystems. Specialized in PoS networks, IBC infrastructure, and chain services. Active on 30+ networks with enterprise-grade infrastructure.",
     "x": "https://x.com/oshvank",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xa91cF8Bb5DF24c8ded4768763148F3871a427983",
+    "operatorAddress": "0xa91cF8Bb5DF24c8ded4768763148F3871a427983",
+    "registrationDate": "2026-02-02T12:31:03.000Z",
+    "registrationUnix": 1770035463
   },
   "0395bbff15961131e8b64229e68f2b062a2990b617ede62727dad1627d9d98729c": {
     "secp": "0395bbff15961131e8b64229e68f2b062a2990b617ede62727dad1627d9d98729c",
@@ -2261,7 +2437,11 @@
     "website": "",
     "description": "MSC-Industries operates reliable infrastructure backed by many years of experience running production validators across multiple blockchain ecosystems",
     "x": "",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x91827509F579d50a402B063d7103a08e2C3a8037",
+    "operatorAddress": "0x96415CF3532987f2849Ff863bD76c24612887195",
+    "registrationDate": "2026-02-02T13:37:51.000Z",
+    "registrationUnix": 1770039471
   },
   "02dffcb8ecaffd9eaf85c13b10c9c8ce7d1b874543c3661daeccb34e54339a7a54": {
     "secp": "02dffcb8ecaffd9eaf85c13b10c9c8ce7d1b874543c3661daeccb34e54339a7a54",
@@ -2270,7 +2450,11 @@
     "website": "https://tservices.es/",
     "description": "TServices provides secure, decentralized, and high-performance blockchain validation, engineered for low latency and maximum reliability.",
     "x": "",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x8c69bC0063F3F7718A86e1B130B278EA31e79e86",
+    "operatorAddress": "0x129352380b7aAE673677536cC56eAfD99a5bcbb2",
+    "registrationDate": "2026-02-02T13:57:35.000Z",
+    "registrationUnix": 1770040655
   },
   "02daf657701f2ce17872151b1067a5e269d02c87bca1aa11e25cf02501b277772d": {
     "secp": "02daf657701f2ce17872151b1067a5e269d02c87bca1aa11e25cf02501b277772d",
@@ -2279,7 +2463,11 @@
     "website": "https://starke.finance/staking",
     "description": "Validator funding Starke Finance. The Digital Asset Fund Management platform of the future",
     "x": "https://x.com/StarkeFinance",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x261D41fA96958feA64c722168bD9FB01Dec7A7E6",
+    "operatorAddress": "0x35a46A843c25C078d067BCd8f438745B0c457017",
+    "registrationDate": "2026-02-02T13:59:10.000Z",
+    "registrationUnix": 1770040750
   },
   "0396fb95c0d0fd15a7a27bfef369c03d323d1372eab8b9636e817a26492f47f8a5": {
     "secp": "0396fb95c0d0fd15a7a27bfef369c03d323d1372eab8b9636e817a26492f47f8a5",
@@ -2288,7 +2476,11 @@
     "website": "https://krews.xyz/",
     "description": "Krews operates high-performance validators on leading PoS networks, ensuring security, decentralization, and network reliability.",
     "x": "https://x.com/krewstake",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x5c4ec23905193eFbbA7F2A2470BA7448DB59EE0c",
+    "operatorAddress": "0x24e2CdbBfa82E87eaC074d674BDe21923D5C3458",
+    "registrationDate": "2026-02-02T14:08:39.000Z",
+    "registrationUnix": 1770041319
   },
   "03c295a6bf80974717b76bd770e786d63075fa589f9c5b1615ab84fc43b0f736e8": {
     "secp": "03c295a6bf80974717b76bd770e786d63075fa589f9c5b1615ab84fc43b0f736e8",
@@ -2297,7 +2489,11 @@
     "website": "https://www.bitctrl.io/",
     "description": "Reliable PoS network operations. Secure validator infrastructure. Autonomous AI agent deployments. Intelligent automation.",
     "x": "https://x.com/BitCtrl_io",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xc7dADacDCE6c853A577A1998Fcd1B128c3b6d308",
+    "operatorAddress": "0x970666116D815a078e1f23aE6cb3975F8F3C8B1F",
+    "registrationDate": "2026-02-02T15:28:48.000Z",
+    "registrationUnix": 1770046128
   },
   "03f7e9cb9a8224e2243efb123daacf65804e4c63f0f138f7125f622328e1b9cc0f": {
     "secp": "03f7e9cb9a8224e2243efb123daacf65804e4c63f0f138f7125f622328e1b9cc0f",
@@ -2306,7 +2502,11 @@
     "website": "https://github.com/bozdemir52",
     "description": "An independent, high-performance, and experienced validator. Continue to develop and work towards decentralization. ",
     "x": "https://x.com/bozdemir5269",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xfa7d8840D90d2c1AB8C7370Ddf0BF085dc77da5a",
+    "operatorAddress": "0xfa7d8840D90d2c1AB8C7370Ddf0BF085dc77da5a",
+    "registrationDate": "2026-02-02T16:10:51.000Z",
+    "registrationUnix": 1770048651
   },
   "03bc9ca09da396d273b7b6c29e0f75126261f099eb6e252c90f7b392c2118449c8": {
     "secp": "03bc9ca09da396d273b7b6c29e0f75126261f099eb6e252c90f7b392c2118449c8",
@@ -2315,7 +2515,11 @@
     "website": "https://metatarz.xyz",
     "description": "Blockchain infrastructure & professional validator",
     "x": "https://x.com/metatarzxyz",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xfD526aF62c43939654accc37E159D5cF729b414a",
+    "operatorAddress": "0xef704a2737e33760754F0e2907896f82b5E37ead",
+    "registrationDate": "2026-02-02T18:34:38.000Z",
+    "registrationUnix": 1770057278
   },
   "020c45ab0c5331a5b60b57b4186ccb9dd009d9add2856bc3ef8d1c0ea5649acbc6": {
     "secp": "020c45ab0c5331a5b60b57b4186ccb9dd009d9add2856bc3ef8d1c0ea5649acbc6",
@@ -2324,7 +2528,11 @@
     "website": "https://luckyresearch.org",
     "description": "LuckyReseach Labs Pro Staking Validator & Moderator. Stake with us! Generate a yield and your tokens stays on your wallet! Thank you",
     "x": "https://x.com/LuckyResearchVN",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x3a9adE815C56dC4Ef64E1Ea240f4962D272D92C3",
+    "operatorAddress": "0xA2c3330ddBB1CEAb502689B10c55aFF05Fee6c53",
+    "registrationDate": "2026-02-03T08:07:37.000Z",
+    "registrationUnix": 1770106057
   },
   "0350c2542813b7fe3a5087d4335d4d5bda0efa7107dfde207daf5f4414bf9dea3d": {
     "secp": "0350c2542813b7fe3a5087d4335d4d5bda0efa7107dfde207daf5f4414bf9dea3d",
@@ -2333,7 +2541,11 @@
     "website": "https://t.me/DEUSxTG",
     "description": "No bells, no whistles. Just a high-performance node dedicated to securing the Monad ecosystem with maximum uptime and low latency.",
     "x": "https://x.com/0x_Deus",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xfe1dD087550Ef44e2f405930C98afe8e0121d9d8",
+    "operatorAddress": "0x18Fcc3C263244df42A18b3c6659ADf7D07359897",
+    "registrationDate": "2026-02-03T10:35:37.000Z",
+    "registrationUnix": 1770114937
   },
   "0347a74cf11740630e60166dc25eef9e9f0a0c096040a5a136b16796c26c734551": {
     "secp": "0347a74cf11740630e60166dc25eef9e9f0a0c096040a5a136b16796c26c734551",
@@ -2342,7 +2554,11 @@
     "website": "https://cosmicvalidator.com",
     "description": "Top Uptime Institutional-Grade Infrastructure | Selected by Stride & ICF in the Cosmos Hub | Follow our educational content: https://www.youtube.com/@cosmicvalidator",
     "x": "https://x.com/CosmicValidator",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xa51350E4eA3efD2bD9138AD48c4EEF31923972c8",
+    "operatorAddress": "0x0d420faec4EDc09FA8887ac9880b9F57400d1FF3",
+    "registrationDate": "2026-02-03T14:21:29.000Z",
+    "registrationUnix": 1770128489
   },
   "03630f5d83ea4ca359b60d53df32416d6f0f833ff4e7b484fe2bb7a78644253e89": {
     "secp": "03630f5d83ea4ca359b60d53df32416d6f0f833ff4e7b484fe2bb7a78644253e89",
@@ -2351,7 +2567,11 @@
     "website": "https://infrasingularity.com/",
     "description": "InfraSingularity is a pioneering investor and builder dedicated to advancing the Web3 ecosystem.",
     "x": "https://x.com/isinfra",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x2b3C2c9B3A174aBC2900a72f0c727d5cD0F62D9E",
+    "operatorAddress": "0xAc08A9657FA41eda72648fc33D4e81f1cA57dE55",
+    "registrationDate": "2026-02-03T18:01:22.000Z",
+    "registrationUnix": 1770141682
   },
   "036b1905b608d129464150c1a8a5a0c1e779f4c5810edea22e9516c32d6c0eca98": {
     "secp": "036b1905b608d129464150c1a8a5a0c1e779f4c5810edea22e9516c32d6c0eca98",
@@ -2360,7 +2580,11 @@
     "website": "https://unityfarms.cloud/",
     "description": "Trusted Partner in Blockchain Validation Services",
     "x": "",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x08D533F2a6A32925B0687eaF43EDea47de887612",
+    "operatorAddress": "0x580D1Ea3e5051C86caC03a4f06361b0a7f4768B3",
+    "registrationDate": "2026-02-03T18:56:43.000Z",
+    "registrationUnix": 1770145003
   },
   "03e8cbeb2d963b91fa6c760490db50988940a7480352a4dd3893b89b3662370d40": {
     "secp": "03e8cbeb2d963b91fa6c760490db50988940a7480352a4dd3893b89b3662370d40",
@@ -2369,7 +2593,11 @@
     "website": "",
     "description": "EVOS delivers highly reliable validator infrastructure with years of proven experience operating production validators across diverse blockchain ecosystems.",
     "x": "",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x06CB1E0F6021FB04F7a9c5Ca3D155cE8897AB226",
+    "operatorAddress": "0xCd769b0851A6363662bCade6750F802E20D52F61",
+    "registrationDate": "2026-02-03T20:49:15.000Z",
+    "registrationUnix": 1770151755
   },
   "02ffb328e34b4314f1912e118355665a206489b8a0305c914ca7d0bd72fd6f7e70": {
     "secp": "02ffb328e34b4314f1912e118355665a206489b8a0305c914ca7d0bd72fd6f7e70",
@@ -2378,7 +2606,11 @@
     "website": "https://ainodes.tech",
     "description": "Powering the blockchain with expert node management and staking solutions. Nodes you can trust, staking you can grow with.",
     "x": "https://x.com/ainodestech",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xCaE943462194188dD8ADc55E40f0B23c1CfCa9Cb",
+    "operatorAddress": "0x94Fb00705411C2c07007490Acd6f8E550bE8817b",
+    "registrationDate": "2026-02-04T18:12:17.000Z",
+    "registrationUnix": 1770228737
   },
   "022dc4f6e3309d994ce08819e4d7b786ae498b2a8cf1aa6d3e46c255d4ca3e571a": {
     "secp": "022dc4f6e3309d994ce08819e4d7b786ae498b2a8cf1aa6d3e46c255d4ca3e571a",
@@ -2387,7 +2619,11 @@
     "website": "https://phase.cc/",
     "description": "Stake with certainty. Stake with Phase",
     "x": "https://x.com/phase_",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xC44938389E5D239e49b36ed95d1C307A0307D5A2",
+    "operatorAddress": "0x7A020Aa78a7dE9D1E8C952759ce08b855552EB74",
+    "registrationDate": "2026-02-04T18:29:46.000Z",
+    "registrationUnix": 1770229786
   },
   "0358f6fd184afe5544a91594ea9208a64a699ddad5a363df5293ec0fd39b339811": {
     "secp": "0358f6fd184afe5544a91594ea9208a64a699ddad5a363df5293ec0fd39b339811",
@@ -2396,7 +2632,11 @@
     "website": "https://stakechain.pro/",
     "description": "Built to last. Designed to grow.",
     "x": "https://x.com/Stake__chain",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x875B78cC1B5F2BBba52eE05b1D7B88a246189481",
+    "operatorAddress": "0xd838EbF4a7adFe0aD2c1dBc5F95eAf399E3d8Bfd",
+    "registrationDate": "2026-02-05T01:43:23.000Z",
+    "registrationUnix": 1770255803
   },
   "036e9a29494a621d10ec4c80f5ec5cdb2288024c587ded91aa32d77c5b542cea25": {
     "secp": "036e9a29494a621d10ec4c80f5ec5cdb2288024c587ded91aa32d77c5b542cea25",
@@ -2405,7 +2645,11 @@
     "website": "https://www.liquify.com/",
     "description": "Secure and Reliable Infrastructure for your Blockchain Business.",
     "x": "https://x.com/Liquify_ltd",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x5f516E9C0e15cbBBE51Fd43eD17360bA7b73eDEA",
+    "operatorAddress": "0x0b4a128f2f50cc12dEf9ADA1F7952bfaD43E5d7F",
+    "registrationDate": "2026-02-06T13:47:08.000Z",
+    "registrationUnix": 1770385628
   },
   "02654192b8489bea7aea77153fc12acf2729f892f674ae12c4a681117c69f9a0f6": {
     "secp": "02654192b8489bea7aea77153fc12acf2729f892f674ae12c4a681117c69f9a0f6",
@@ -2414,7 +2658,11 @@
     "website": "https://medium-validator.com/",
     "description": "Individual staking services",
     "x": "http://x.com/mediumwe111",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x6DEA7e879b007E9a5C191E388633949348d807Da",
+    "operatorAddress": "0x18af5F42DBEde0F1cf53b3626458f8f47b570007",
+    "registrationDate": "2026-02-06T14:07:30.000Z",
+    "registrationUnix": 1770386850
   },
   "0203a26b820dafdb794f1fc7117ba8e897830b184dcb08e45a44262f018deabaf3": {
     "secp": "0203a26b820dafdb794f1fc7117ba8e897830b184dcb08e45a44262f018deabaf3",
@@ -2423,7 +2671,11 @@
     "website": "https://t.me/snoopfear",
     "description": "Reliability, performance, and 24/7 monitoring. Enterprise-grade infrastructure with a fair fee",
     "x": "https://x.com/snoopfear",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x7eA7AE461006751C1921D80f0B0bb0b861C4E6e1",
+    "operatorAddress": "0x905361198fF12A83C689042162d3f1ea2C7CdfD0",
+    "registrationDate": "2026-02-06T14:23:46.000Z",
+    "registrationUnix": 1770387826
   },
   "028986e40f8e9f39bf68fa5f2f8de58514b124a150261a340e13940d286c0c7317": {
     "secp": "028986e40f8e9f39bf68fa5f2f8de58514b124a150261a340e13940d286c0c7317",
@@ -2432,7 +2684,11 @@
     "website": "https://block-pro.net/",
     "description": "BlockPro is an independent, community-driven validator focused on reliable infrastructure, decentralization, and long-term network support",
     "x": "https://x.com/BlockPro_",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x1d16eF5401096A2896100d58D6193430b0d2362F",
+    "operatorAddress": "0x6387D02728f4adC7dc3b36Db5106EeC3d785C963",
+    "registrationDate": "2026-02-07T12:50:18.000Z",
+    "registrationUnix": 1770468618
   },
   "03a44298eebdcdaccb5e64666e65d2d4abc8319d7387810dd59933f870bf191dbb": {
     "secp": "03a44298eebdcdaccb5e64666e65d2d4abc8319d7387810dd59933f870bf191dbb",
@@ -2805,7 +3061,11 @@
     "website": "https://novaconsortium.org/",
     "description": "Nova Consortium is a research-driven organization building open-source tools for blockchain infrastructure, validator operations, and decentralized finance.",
     "x": "https://x.com/NovaConsortium",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x2F00aDcc109873A45b7f4302f776C7391fe02005",
+    "operatorAddress": "0xf0e8f65f0e72f2136e0F387B1224e619Afc943D0",
+    "registrationDate": "2026-03-19T20:33:53.000Z",
+    "registrationUnix": 1773952433
   },
   "033de604232680782f2400f647498c989def2a15df01b945c3690bb35b185d72cf": {
     "secp": "033de604232680782f2400f647498c989def2a15df01b945c3690bb35b185d72cf",
@@ -3022,7 +3282,11 @@
     "website": "https://hazennetworksolutions.com",
     "description": "Enterprise Grade Validation | DevOps & Infrastructure Services",
     "x": "https://x.com/haznftofficial",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x7804e8623215f781124E70385375B12a795Cbc6C",
+    "operatorAddress": "0x79002e61584eB70f26f73645551C5659EbEB989E",
+    "registrationDate": "2026-04-06T22:27:39.000Z",
+    "registrationUnix": 1775514459
   },
   "0238fba862e3dbab453ab17ed88d3bcd6d01e93d2fe320a3832a2cb7760d95fd8c": {
     "secp": "0238fba862e3dbab453ab17ed88d3bcd6d01e93d2fe320a3832a2cb7760d95fd8c",
@@ -3031,7 +3295,11 @@
     "website": "https://t.me/natabelen7",
     "description": "Independent Web3 validator and contributor focused on high-performance infrastructure, reliability, and decentralization.",
     "x": "https://x.com/Natabele",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x4eC796e3E0b892700b124b444E3a25e46B223dA8",
+    "operatorAddress": "0xDcFbf01bbc75652e36A6a777107a4153c82A7b83",
+    "registrationDate": "2026-04-07T13:23:06.000Z",
+    "registrationUnix": 1775568186
   },
   "0341317de792e1f2220e9a680e90bb7ee80e2987a92bd32596dcd0913e66123cd0": {
     "secp": "0341317de792e1f2220e9a680e90bb7ee80e2987a92bd32596dcd0913e66123cd0",
@@ -3066,7 +3334,11 @@
     "website": "https://79anvi.com/",
     "description": "The Friendly Validator",
     "x": "https://x.com/79anvi",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xdD54DD74728D44d3a4d681301B058c23a59e6b54",
+    "operatorAddress": "0xEf7d5843386b108D228458DC997e50c1Ab881EaA",
+    "registrationDate": "2026-04-11T00:27:08.000Z",
+    "registrationUnix": 1775867228
   },
   "02ddd1ea08c6e0b4297857ac8f55f7cee0091e03d9837177848a1e94a33ff978cb": {
     "secp": "02ddd1ea08c6e0b4297857ac8f55f7cee0091e03d9837177848a1e94a33ff978cb",
@@ -3075,7 +3347,11 @@
     "website": "https://onnode.org",
     "description": "Your Strategic Partner in Decentralized Growth",
     "x": "https://x.com/onnode_staking",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xDE80953f25F5C93FEf6940545C1B8766e58fC737",
+    "operatorAddress": "0xDE80953f25F5C93FEf6940545C1B8766e58fC737",
+    "registrationDate": "2026-04-11T01:22:08.000Z",
+    "registrationUnix": 1775870528
   },
   "021ede88bd8eae39c79259d5991b0cc6a3551ac76db866c9ab3f6dd4cd98a6d2be": {
     "secp": "021ede88bd8eae39c79259d5991b0cc6a3551ac76db866c9ab3f6dd4cd98a6d2be",
@@ -3084,7 +3360,11 @@
     "website": "https://t.me/Ivan_0xx",
     "description": "Deep Tech Infrastructure. From Node Validation to Ecosystem Built. 🌱 Core Developers.",
     "x": "https://x.com/urgantv5",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xF3770fd7f3C26ced3F623471F2F0EAefca11B480",
+    "operatorAddress": "0x6562A772554c20Ca2b0b8E80388896ed798c52ab",
+    "registrationDate": "2026-04-11T13:31:41.000Z",
+    "registrationUnix": 1775914301
   },
   "024028e1910c32cac434c75d34e6957f059d5642b07de92735efb92b7e73f6aabf": {
     "secp": "024028e1910c32cac434c75d34e6957f059d5642b07de92735efb92b7e73f6aabf",
@@ -3092,7 +3372,11 @@
     "website": "https://t.me/Anril44",
     "description": "blockchain developer",
     "x": "https://x.com/AnRil44",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xAfE89AA9E1a1C0fFe38e7F68efF3749D3C02743E",
+    "operatorAddress": "0x90837fdfDf921071fC948cC02F5d0323ae914dA5",
+    "registrationDate": "2026-04-15T10:33:33.000Z",
+    "registrationUnix": 1776249213
   },
   "0276d5a084ee7992fc424872d4b9426fe1b8b14c503edb99a4d74031238c53d423": {
     "secp": "0276d5a084ee7992fc424872d4b9426fe1b8b14c503edb99a4d74031238c53d423",
@@ -3127,7 +3411,11 @@
     "website": "https://buildernode.org/",
     "description": "BuilderNode provides enterprise-grade blockchain validation and infrastructure services. Secure, reliable, and high-performance staking.",
     "x": "https://x.com/BuilderNode",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x13568913986dc634c64Fb61DfFd2472bFE5D98cB",
+    "operatorAddress": "0x0516F122F787A45912cA46FcE1f02963dB18057c",
+    "registrationDate": "2026-04-17T03:53:18.000Z",
+    "registrationUnix": 1776397998
   },
   "029337dc788d1dd262280524a47cefa68b7ea5651016279b54cc20305a2e1aa7b6": {
     "secp": "029337dc788d1dd262280524a47cefa68b7ea5651016279b54cc20305a2e1aa7b6",
@@ -3136,7 +3424,7 @@
     "website": "https://shadowoftime.dev",
     "description": "Independent Monad validator, Sydney, Australia. Operator of MonadPulse analytics (monadpulse.xyz).",
     "x": "https://x.com/RomanKarpenk",
-    "updatedAt": "2026-06-09T16:34:59.882Z",
+    "updatedAt": "2026-06-17T15:42:50.056Z",
     "validatorAddress": "0xb1130b270B9e79E3Ad59Aaf09d25992839e9042B",
     "operatorAddress": "0x92936497B6ad2BA84b3f7Af22C9afF15f00b13B5",
     "registrationDate": "2026-04-17T13:47:09.000Z",
@@ -3149,7 +3437,11 @@
     "website": "https://t.me/bit_mouse",
     "description": "BitMouse: massive bare-metal performance. Dedicated to true decentralization and deep hardware tuning.",
     "x": "https://x.com/Bit_mouse_",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x43b95182D3A37871423E827Ca6b968e432A7F1F1",
+    "operatorAddress": "0x9a2F76A6961C0fCdf835C12Fa68D005758F1D58b",
+    "registrationDate": "2026-04-21T11:53:17.000Z",
+    "registrationUnix": 1776772397
   },
   "02778dea73ae98bf0b3b5764a453578303dabab937a10251fd900b41d6eba9ca28": {
     "secp": "02778dea73ae98bf0b3b5764a453578303dabab937a10251fd900b41d6eba9ca28",
@@ -3158,7 +3450,11 @@
     "website": "https://loopd.cloud/",
     "description": "Building more resilient Web3 communities through face-to-face interactions and meaningful activation.",
     "x": "https://x.com/loopd_cloud",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0x67c4552aF6cD81b0933D3CE04d40A70315f2a330",
+    "operatorAddress": "0x9A026783aA20f0709b90e40906eC9487A9459883",
+    "registrationDate": "2026-04-21T19:57:25.000Z",
+    "registrationUnix": 1776801445
   },
   "03f33ed6ae1c6b5bf54590ab0b1e42ad3217d2fc87e5dfd19b466d5c262c4b4254": {
     "secp": "03f33ed6ae1c6b5bf54590ab0b1e42ad3217d2fc87e5dfd19b466d5c262c4b4254",
@@ -3167,7 +3463,11 @@
     "website": "https://fragmetric.xyz/",
     "description": "Liquid Restaking Protocol",
     "x": "https://x.com/fragmetric",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xDea53c8228576d72c99B9b0585d7512ab5a346c1",
+    "operatorAddress": "0xC828Cdef765d2e757eb9e89c75A5A062fb829089",
+    "registrationDate": "2026-04-23T10:29:16.000Z",
+    "registrationUnix": 1776940156
   },
   "020526efb36aeea0fe25853fe4cee3bb557c33964035d6c34161459e1e773a63b8": {
     "secp": "020526efb36aeea0fe25853fe4cee3bb557c33964035d6c34161459e1e773a63b8",
@@ -3176,7 +3476,11 @@
     "website": "https://stakepool.dev.br/",
     "description": "StakePool is a public blockchain infrastructure operator headquartered in Brazil. It offers non-custodial delegation services with high levels of reliability and availability.",
     "x": "https://x.com/StakePooll",
-    "updatedAt": "2026-05-31T19:21:51.967Z"
+    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "validatorAddress": "0xDe062dFa7143B56895E1a061fDE534b21B7e0453",
+    "operatorAddress": "0x900AeD4453586710b0257d55CA7bC05cF780aEAA",
+    "registrationDate": "2026-04-23T18:36:22.000Z",
+    "registrationUnix": 1776969382
   },
   "02a3aa8a9beb8e9f56aa9475d801ce5f37c35dfdee7732c46f12a2eacd15f5af33": {
     "secp": "02a3aa8a9beb8e9f56aa9475d801ce5f37c35dfdee7732c46f12a2eacd15f5af33",
@@ -3224,11 +3528,11 @@
     "operatorAddress": "0xc4B53a9a230143d3EB6e9f7E82552e5A046d6c6d",
     "registrationDate": "2026-05-29T19:56:48.000Z",
     "registrationUnix": 1780084608,
-    "updatedAt": "2026-06-04T14:53:55.405Z",
     "logo": "https://raw.githubusercontent.com/Cortex-XYZ/brand-assets/refs/heads/main/cortex-mark-orange-on-transparent.png",
     "website": "https://cortexglobal.xyz",
     "description": "A professional network serving the blockchain adoption needs of communities around the world through education, services, and events.",
-    "x": "https://x.com/Cortex_Global_"
+    "x": "https://x.com/Cortex_Global_",
+    "updatedAt": "2026-06-17T15:42:50.056Z"
   },
   "02b49e9a3ddb6437b0c46d587e8023ef1ef519ed6ade62fd82ff502e02f0c85a18": {
     "secp": "02b49e9a3ddb6437b0c46d587e8023ef1ef519ed6ade62fd82ff502e02f0c85a18",
@@ -3237,7 +3541,7 @@
     "operatorAddress": "0xF0669b9bb94cf7000FaB9B92f9b92bc0B42DcCf0",
     "registrationDate": "2026-04-17T02:07:20.000Z",
     "registrationUnix": 1776391640,
-    "updatedAt": "2026-05-31T19:35:26.867Z"
+    "updatedAt": "2026-06-17T15:42:50.056Z"
   },
   "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9": {
     "secp": "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9",
@@ -3246,15 +3550,28 @@
     "operatorAddress": "0x724fc9B7AC82479a0D4ed7cbdc8F1b0225Fd3e6B",
     "registrationDate": "2026-02-15T23:43:22.000Z",
     "registrationUnix": 1771199002,
-    "updatedAt": "2026-05-31T19:35:26.867Z"
+    "updatedAt": "2026-06-17T15:42:50.056Z"
   },
   "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa": {
     "secp": "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa",
     "name": "Uphold",
+    "validatorAddress": "0x213f25d481309dDE8601bB81bE927008e3c15110",
+    "operatorAddress": "0x2c1F0d21Ce4A5db6Af5E7E89d7dCFDCF86E71076",
+    "registrationDate": "2026-06-09T15:51:04.000Z",
+    "registrationUnix": 1781020264,
     "logo": "https://cdn.prod.website-files.com/65116a8935747aeda81c6865/65df55befe4d3857f40e05b5_UPHOLD.png",
     "website": "https://uphold.com/en-us",
     "description": "Powering the Web3 economy",
     "x": "https://x.com/UpholdInc",
-    "updatedAt": "2026-06-11T00:14:12.441Z"
+    "updatedAt": "2026-06-17T15:42:50.056Z"
+  },
+  "03e21de59a05302d5270c2ed21ac871198a4fdd9784c9daaf146dd8200e1c900ac": {
+    "secp": "03e21de59a05302d5270c2ed21ac871198a4fdd9784c9daaf146dd8200e1c900ac",
+    "name": "",
+    "validatorAddress": "0xE1bAEcDdD3EaFcB02528aD4A4D22b2B956BAc5ef",
+    "operatorAddress": "0x119af7e51A606510745af94284c6B398d4d2836a",
+    "registrationDate": "2026-04-15T07:46:37.000Z",
+    "registrationUnix": 1776239197,
+    "updatedAt": "2026-06-17T15:42:50.056Z"
   }
 }
