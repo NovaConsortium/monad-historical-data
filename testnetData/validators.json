@@ -3458,12 +3458,12 @@
   },
   "03f33ed6ae1c6b5bf54590ab0b1e42ad3217d2fc87e5dfd19b466d5c262c4b4254": {
     "secp": "03f33ed6ae1c6b5bf54590ab0b1e42ad3217d2fc87e5dfd19b466d5c262c4b4254",
-    "name": "Fragmetric",
-    "logo": "https://i.ibb.co/Z6QvbqpB/Frag-Logo.jpg",
-    "website": "https://fragmetric.xyz/",
-    "description": "Liquid Restaking Protocol",
-    "x": "https://x.com/fragmetric",
-    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "name": "03f33ed6ae1c6b5bf54590ab0b1e42ad3217d2fc87e5dfd19b466d5c262c4b4254",
+    "logo": "",
+    "website": "",
+    "description": "",
+    "x": "",
+    "updatedAt": "2026-06-29T16:58:27.899Z",
     "validatorAddress": "0xDea53c8228576d72c99B9b0585d7512ab5a346c1",
     "operatorAddress": "0xC828Cdef765d2e757eb9e89c75A5A062fb829089",
     "registrationDate": "2026-04-23T10:29:16.000Z",
@@ -3536,21 +3536,29 @@
   },
   "02b49e9a3ddb6437b0c46d587e8023ef1ef519ed6ade62fd82ff502e02f0c85a18": {
     "secp": "02b49e9a3ddb6437b0c46d587e8023ef1ef519ed6ade62fd82ff502e02f0c85a18",
-    "name": "",
+    "name": "02b49e9a3ddb6437b0c46d587e8023ef1ef519ed6ade62fd82ff502e02f0c85a18",
     "validatorAddress": "0xC2078372D472A47A9D7a6625c4e439817B33F7c9",
     "operatorAddress": "0xF0669b9bb94cf7000FaB9B92f9b92bc0B42DcCf0",
     "registrationDate": "2026-04-17T02:07:20.000Z",
     "registrationUnix": 1776391640,
-    "updatedAt": "2026-06-17T15:42:50.056Z"
+    "updatedAt": "2026-06-29T16:58:27.899Z",
+    "logo": "",
+    "website": "",
+    "description": "",
+    "x": ""
   },
   "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9": {
     "secp": "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9",
-    "name": "",
+    "name": "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9",
     "validatorAddress": "0x9d2F70C8EB1aEeFaFa37b4b64aA791494514C9D6",
     "operatorAddress": "0x724fc9B7AC82479a0D4ed7cbdc8F1b0225Fd3e6B",
     "registrationDate": "2026-02-15T23:43:22.000Z",
     "registrationUnix": 1771199002,
-    "updatedAt": "2026-06-17T15:42:50.056Z"
+    "updatedAt": "2026-06-29T16:58:27.899Z",
+    "logo": "",
+    "website": "",
+    "description": "",
+    "x": ""
   },
   "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa": {
     "secp": "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa",
@@ -3567,11 +3575,15 @@
   },
   "03e21de59a05302d5270c2ed21ac871198a4fdd9784c9daaf146dd8200e1c900ac": {
     "secp": "03e21de59a05302d5270c2ed21ac871198a4fdd9784c9daaf146dd8200e1c900ac",
-    "name": "",
+    "name": "Shark Labs",
     "validatorAddress": "0xE1bAEcDdD3EaFcB02528aD4A4D22b2B956BAc5ef",
     "operatorAddress": "0x119af7e51A606510745af94284c6B398d4d2836a",
     "registrationDate": "2026-04-15T07:46:37.000Z",
     "registrationUnix": 1776239197,
-    "updatedAt": "2026-06-17T15:42:50.056Z"
+    "updatedAt": "2026-06-29T16:58:27.899Z",
+    "logo": "",
+    "website": "",
+    "description": "",
+    "x": ""
   }
 }
