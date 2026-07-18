@@ -1627,8 +1627,12 @@
     "22": 119107,
     "23": 107228
   },
-  "totalMevFeesMon": 770.5837676097665,
+  "totalMevFeesMon": 1171.7028704621632,
   "topMevEarners": [
+    {
+      "secp": "02b3914ab025eaa7a96bc6b7aa57a1ca0f4eb30df1cdcccdf23f7901a7b08b8f8c",
+      "feesMon": 79.41978344369177
+    },
     {
       "secp": "03f032be493752229481ab235b40d0351e384aeb170d93898f7713b7121460a045",
       "feesMon": 64.08500111382797
@@ -1638,20 +1642,40 @@
       "feesMon": 63.76112886580827
     },
     {
+      "secp": "03010586775441c1ec493cbf0a5c57d235a4e3796f7699e5a9855164529e80dbcf",
+      "feesMon": 49.128003514834745
+    },
+    {
       "secp": "02b234987a9973e08d4ed2e4e73bea572f9eacd0d662ded7033b30305cc9253675",
       "feesMon": 39.24766049716351
+    },
+    {
+      "secp": "02be8ad9e24e8961371832962c09c6948930d927b598f476ceccf1987a27988834",
+      "feesMon": 34.79015239881931
     },
     {
       "secp": "038c5b6ebb7ad2842c2498ca5ca6da348459b259f7d86fad940f13a7bb43ce7325",
       "feesMon": 33.367475038569125
     },
     {
+      "secp": "02407325cfbcbad000da2383d4302db0630c752c1f5ee0690f566a23731000ad59",
+      "feesMon": 32.83175753584405
+    },
+    {
       "secp": "03bb8bce18329820f0e5de815ebebb88a71353f23dfd96a4aa64a1c0cf49ff72f5",
       "feesMon": 31.818922502229515
     },
     {
+      "secp": "021e2253750bc794a45c4e05ffb79d8a111bba50ab117b6de51d0e9bf021381480",
+      "feesMon": 29.145379461201188
+    },
+    {
       "secp": "03603391275fb842731618493c3906057574a54dd66d9df6567d63c906a7c6d4a5",
       "feesMon": 28.388051975528448
+    },
+    {
+      "secp": "022229f3769520b3e071cc713a3a76951042a57802b375af53d82772ff8350017f",
+      "feesMon": 26.746700351189734
     },
     {
       "secp": "03f182d82dcb41e338e77c2aa452d3f8692a83c1d79df98eb6189335451718d0b0",
@@ -1660,6 +1684,10 @@
     {
       "secp": "02d23f55a72a2ca8f1dbd5db73cab09106560530bde243d2bd77af1561a7dde367",
       "feesMon": 24.318870174218
+    },
+    {
+      "secp": "02193d51df38cdad89dbf9df9ed0b4387da426fd25bdb747140fcae7fd5b2733b3",
+      "feesMon": 23.087872417922217
     },
     {
       "secp": "0367c93236ecdda5c02d47f054009bae8f20df8de23ab5bc7e09ef74594d6b6f04",
@@ -1682,6 +1710,10 @@
       "feesMon": 16.266408499887113
     },
     {
+      "secp": "03dc5bc12dcdf8416f5ab83943bcc4655cfb7d3878e557805256fc19bbcf38b5bd",
+      "feesMon": 16.260435019583117
+    },
+    {
       "secp": "03fd1b112e82f4e2f8c9754e1a157c43f0a87dcbf23245775e00a6e53ab263e921",
       "feesMon": 16.13818017676386
     },
@@ -1698,8 +1730,16 @@
       "feesMon": 14.435227743477247
     },
     {
+      "secp": "039c9e3fea41b8bbfac64972d794a7a643d86493f5e23ff2a94555e89ce1ff4662",
+      "feesMon": 14.356261209267
+    },
+    {
       "secp": "03bdd0a2528c617b554d414c4a0e31c5f228e46dc1a2b806f105fcbe078d1b5b56",
       "feesMon": 12.66972544364988
+    },
+    {
+      "secp": "022d5c0916186d979eec4e9fd8fb39c333adc90f2a07d32be9c4ab8b91b9dc1051",
+      "feesMon": 11.811866162493393
     },
     {
       "secp": "0300a4d5f222b25b615c4f2a6ffbedef95ec62a74bc9d56454b8ff390af54cb329",
@@ -1708,6 +1748,10 @@
     {
       "secp": "02201bdea9fd814cd14f725209c18c685f88676deb29d55b3f968da7ae8aff7084",
       "feesMon": 10.866310776976972
+    },
+    {
+      "secp": "033d8d472b5123a5883c9d0786d8a2193bc1df256c6415854ce361f9d319d4e232",
+      "feesMon": 10.055808518039042
     },
     {
       "secp": "031c8bc9614e6d2d9c3642a6cfb2c6edbbcee927db4eec4f21c104f84ee886ece0",
@@ -1746,8 +1790,24 @@
       "feesMon": 7.550151319542373
     },
     {
+      "secp": "03621a38c847c28363182b0df77a4840c6842c06bb5e23609ce01864c47430d392",
+      "feesMon": 7.263157140561586
+    },
+    {
+      "secp": "02fbb9abb43cff6f29a6ca40182e526847ca132d42abab6d1af517c956d19f7c68",
+      "feesMon": 7.227027898798554
+    },
+    {
       "secp": "03c9c18a64fbc3908b4a49b74dea1cd2c0363943c88fa70a32ab12facd80db4f79",
       "feesMon": 7.052558254775531
+    },
+    {
+      "secp": "038d8e900b0ce8a7f30550a643726bfc09243ea08d4f1094bffd1e948948558fed",
+      "feesMon": 6.891683912776415
+    },
+    {
+      "secp": "02e47a97be68f368e2da2b3136a429255f30263619e9e6d9dda6ac89c6ed7e4410",
+      "feesMon": 6.69981989092084
     },
     {
       "secp": "027802cce1bdec2443c4ca67cc7384ccd5087d64acab480c77ce8eb3d515809b44",
@@ -1770,12 +1830,32 @@
       "feesMon": 5.936341083767444
     },
     {
+      "secp": "026c43458dea52f1ad309ef1c9a0eed90f4347146e64074466775675d5942c2a82",
+      "feesMon": 5.850164584176498
+    },
+    {
+      "secp": "02233ab6a178c053ba0c80d37a500a83c5d6e67abd6e2a770f1342463784194b23",
+      "feesMon": 5.4053621346995415
+    },
+    {
       "secp": "0277b331913cb294cc8a43cd56dc31ab0ac77b07e17838ae0ebf970de506bf218d",
       "feesMon": 4.991117346034206
     },
     {
+      "secp": "0223b4d991380e431ae1beb7c4e46fbce62e9028f0c973ccfec124a83fa5fb64a4",
+      "feesMon": 4.840348510793234
+    },
+    {
       "secp": "02ae1ba7bb248a470a5265bd0533e996165952b0535530acc1d75088e9b5854b5c",
       "feesMon": 4.785823340875939
+    },
+    {
+      "secp": "02e98da942b2e114d1d2cee0164742f858c9e162c66d2bbfadc7b81cc61958c0f6",
+      "feesMon": 4.782256324264244
+    },
+    {
+      "secp": "0246a4697342f9701b39edf6faf7fb8ea31c45aed660a6520e2fc46843b76aed5b",
+      "feesMon": 4.730605651444401
     },
     {
       "secp": "0278037b799aa88034aaf4bd205756e08d947761976ae4a82c04a6095739440af8",
@@ -1826,12 +1906,20 @@
       "feesMon": 3.979185492370339
     },
     {
+      "secp": "02330eedcc52e3e82e5aa48d02e4a9a8344504dc94b651f83679147f82910870e8",
+      "feesMon": 3.9579408777084626
+    },
+    {
       "secp": "02fb912814e22af73297934c3cf8574b1e72d0f3b6e94b170e7f9a9da567bfbb4e",
       "feesMon": 3.8259778023050357
     },
     {
       "secp": "03e773631152aa98da046d945f0d410d85369e19764a7f9de77fcb896defe527df",
       "feesMon": 3.742865208451736
+    },
+    {
+      "secp": "03ecfe1a4e3c91d02e8e2572a736fd515895a66af7ef69b1baf868ba802b0af2f0",
+      "feesMon": 3.639714579514211
     },
     {
       "secp": "03e74218cf2b37548ca807c40d075c8a6568ed7aaa8b463248639e7c98cdab02c0",
@@ -1868,6 +1956,10 @@
     {
       "secp": "03bc65605210c522234e6de6db9b16a8fd59fe176c0d739d6b25832f33264fc2b5",
       "feesMon": 3.3483070512071516
+    },
+    {
+      "secp": "035fbf41201677e2b597c24d0f5db8171dc9092b5d05d7d17fd9bb20bf34698cf4",
+      "feesMon": 3.337027838285863
     },
     {
       "secp": "024f7b6efff634056a9b492ee8fd9c1abcca39747bed66f473f3255cc29502cd1d",
@@ -1918,6 +2010,10 @@
       "feesMon": 2.866147898532338
     },
     {
+      "secp": "0214d6f23ff55f848e8b86513569e09e0fae58fcf82fc7b22a9026e8d95e929274",
+      "feesMon": 2.7581546927436995
+    },
+    {
       "secp": "03627607731156bdaecdc2b47aafb021aa1880dc8d05965fb30fd0bc1e937ae8c0",
       "feesMon": 2.6272862842406903
     },
@@ -1928,6 +2024,10 @@
     {
       "secp": "0297a0dd2d9b455482132cd5f30e68fe5e07386a975de07827c0746bfe683490e5",
       "feesMon": 2.2739137855993468
+    },
+    {
+      "secp": "03fdd8ad18412eef357d3904da25b8fdd67034713226cd2832e14129e605b6a643",
+      "feesMon": 2.168374669400457
     },
     {
       "secp": "02341c2d3ee550a2f8d55e2a04a2b322189a8e33c3e88824fadd134c5be64274f6",
@@ -1942,8 +2042,24 @@
       "feesMon": 1.316684647272865
     },
     {
+      "secp": "0202169e1025e8aa4d5979e759dd35e6e4baaa04137289d0651e45d9218b7a9229",
+      "feesMon": 1.186609600476416
+    },
+    {
       "secp": "0281297b4c2c2d3739dc697d3f03fc8c868906f4b7f0722c4576563d87f66b4275",
       "feesMon": 0.811556742279692
+    },
+    {
+      "secp": "0265c19d462f24f7ece64ab180b6c7b893b8a8bc4184df8b7d539093e3d5daffee",
+      "feesMon": 0.7982634070157544
+    },
+    {
+      "secp": "031c0cdc0789b9eb9b9c044610d2417e12eaca6770226c08d7042853fdf0ec7f53",
+      "feesMon": 0.7617579207726217
+    },
+    {
+      "secp": "0338e91fbb59ff2b060642bb4ad9458b3f0371c89ed3507df5a4751e2c1b8bdeb4",
+      "feesMon": 0.6330430882487954
     },
     {
       "secp": "026078bd2db91f27c1222575d429c42db6e2e4eeeb3a7b6e156518c04f564dee96",
@@ -1954,8 +2070,16 @@
       "feesMon": 0.5103547225649264
     },
     {
+      "secp": "02db843f6701ef00022026b08e0276d25791dcd11ea54e69538cac1550886f685a",
+      "feesMon": 0.4907682692525007
+    },
+    {
       "secp": "020c05dedec1dd1c1aa1da4b9772660ddb27c9fc5d5333750db159f4a516ae50b7",
       "feesMon": 0.3963095957383567
+    },
+    {
+      "secp": "036e44a092493800e427b2b08d3427d804348b1368ecd0a6af6510ae40ce507187",
+      "feesMon": 0.06300181091628831
     },
     {
       "secp": "036ba50b2859bc05e5e1bbb708855ecd18d1054fb199c32683169432e57c9fa57f",
@@ -1970,6 +2094,14 @@
       "feesMon": 0.000001800000054
     },
     {
+      "secp": "0268d8a8ae2a40524ff912b31adabe3fb5d8ef00660ca55fd1839063812364aa38",
+      "feesMon": 1.3320117e-8
+    },
+    {
+      "secp": "03c4a66f8b3febbe8785d865703f29a99dfb72e59c43d90a9be8f793c221f36b09",
+      "feesMon": 3.420036e-9
+    },
+    {
       "secp": "02a379e003a9011338ddc96b58165c29d81e11a72cb692d2366dc2485fc84dbe95",
       "feesMon": 9.9e-14
     },
@@ -1978,7 +2110,19 @@
       "feesMon": 7.2e-14
     },
     {
+      "secp": "03c5dad0bb02231acec5c148d92a1e547099533b68d8b9be9b53cf24e461c83f45",
+      "feesMon": 7.2e-14
+    },
+    {
+      "secp": "02e76d2234a9cd9f25bac7ef946fc71a3102e95e5c4498c559d0127b06a5c63eff",
+      "feesMon": 5.4e-14
+    },
+    {
       "secp": "02d27a97adf64efd74b72b2f274eb1fedf54569f6ca3bc5636274190166f26988a",
+      "feesMon": 4.5e-14
+    },
+    {
+      "secp": "027f794d35a37c17b7ea1ccc0bfe1e368b3bc978a3f9b8a84ab575da63513da42c",
       "feesMon": 4.5e-14
     }
   ]
