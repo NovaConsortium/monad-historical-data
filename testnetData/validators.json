@@ -3549,16 +3549,16 @@
   },
   "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9": {
     "secp": "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9",
-    "name": "Jichu",
+    "name": "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9",
     "validatorAddress": "0x9d2F70C8EB1aEeFaFa37b4b64aA791494514C9D6",
     "operatorAddress": "0x724fc9B7AC82479a0D4ed7cbdc8F1b0225Fd3e6B",
     "registrationDate": "2026-02-15T23:43:22.000Z",
     "registrationUnix": 1771199002,
-    "updatedAt": "2026-07-28T15:07:40.549Z",
-    "logo": "https://raw.githubusercontent.com/jichu-labs/brand/refs/heads/main/Avatars/Avatar%201024x1024.png",
-    "website": "https://jichu.xyz/",
-    "description": "Monad's Leading Staking & API Platform",
-    "x": "https://x.com/jichu_xyz"
+    "updatedAt": "2026-07-28T15:37:40.556Z",
+    "logo": "",
+    "website": "",
+    "description": "",
+    "x": ""
   },
   "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa": {
     "secp": "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa",
