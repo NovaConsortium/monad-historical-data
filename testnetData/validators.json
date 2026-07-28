@@ -3549,16 +3549,16 @@
   },
   "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9": {
     "secp": "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9",
-    "name": "02b9697a0de8b76f66aa22fab7d7a4079c3ea72b754e6ec5c5d2c068e2de2b91a9",
+    "name": "Jichu",
     "validatorAddress": "0x9d2F70C8EB1aEeFaFa37b4b64aA791494514C9D6",
     "operatorAddress": "0x724fc9B7AC82479a0D4ed7cbdc8F1b0225Fd3e6B",
     "registrationDate": "2026-02-15T23:43:22.000Z",
     "registrationUnix": 1771199002,
-    "updatedAt": "2026-06-29T16:58:27.899Z",
-    "logo": "",
-    "website": "",
-    "description": "",
-    "x": ""
+    "updatedAt": "2026-07-28T15:07:40.549Z",
+    "logo": "https://raw.githubusercontent.com/jichu-labs/brand/refs/heads/main/Avatars/Avatar%201024x1024.png",
+    "website": "https://jichu.xyz/",
+    "description": "Monad's Leading Staking & API Platform",
+    "x": "https://x.com/jichu_xyz"
   },
   "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa": {
     "secp": "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa",
@@ -3592,6 +3592,11 @@
     "operatorAddress": "0x0aa2abaf175124abc9198cac888ba768e0d8d5e5",
     "registrationDate": "2026-07-27T23:42:10.000Z",
     "registrationUnix": 1785195730,
-    "updatedAt": "2026-07-28T00:07:40.553Z"
+    "updatedAt": "2026-07-28T15:07:40.549Z",
+    "name": "MAVAN",
+    "logo": "https://app.mavan.bitminetech.io/img/logo/MAVAN_Logomark_White_Eagle_512.png",
+    "website": "https://www.bitminetech.io/",
+    "description": "MAVAN is the largest single staking operation in the world, providing institutional-grade non-custodial staking services. MAVAN is a Bitmine Immersion Technologies, Inc. (NYSE: BMNR) company.",
+    "x": "https://x.com/BitMNR"
   }
 }
