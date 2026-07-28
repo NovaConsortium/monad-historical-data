@@ -3585,5 +3585,13 @@
     "website": "",
     "description": "",
     "x": ""
+  },
+  "02140511ed2156a2c4b6561c08a5eaf0cf9d756e8fab5cde231a8653835d58da0a": {
+    "secp": "02140511ed2156a2c4b6561c08a5eaf0cf9d756e8fab5cde231a8653835d58da0a",
+    "validatorAddress": "0x900080f0efdf8715d81c2e4e9f85663726d21705",
+    "operatorAddress": "0x0aa2abaf175124abc9198cac888ba768e0d8d5e5",
+    "registrationDate": "2026-07-27T23:42:10.000Z",
+    "registrationUnix": 1785195730,
+    "updatedAt": "2026-07-28T00:07:40.553Z"
   }
 }
