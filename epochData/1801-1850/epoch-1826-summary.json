@@ -1626,7 +1626,7 @@
     "8": 152214,
     "9": 32469
   },
-  "totalMevFeesMon": 1036.3629276513282,
+  "totalMevFeesMon": 1040.5760451133488,
   "topMevEarners": [
     {
       "secp": "02b3914ab025eaa7a96bc6b7aa57a1ca0f4eb30df1cdcccdf23f7901a7b08b8f8c",
@@ -2017,12 +2017,20 @@
       "feesMon": 2.275353962654298
     },
     {
+      "secp": "03591c258273e0984aac77dc41bd69b4e2e1a4ce949f1f107c2e6944c95a16eb16",
+      "feesMon": 2.2301841243721645
+    },
+    {
       "secp": "03e74218cf2b37548ca807c40d075c8a6568ed7aaa8b463248639e7c98cdab02c0",
       "feesMon": 2.2084525374213064
     },
     {
       "secp": "035c93d470471aea2f68fc7016491bf5a2f38a084bfa0412e1960dae14ac2338e3",
       "feesMon": 2.0100967473077853
+    },
+    {
+      "secp": "03b4eccea3a134db62d4e8a38b3f16961d648f12a5543db4e42ff7854798bdb02a",
+      "feesMon": 1.9829333376482887
     },
     {
       "secp": "03073b13f1423e9112b7627edb8545cc1466ce6e3f7b025c24b089b2b2a58fa54f",
