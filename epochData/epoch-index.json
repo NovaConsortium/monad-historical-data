@@ -5469,5 +5469,14 @@
     "totalTimeouts": 22,
     "dayOfWeek": "Friday",
     "totalMevFeesMon": 1172.511969172627
+  },
+  {
+    "epoch": "1838",
+    "totalBlocks": 49999,
+    "totalTxCount": 667888,
+    "totalPriorityFeesMon": 4252.012820988558,
+    "totalTimeouts": 2,
+    "dayOfWeek": "Friday",
+    "totalMevFeesMon": 1035.0202650419135
   }
 ]
