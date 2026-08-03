@@ -3605,6 +3605,11 @@
     "operatorAddress": "0x0d6ce8899706af43f46e38909f0594306a396046",
     "registrationDate": "2026-08-03T11:33:37.000Z",
     "registrationUnix": 1785756817,
-    "updatedAt": "2026-08-03T11:38:17.737Z"
+    "updatedAt": "2026-08-03T16:08:17.270Z",
+    "name": "xLabs",
+    "logo": "https://xlabs.xyz/xlabs.png",
+    "website": "https://xlabs.xyz",
+    "description": "Core infrastructure for the internet of value",
+    "x": "https://x.com/xLabsxyz"
   }
 }
