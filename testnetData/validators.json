@@ -3598,5 +3598,13 @@
     "website": "https://www.bitminetech.io/",
     "description": "MAVAN is the largest single staking operation in the world, providing institutional-grade non-custodial staking services. MAVAN is a Bitmine Immersion Technologies, Inc. (NYSE: BMNR) company.",
     "x": "https://x.com/BitMNR"
+  },
+  "0283dbf6d3e98e49769532b21c0ba1e0c661c753ce2278299eef6162418ac18522": {
+    "secp": "0283dbf6d3e98e49769532b21c0ba1e0c661c753ce2278299eef6162418ac18522",
+    "validatorAddress": "0xbc1bb82525acaa83de47a6268d5a73d96486f460",
+    "operatorAddress": "0x0d6ce8899706af43f46e38909f0594306a396046",
+    "registrationDate": "2026-08-03T11:33:37.000Z",
+    "registrationUnix": 1785756817,
+    "updatedAt": "2026-08-03T11:38:17.737Z"
   }
 }
