@@ -3611,5 +3611,13 @@
     "website": "https://xlabs.xyz",
     "description": "Core infrastructure for the internet of value",
     "x": "https://x.com/xLabsxyz"
+  },
+  "02ee6af4e7dc0120a41bf76ef9810c98c9b85ebb2fcf50e51b03a6e64c2ee4000e": {
+    "secp": "02ee6af4e7dc0120a41bf76ef9810c98c9b85ebb2fcf50e51b03a6e64c2ee4000e",
+    "validatorAddress": "0x43d4df3278fff8f52ae2bc252830207d5826aae3",
+    "operatorAddress": "0x745a60bec9a50981871dcb1616869ce9139a611b",
+    "registrationDate": "2026-08-21T19:47:23.000Z",
+    "registrationUnix": 1787341643,
+    "updatedAt": "2026-08-21T20:27:15.715Z"
   }
 }
