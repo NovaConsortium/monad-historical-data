@@ -1611,7 +1611,7 @@
     "22": 226244,
     "23": 210138
   },
-  "totalMevFeesMon": 5446.913318382133,
+  "totalMevFeesMon": 5718.089292261249,
   "topMevEarners": [
     {
       "secp": "02b3914ab025eaa7a96bc6b7aa57a1ca0f4eb30df1cdcccdf23f7901a7b08b8f8c",
@@ -1682,6 +1682,10 @@
       "feesMon": 100.78926790110562
     },
     {
+      "secp": "02a5f68ebdd506ea06ecb6aa9e25fc0d1702d95646122ccf9310602a33d19dc44e",
+      "feesMon": 98.23492184158683
+    },
+    {
       "secp": "0367c93236ecdda5c02d47f054009bae8f20df8de23ab5bc7e09ef74594d6b6f04",
       "feesMon": 98.09237861275679
     },
@@ -1696,6 +1700,10 @@
     {
       "secp": "022229f3769520b3e071cc713a3a76951042a57802b375af53d82772ff8350017f",
       "feesMon": 87.97297470168907
+    },
+    {
+      "secp": "03fd1b112e82f4e2f8c9754e1a157c43f0a87dcbf23245775e00a6e53ab263e921",
+      "feesMon": 85.34778276020603
     },
     {
       "secp": "0212c604e7819769ac911dc34770760f6aba45934d1af6249c6827e79f0edb27a1",
@@ -1838,6 +1846,10 @@
       "feesMon": 25.871151330994973
     },
     {
+      "secp": "02ae1ba7bb248a470a5265bd0533e996165952b0535530acc1d75088e9b5854b5c",
+      "feesMon": 25.666453840142193
+    },
+    {
       "secp": "03b8aea4bde62774f18b0d80de4ce03bcfa55de6e4fc310b0803a0bb7eaffbb562",
       "feesMon": 25.031390906642116
     },
@@ -1860,6 +1872,10 @@
     {
       "secp": "035159ba3d75b8ad09436873c4b7a598b59732eb7a3dbe3a37bd73d0c4dcd49128",
       "feesMon": 24.159433440708423
+    },
+    {
+      "secp": "03b64d022f68f530fdfd75eb57014aff5a4d8416dfa8f41a39b40f68f2c5d4bcbb",
+      "feesMon": 23.888124012210525
     },
     {
       "secp": "03621a38c847c28363182b0df77a4840c6842c06bb5e23609ce01864c47430d392",
@@ -1904,6 +1920,14 @@
     {
       "secp": "03bc65605210c522234e6de6db9b16a8fd59fe176c0d739d6b25832f33264fc2b5",
       "feesMon": 18.773289391905237
+    },
+    {
+      "secp": "0277b331913cb294cc8a43cd56dc31ab0ac77b07e17838ae0ebf970de506bf218d",
+      "feesMon": 18.070486744516415
+    },
+    {
+      "secp": "02fb912814e22af73297934c3cf8574b1e72d0f3b6e94b170e7f9a9da567bfbb4e",
+      "feesMon": 17.569457474944397
     },
     {
       "secp": "0372dc8eea0084001562484d5ebe9f12ede39d0bda8f4e027b9961f3296a7446ad",
@@ -2032,6 +2056,10 @@
     {
       "secp": "0281297b4c2c2d3739dc697d3f03fc8c868906f4b7f0722c4576563d87f66b4275",
       "feesMon": 2.655592720742275
+    },
+    {
+      "secp": "026078bd2db91f27c1222575d429c42db6e2e4eeeb3a7b6e156518c04f564dee96",
+      "feesMon": 2.39874720550936
     },
     {
       "secp": "0265c19d462f24f7ece64ab180b6c7b893b8a8bc4184df8b7d539093e3d5daffee",
