@@ -3619,5 +3619,13 @@
     "registrationDate": "2026-08-21T19:47:23.000Z",
     "registrationUnix": 1787341643,
     "updatedAt": "2026-08-21T20:27:15.715Z"
+  },
+  "03356114d3a9e46a38540e9896e744aac19635f8a275e73a2ca9b8416451923613": {
+    "secp": "03356114d3a9e46a38540e9896e744aac19635f8a275e73a2ca9b8416451923613",
+    "validatorAddress": "0x585887d9123af1d667b84883d9757db6b828b5d1",
+    "operatorAddress": "0x4e7d2e8ab8e7d493ef2ab7e8ac54f491a3741efe",
+    "registrationDate": "2026-09-14T08:38:09.000Z",
+    "registrationUnix": 1789375089,
+    "updatedAt": "2026-09-14T09:05:35.560Z"
   }
 }
