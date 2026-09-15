@@ -7792,5 +7792,13 @@
     "totalPriorityFeesMon": 10407.507362517843,
     "totalTimeouts": 0,
     "dayOfWeek": "Tuesday"
+  },
+  {
+    "epoch": "2101",
+    "totalBlocks": 49994,
+    "totalTxCount": 970737,
+    "totalPriorityFeesMon": 10627.446204105598,
+    "totalTimeouts": 0,
+    "dayOfWeek": "Tuesday"
   }
 ]
