@@ -1368,10 +1368,10 @@
     "secp": "03268b3d4c1fac09f737dbba157ec5992e794b8b7877ebeea6a2c4dd5a00ad53d0",
     "name": "Encapsulate",
     "logo": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png",
-    "website": "https://encapsulate.xyz/",
-    "description": "Backed by five years of experience, Encapsulate secures 40+ networks with nearly half a billion dollars in delegated stake, delivering industry-leading uptime, rigorous security, and community-driven open-source tools.",
-    "x": "https://x.com/encapsulate_xyz",
-    "updatedAt": "2026-05-31T19:21:51.967Z",
+    "website": "https://encapsulate.xyz",
+    "description": "Validator infrastructure for new chains, since 2020. Early to testnet, quick to upgrade, easy to reach. Trusted by Sui, NEAR, Monad, Lido, Starknet and more.",
+    "x": "https://x.com/encapHQ",
+    "updatedAt": "2026-09-30T07:51:59.049Z",
     "validatorAddress": "0xFB7102bA1a9F38B0A295D044ee92E615b65AB826",
     "operatorAddress": "0xc92B4b9bf688BB222E2177D42974a0C8A78619c9",
     "registrationDate": "2025-12-16T19:12:13.000Z",
@@ -3627,5 +3627,13 @@
     "registrationDate": "2026-09-14T08:38:09.000Z",
     "registrationUnix": 1789375089,
     "updatedAt": "2026-09-14T09:05:35.560Z"
+  },
+  "03f6a84f81076be83e79b1926d1c9e2ea56a7e6170ba46425149908b24ed5267a6": {
+    "secp": "03f6a84f81076be83e79b1926d1c9e2ea56a7e6170ba46425149908b24ed5267a6",
+    "validatorAddress": "0x8258fa62fd3411f2867cec8e577bb80626b655c1",
+    "operatorAddress": "0x750394dc49eaf27003afbd23776463f6d316f7b4",
+    "registrationDate": "2026-09-30T07:30:58.000Z",
+    "registrationUnix": 1790753458,
+    "updatedAt": "2026-09-30T07:51:59.049Z"
   }
 }
