@@ -8551,6 +8551,7 @@
     "totalTxCount": 973386,
     "totalPriorityFeesMon": 12518.953132711451,
     "totalTimeouts": 7,
-    "dayOfWeek": "Wednesday"
+    "dayOfWeek": "Wednesday",
+    "totalMevFeesMon": 7730.701554937648
   }
 ]
