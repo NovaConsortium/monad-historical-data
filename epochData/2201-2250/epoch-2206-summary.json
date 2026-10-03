@@ -1610,11 +1610,15 @@
     "21": 208241,
     "22": 179599
   },
-  "totalMevFeesMon": 4987.153386275396,
+  "totalMevFeesMon": 5378.660006447171,
   "topMevEarners": [
     {
       "secp": "0367c93236ecdda5c02d47f054009bae8f20df8de23ab5bc7e09ef74594d6b6f04",
       "feesMon": 1135.781723184923
+    },
+    {
+      "secp": "0375209497554dd98f34d3e14ba2886fe09d53455a154e3c56689b7ebbac81433c",
+      "feesMon": 391.50662017177564
     },
     {
       "secp": "0315f4f2df2dbcf09bb71c348840764c0e415e4b6e9f1340fd6980bdb98a7e6dda",
