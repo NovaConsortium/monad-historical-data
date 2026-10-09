@@ -3618,7 +3618,12 @@
     "operatorAddress": "0x745a60bec9a50981871dcb1616869ce9139a611b",
     "registrationDate": "2026-08-21T19:47:23.000Z",
     "registrationUnix": 1787341643,
-    "updatedAt": "2026-08-21T20:27:15.715Z"
+    "updatedAt": "2026-10-09T08:19:23.603Z",
+    "name": "BeeHive",
+    "logo": "https://github.com/BeeHiveTeam.png",
+    "website": "https://monad-tech.com",
+    "description": "BeeHive is an independent node operator running validators and full nodes on Monad, Ethereum (Lido/Obol) and Cosmos networks. We build and publish open-source operator tooling, including node health diagnostics and Grafana monitoring stacks for Monad.",
+    "x": "https://x.com/BeeHive_NT"
   },
   "03356114d3a9e46a38540e9896e744aac19635f8a275e73a2ca9b8416451923613": {
     "secp": "03356114d3a9e46a38540e9896e744aac19635f8a275e73a2ca9b8416451923613",
@@ -3626,7 +3631,12 @@
     "operatorAddress": "0x4e7d2e8ab8e7d493ef2ab7e8ac54f491a3741efe",
     "registrationDate": "2026-09-14T08:38:09.000Z",
     "registrationUnix": 1789375089,
-    "updatedAt": "2026-09-14T09:05:35.560Z"
+    "updatedAt": "2026-10-09T08:19:23.603Z",
+    "name": "MEXC",
+    "logo": "",
+    "website": "https://www.mexc.com",
+    "description": "MEXC Test",
+    "x": "https://x.com/MEXC"
   },
   "03f6a84f81076be83e79b1926d1c9e2ea56a7e6170ba46425149908b24ed5267a6": {
     "secp": "03f6a84f81076be83e79b1926d1c9e2ea56a7e6170ba46425149908b24ed5267a6",
