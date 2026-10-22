@@ -9630,6 +9630,16 @@
     "totalTxCount": 1014114,
     "totalPriorityFeesMon": 8957.885784955888,
     "totalTimeouts": 0,
-    "dayOfWeek": "Wednesday"
+    "dayOfWeek": "Wednesday",
+    "totalMevFeesMon": 3495.5722186382645
+  },
+  {
+    "epoch": "2310",
+    "totalBlocks": 49681,
+    "totalTxCount": 1071862,
+    "totalPriorityFeesMon": 12023.141018800172,
+    "totalTimeouts": 1,
+    "dayOfWeek": "Wednesday",
+    "totalMevFeesMon": 432.21287018126077
   }
 ]
