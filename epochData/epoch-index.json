@@ -10296,6 +10296,25 @@
     "totalTxCount": 1002997,
     "totalPriorityFeesMon": 11467.417539144697,
     "totalTimeouts": 109,
-    "dayOfWeek": "Tuesday"
+    "dayOfWeek": "Tuesday",
+    "totalMevFeesMon": 4054.0321879816534
+  },
+  {
+    "epoch": "2384",
+    "totalBlocks": 49985,
+    "totalTxCount": 1327757,
+    "totalPriorityFeesMon": 16132.431305094691,
+    "totalTimeouts": 92,
+    "dayOfWeek": "Tuesday",
+    "totalMevFeesMon": 4452.342712114834
+  },
+  {
+    "epoch": "2385",
+    "totalBlocks": 49999,
+    "totalTxCount": 1230452,
+    "totalPriorityFeesMon": 22162.351654885828,
+    "totalTimeouts": 85,
+    "dayOfWeek": "Wednesday",
+    "totalMevFeesMon": 668.0278199719504
   }
 ]
