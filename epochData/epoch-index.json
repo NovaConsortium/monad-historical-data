@@ -10522,7 +10522,7 @@
     "totalPriorityFeesMon": 1174.552164057356,
     "totalTimeouts": 82,
     "dayOfWeek": "Sunday",
-    "totalMevFeesMon": 1037.7756100952815
+    "totalMevFeesMon": 1158.317167607637
   },
   {
     "epoch": "2409",
@@ -10531,6 +10531,6 @@
     "totalPriorityFeesMon": 1383.465415383713,
     "totalTimeouts": 86,
     "dayOfWeek": "Sunday",
-    "totalMevFeesMon": 100.37889744169408
+    "totalMevFeesMon": 1453.1567598118272
   }
 ]
