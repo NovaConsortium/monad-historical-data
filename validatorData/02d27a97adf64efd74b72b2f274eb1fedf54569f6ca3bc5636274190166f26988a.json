@@ -326227,7 +326227,8 @@
       "priorityFeesMon": 31.405706991950264,
       "txCount": 1982,
       "stake": "110576667",
-      "commission": "1500"
+      "commission": "1500",
+      "mevFeesEarned": 12.602499960597111
     }
   ]
 }
