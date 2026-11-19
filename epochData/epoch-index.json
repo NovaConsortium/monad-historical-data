@@ -10756,5 +10756,31 @@
     "totalTimeouts": 352,
     "dayOfWeek": "Wednesday",
     "totalMevFeesMon": 547.1063355625198
+  },
+  {
+    "epoch": "2467",
+    "totalBlocks": 12651,
+    "totalTxCount": 318141,
+    "totalPriorityFeesMon": 5488.2962660905605,
+    "totalTimeouts": 274,
+    "dayOfWeek": "Wednesday",
+    "totalMevFeesMon": 3748.8269024171195
+  },
+  {
+    "epoch": "2468",
+    "totalBlocks": 12453,
+    "totalTxCount": 331456,
+    "totalPriorityFeesMon": 3792.7884749436275,
+    "totalTimeouts": 409,
+    "dayOfWeek": "Wednesday",
+    "totalMevFeesMon": 2903.0163503075623
+  },
+  {
+    "epoch": "2469",
+    "totalBlocks": 0,
+    "totalTxCount": 0,
+    "totalPriorityFeesMon": 0,
+    "totalTimeouts": 242,
+    "dayOfWeek": "Unknown"
   }
 ]
