@@ -1,0 +1,29 @@
+{
+  "epoch": "2469",
+  "startTimestampMs": 0,
+  "endTimestampMs": 0,
+  "durationMs": 0,
+  "dayOfWeek": "Unknown",
+  "totalBlocks": 0,
+  "totalTimeouts": 242,
+  "totalTxCount": 0,
+  "totalPriorityFeesMon": 0,
+  "uniqueValidators": 0,
+  "topBlockProducers": [],
+  "topFeeEarners": [],
+  "largestBlockByTx": null,
+  "largestBlockByFees": null,
+  "activityBySegment": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "activityByHour": {}
+}
