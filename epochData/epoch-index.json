@@ -10781,6 +10781,7 @@
     "totalTxCount": 0,
     "totalPriorityFeesMon": 0,
     "totalTimeouts": 242,
-    "dayOfWeek": "Unknown"
+    "dayOfWeek": "Unknown",
+    "totalMevFeesMon": 2842.6991045508626
   }
 ]
