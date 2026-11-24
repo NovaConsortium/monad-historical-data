@@ -3665,6 +3665,20 @@
     "operatorAddress": "0x72513e4221ab1c9baa78cf02fbb2d814339bea6f",
     "registrationDate": "2026-11-19T07:51:09.000Z",
     "registrationUnix": 1795074669,
-    "updatedAt": "2026-11-19T07:52:03.043Z"
+    "updatedAt": "2026-11-24T18:38:43.280Z",
+    "name": "ZAN",
+    "logo": "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/827401/ZAN_PNG_Large-e6cacee5-0e6c-4a54-a430-6ce3ef8a06fd.png",
+    "website": "https://zan.top/",
+    "description": "Ignite Monad Ecosystem with ZAN Ultra Reliable Web3 Node Infrastructure.",
+    "x": "https://x.com/zan_team"
+  },
+  "038f0421b358c726e3ff378b2d2df140ffc1b3b19db8e3d926b217490033850c78": {
+    "secp": "038f0421b358c726e3ff378b2d2df140ffc1b3b19db8e3d926b217490033850c78",
+    "name": "Vault Staking",
+    "logo": "https://snapshots-eu.vaultstaking.com/assets/vaultstaking-logo.png",
+    "website": "https://www.vaultstaking.com/",
+    "description": "Trust the Vault. Stake. Earn Rewards.",
+    "x": "https://x.com/vaultstaking",
+    "updatedAt": "2026-11-23T07:07:40.752Z"
   }
 }
